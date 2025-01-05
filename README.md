@@ -29,13 +29,7 @@ A curated list of awesome papers on dataset reduction, including dataset distill
 ## 💬 <span id="head1"> *Keywords* </span>
 ![](https://img.shields.io/badge/Method_Abbreviation-blue) ![](https://img.shields.io/badge/Data_Domain-green)  ![](https://img.shields.io/badge/Reduction_Criteria-red) ![](https://img.shields.io/badge/Reduction_Mechanism-orange)
 
-## 🧑‍💻 Contribution
 
-👏 Thanks to these contributors for this excellent work！
-
-<a href="https://github.com/gszfwsb/Awesome-Dataset-Reduction/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=gszfwsb/Awesome-Dataset-Reduction" />
-</a>
 
 
 ## :star: Star Trends
@@ -46,4 +40,12 @@ A curated list of awesome papers on dataset reduction, including dataset distill
     <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=gszfwsb/Awesome-Dataset-Reduction&type=Date" />
     <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=gszfwsb/Awesome-Dataset-Reduction&type=Date" />
   </picture>
+</a>
+
+## 🧑‍💻 Contribution
+
+👏 Thanks to these contributors for this excellent work！
+
+<a href="https://github.com/gszfwsb/Awesome-Dataset-Reduction/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=gszfwsb/Awesome-Dataset-Reduction" />
 </a>
