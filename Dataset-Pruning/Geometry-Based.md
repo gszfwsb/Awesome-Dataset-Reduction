@@ -9,7 +9,7 @@
 
 - **[2]  Moderate coreset: A universal method of data selection for real-world data-efficient deep learning**, ICLR.  
 *Xiaobo Xia, Jiale Liu, Jun Yu, Xu Shen, Bo Han, Tongliang Liu*  
-![](https://img.shields.io/badge/Moderate-DS-blue) ![](https://img.shields.io/badge/Image_Classification-green)  ![](https://img.shields.io/badge/Geometry-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
+![](https://img.shields.io/badge/Moderate_DS-blue) ![](https://img.shields.io/badge/Image_Classification-green)  ![](https://img.shields.io/badge/Geometry-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
 <a href="https://drive.google.com/file/d/1ZZAxIG9xkz0oOar68WJP0O35151TVy-t/view"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a>
 <a href="https://github.com/tmllab/2023_ICLR_Moderate-DS"><img src="https://img.shields.io/badge/GitHub-Code-brightgreen?logo=github" alt="Code Badge"></a>
 
