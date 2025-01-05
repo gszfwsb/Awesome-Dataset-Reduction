@@ -15,7 +15,7 @@ A curated list of awesome papers on dataset reduction, including dataset distill
 
 ## 🔥 <span id="head1"> *News* </span>
 
-* `2024/12/24` 🤗🤗 We release an open-sourse repo "[Awesome Dataset Reduction](https://github.com/gszfwsb/Awesome-Dataset-Reduction)", which collects recent awesome token reduction papers! Feel free to contribute your suggestions!
+* `2025/1/5` 🤗🤗 We release an open-sourse repo "[Awesome Dataset Reduction](https://github.com/gszfwsb/Awesome-Dataset-Reduction)", which collects recent awesome dataset reduction papers! Feel free to contribute your suggestions!
 
     
 ## 💬 <span id="head1"> *Keywords* </span>
