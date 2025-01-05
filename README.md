@@ -36,3 +36,14 @@ A curated list of awesome papers on dataset reduction, including dataset distill
 <a href="https://github.com/gszfwsb/Awesome-Dataset-Reduction/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=gszfwsb/Awesome-Dataset-Reduction" />
 </a>
+
+
+## :star: Star Trends
+
+<a href="https://star-history.com/#gszfwsb/Awesome-Dataset-Reduction&Date">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=gszfwsb/Awesome-Dataset-Reduction&type=Date&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=gszfwsb/Awesome-Dataset-Reduction&type=Date" />
+    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=gszfwsb/Awesome-Dataset-Reduction&type=Date" />
+  </picture>
+</a>
