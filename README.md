@@ -1,6 +1,8 @@
 # 🔎 Awesome Dataset Reduction 🚀
 A curated list of awesome papers on dataset reduction, including dataset distillation and dataset pruning (coreset selection).
 
+
+
 <div align=center>
 
 
@@ -12,6 +14,12 @@ A curated list of awesome papers on dataset reduction, including dataset distill
 
 
 </div>
+
+
+## 🎉 <span id="head1"> *About* </span>
+- This is a platform to get the **latest research** on different kinds of Dataset Reduction methods, including **dataset distillation** and **dataset reduction**. Also, we will release a **survey** based on these wonderful works.
+- If you want to **cite our work**, here is our bibtex entry: [CITATION.bib](./CITATION.bib).
+- If you want to contribute to this repo, please directly contact us!
 
 ## 🔥 <span id="head1"> *News* </span>
 
