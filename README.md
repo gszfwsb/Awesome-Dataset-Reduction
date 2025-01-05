@@ -19,7 +19,7 @@ A curated list of awesome papers on dataset reduction, including dataset distill
 
     
 ## 💬 <span id="head1"> *Keywords* </span>
-![](https://img.shields.io/badge/Method_Abbreviation-blue) ![](https://img.shields.io/badge/Downstream_Application-green)  ![](https://img.shields.io/badge/W./W.O._Training-brown) ![](https://img.shields.io/badge/Reduction_Criteria-purple) ![](https://img.shields.io/badge/Reduction_Mechanism-orange)
+![](https://img.shields.io/badge/Method_Abbreviation-blue) ![](https://img.shields.io/badge/Downstream_Application-green)  ![](https://img.shields.io/badge/Reduction_Criteria-red) ![](https://img.shields.io/badge/Reduction_Mechanism-orange)
 
 ## 🧑‍💻 Contribution
 
