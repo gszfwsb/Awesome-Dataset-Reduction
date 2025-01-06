@@ -16,17 +16,17 @@ A curated list of awesome papers on dataset reduction, including dataset distill
 </div>
 
 
-## 🎉 <span id="head1"> *About* </span>
+## 🎉 About
 - This is a platform to get the **latest research** on different kinds of Dataset Reduction methods, including **dataset distillation** and **dataset reduction**. Also, we will release a **survey** based on these wonderful works.
 - If you want to **cite our work**, here is our bibtex entry: [CITATION.bib](./CITATION.bib).
 - If you want to contribute to this repo, please directly contact us!
 
-## 🔥 <span id="head1"> *News* </span>
+## 🔥 News
 
 * `2025/1/5` 🤗🤗 We release an open-sourse repo "[Awesome Dataset Reduction](https://github.com/gszfwsb/Awesome-Dataset-Reduction)", which collects recent awesome dataset reduction papers! Feel free to contribute your suggestions!
 
     
-## 💬 <span id="head1"> *Keywords* </span>
+## 💬 Keywords
 ![](https://img.shields.io/badge/Method_Abbreviation-blue) ![](https://img.shields.io/badge/Data_Domain-green)  ![](https://img.shields.io/badge/Reduction_Criteria-red) ![](https://img.shields.io/badge/Reduction_Mechanism-orange)
 
 ## :star: Star Trends
