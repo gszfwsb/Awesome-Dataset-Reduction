@@ -1,16 +1,29 @@
 ### 🖼️ Geometry-Based Methods
 
-
+#### 2023
 - **[1] Coverage-centric coreset selection for high pruning rates**, ICLR.  
 *Haizhong Zheng, Rui Liu, Fan Lai, Atul Prakash*  
 ![](https://img.shields.io/badge/CCS-blue) ![](https://img.shields.io/badge/Image_Classification-green)  ![](https://img.shields.io/badge/Geometry-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
 <a href="https://fanlai.me/assets/papers/coreset-iclr23.pdf"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a>
 <a href="https://github.com/haizhongzheng/Coverage-centric-coreset-selection"><img src="https://img.shields.io/badge/GitHub-Code-brightgreen?logo=github" alt="Code Badge"></a>
+    <details> <summary>BibTex</summary>
+
+    ```bibtex
+    @article{zheng2022coverage,
+    title={Coverage-centric coreset selection for high pruning rates},
+    author={Zheng, Haizhong and Liu, Rui and Lai, Fan and Prakash, Atul},
+    journal={arXiv preprint arXiv:2210.15809},
+    year={2022}
+    }
+    ```
+
+    </details> 
+
 
 - **[2]  Moderate coreset: A universal method of data selection for real-world data-efficient deep learning**, ICLR.  
 *Xiaobo Xia, Jiale Liu, Jun Yu, Xu Shen, Bo Han, Tongliang Liu*  
 ![](https://img.shields.io/badge/ModerateDS-blue) ![](https://img.shields.io/badge/Image_Classification-green)  ![](https://img.shields.io/badge/Geometry-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
-<a href="https://drive.google.com/file/d/1ZZAxIG9xkz0oOar68WJP0O35151TVy-t/view"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a>
+<a href="https://openreview.net/pdf?id=7D5EECbOaf9"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a>
 <a href="https://github.com/tmllab/2023_ICLR_Moderate-DS"><img src="https://img.shields.io/badge/GitHub-Code-brightgreen?logo=github" alt="Code Badge"></a>
 
 - **[3]  Contributing Dimension Structure of Deep Feature for Coreset Selection**, AAAI.  
