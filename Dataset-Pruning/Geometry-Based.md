@@ -1,5 +1,24 @@
 ### 🖼️ Geometry-Based Methods
 
+#### 2001
+- **[1] Incremental classifier and representation learning**, CVPR 2001.  
+*Sylvestre-Alvise Rebuffi, Alexander Kolesnikov, Georg Sperl, Christoph H. Lampert, and others.*  
+![](https://img.shields.io/badge/iCaRL-blue) ![](https://img.shields.io/badge/Image_Synthesis-green)  ![](https://img.shields.io/badge/Geometry-red) ![](https://img.shields.io/badge/Incremental_Learning-orange)
+<a href="https://openaccess.thecvf.com/content_cvpr_2017/poster/739_POSTER.pdf"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a>
+    <details> <summary>BibTex</summary>
+
+    ```bibtex
+    @inproceedings{rebuffi2001incremental,
+    title={Incremental classifier and representation learning},
+    author={Rebuffi, Sylvestre-Alvise and Kolesnikov, Alexander and Sperl, Georg and Lampert, Christoph H and others},
+    booktitle={Conference on Computer Vision and Pattern Recognition (CVPR)},
+    pages={5533--5542},
+    year={2001}
+    }
+    ```
+
+    </details> 
+
 #### 2005
 - **[1] Smaller coresets for k-median and k-means clustering**, SoCG.  
 *Samarth Sinha, Han Zhang, Anirudh Goyal, Yoshua Bengio, Hugo Larochelle, Augustus Odena*  
@@ -43,7 +62,7 @@
 #### 2018
 - **[3] Active learning for convolutional neural networks: A core-set approach**, ICLR 2018.  
 *Ozan Sener, Silvio Savarese*  
- ![](https://img.shields.io/badge/Image_Classification-green)  ![](https://img.shields.io/badge/Geometry-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
+ ![](https://img.shields.io/badge/Image_Classification-green)  ![](https://img.shields.io/badge/Geometry-red) ![](https://img.shields.io/badge/Active_Learning-orange)
 <a href="https://openreview.net/pdf?id=H1aIuk-RW"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a>   
     <details> <summary>BibTex</summary>
 
@@ -58,10 +77,29 @@
 
     </details> 
 
+- **[3] End-to-end incremental learning**, ECCV 2018.  
+*Francisco M. Castro, Manuel J. Marin-Jimenez, Nicolas Guil, Cordelia Schmid, Karteek Alahari*  
+ ![](https://img.shields.io/badge/Image_Classification-green)  ![](https://img.shields.io/badge/Geometry-red) ![](https://img.shields.io/badge/Incremental_Learning-orange)
+<a href="https://openaccess.thecvf.com/content_ECCV_2018/papers/Francisco_M._Castro_End-to-End_Incremental_Learning_ECCV_2018_paper.pdf"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a>   
+    <details> <summary>BibTex</summary>
+
+    ```bibtex
+    @inproceedings{castro2018end,
+    title={End-to-end incremental learning},
+    author={Castro, Francisco M and Mar{\'\i}n-Jim{\'e}nez, Manuel J and Guil, Nicol{\'a}s and Schmid, Cordelia and Alahari, Karteek},
+    booktitle={Proceedings of the European conference on computer vision (ECCV)},
+    pages={233--248},
+    year={2018}
+    }
+    }
+    ```
+
+    </details> 
+
 #### 2020
 - **[4] Contextual diversity for active learning**, ECCV 2020.  
 *Sharat Agarwal, Himanshu Arora, Saket Anand, Chetan Arora*  
-![](https://img.shields.io/badge/CDAL-blue) ![](https://img.shields.io/badge/Image_Classification-green)  ![](https://img.shields.io/badge/Geometry-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
+![](https://img.shields.io/badge/CDAL-blue) ![](https://img.shields.io/badge/Image_Classification-green)  ![](https://img.shields.io/badge/Geometry-red) ![](https://img.shields.io/badge/Active_Learning-orange)
 <a href="https://faculty.iiitd.ac.in/~anands/files/papers/Agarwal+_ECCV2020_ContextualDiversityForActiveLearning.pdf"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a>
 <a href="https://github.com/sharat29ag/CDAL"><img src="https://img.shields.io/badge/GitHub-Code-brightgreen?logo=github" alt="Code Badge"></a>
     <details> <summary>BibTex</summary>
@@ -83,7 +121,7 @@
 *Samarth Sinha, Han Zhang, Anirudh Goyal, Yoshua Bengio, Hugo Larochelle, Augustus Odena*  
 ![](https://img.shields.io/badge/SmallGAN-blue) ![](https://img.shields.io/badge/Image_Synthesis-green)  ![](https://img.shields.io/badge/Geometry-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
 <a href="https://proceedings.mlr.press/v119/sinha20b/sinha20b.pdf"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a>
-<a href="https://github.com/sharat29ag/CDAL"><img src="https://img.shields.io/badge/GitHub-Code-brightgreen?logo=github" alt="Code Badge"></a>
+
     <details> <summary>BibTex</summary>
 
     ```bibtex
@@ -94,6 +132,26 @@
     pages={9005--9015},
     year={2020},
     organization={PMLR}
+    }
+    ```
+
+    </details> 
+
+- **[5] Scail: Classifier weights scaling for class incremental learning**, WACV 2020.  
+*Eden Belouadah, Adrian Popescu*  
+![](https://img.shields.io/badge/Scail-blue) ![](https://img.shields.io/badge/Image_Classification-green)  ![](https://img.shields.io/badge/Geometry-red) ![](https://img.shields.io/badge/Incremental_Learning-orange)
+<a href="https://openaccess.thecvf.com/content_WACV_2020/papers/Belouadah_ScaIL_Classifier_Weights_Scaling_for_Class_Incremental_Learning_WACV_2020_paper.pdf"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a>
+<a href="https://github.com/EdenBelouadah/
+class-incremental-learning"><img src="https://img.shields.io/badge/GitHub-Code-brightgreen?logo=github" alt="Code Badge"></a>
+    <details> <summary>BibTex</summary>
+
+    ```bibtex
+    @InProceedings{Belouadah_2020_WACV,
+    author = {Belouadah, Eden and Popescu, Adrian},
+    title = {ScaIL: Classifier Weights Scaling for Class Incremental Learning},
+    booktitle = {Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)},
+    month = {March},
+    year = {2020}
     }
     ```
 
