@@ -1,5 +1,61 @@
 ### 🖼️ Uncertainty-Based Methods
 
+#### 2017
+- **[1] Deep bayesian active learning with image data**, ICML 2017.  
+*Yarin Gal, Riashat Islam, Zoubin Ghahramani*  
+![](https://img.shields.io/badge/Image_Classification-green)  ![](https://img.shields.io/badge/Uncertainty-red) ![](https://img.shields.io/badge/Active_Learning-orange)
+<a href="https://proceedings.mlr.press/v70/gal17a/gal17a.pdf"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a>
+    <details> <summary>BibTex</summary>
+
+    ```bibtex
+    @inproceedings{gal2017deep,
+    title={Deep bayesian active learning with image data},
+    author={Gal, Yarin and Islam, Riashat and Ghahramani, Zoubin},
+    booktitle={International conference on machine learning},
+    pages={1183--1192},
+    year={2017},
+    organization={PMLR}
+    }
+    ```
+
+    </details> 
+
+#### 2018
+- **[2] Deep active learning  for named entity recognition**, ICLR 2018.  
+*Cody Coleman, Christopher Yeh, Stephen Mussmann, Baharan Mirzasoleiman, Peter Bailis, Percy Liang, Jure Leskovec, Matei Zaharia*  
+![](https://img.shields.io/badge/NER-blue) ![](https://img.shields.io/badge/Image_Classification-green)  ![](https://img.shields.io/badge/Uncertainty-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
+<a href="https://openreview.net/pdf?id=ry018WZAZ"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a>
+    <details> <summary>BibTex</summary>
+
+    ```bibtex
+    @inproceedings{shen2018deep,
+    title={Deep Active Learning for Named Entity Recognition},
+    author={Shen, Yanyao and Yun, Hyokun and Lipton, Zachary C and Kronrod, Yakov and Anandkumar, Animashree},
+    booktitle={International Conference on Learning Representations},
+    year={2018}
+    }
+    ```
+
+    </details> 
+
+#### 2020
+- **[1] Selection via proxy: Efficient data selection for deep learning**, ICLR 2020.  
+*Cody Coleman, Christopher Yeh, Stephen Mussmann, Baharan Mirzasoleiman, Peter Bailis, Percy Liang, Jure Leskovec, Matei Zaharia*  
+![](https://img.shields.io/badge/SVP-blue) ![](https://img.shields.io/badge/Image_Classification-green)  ![](https://img.shields.io/badge/Uncertainty-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
+<a href="https://openreview.net/pdf?id=HJg2b0VYDr"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a>
+<a href="https://github.com/stanford-futuredata/selection-via-proxy"><img src="https://img.shields.io/badge/GitHub-Code-brightgreen?logo=github" alt="Code Badge"></a>
+    <details> <summary>BibTex</summary>
+
+    ```bibtex
+    @inproceedings{colemanselection,
+    title={Selection via Proxy: Efficient Data Selection for Deep Learning},
+    author={Coleman, Cody and Yeh, Christopher and Mussmann, Stephen and Mirzasoleiman, Baharan and Bailis, Peter and Liang, Percy and Leskovec, Jure and Zaharia, Matei},
+    booktitle={International Conference on Learning Representations}
+    }
+    ```
+
+    </details> 
+
 #### 2023
 - **[1] Robust data pruning under label noise via maximizing re-labeling accuracy**, NIPS 2023.  
 *Dongmin Park, Seola Choi, Doyoung Kim, Hwanjun Song, Jae-Gil Lee*  
