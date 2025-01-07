@@ -4,7 +4,7 @@
 - **[1] Deep bayesian active learning with image data**, ICML 2017.  
 *Yarin Gal, Riashat Islam, Zoubin Ghahramani*  
 ![](https://img.shields.io/badge/Image_Classification-green)  ![](https://img.shields.io/badge/Uncertainty-red) ![](https://img.shields.io/badge/Active_Learning-orange)
-<a href="https://proceedings.mlr.press/v70/gal17a/gal17a.pdf"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a>
+<a href="https://proceedings.mlr.press/v70/gal17a/gal17a.pdf"><img src="https://img.shields.io/badge/ICML-Paper-%23D2691E" alt="Paper Badge"></a>
     <details> <summary>BibTex</summary>
 
     ```bibtex
@@ -24,7 +24,7 @@
 - **[2] Deep active learning  for named entity recognition**, ICLR 2018.  
 *Cody Coleman, Christopher Yeh, Stephen Mussmann, Baharan Mirzasoleiman, Peter Bailis, Percy Liang, Jure Leskovec, Matei Zaharia*  
 ![](https://img.shields.io/badge/NER-blue) ![](https://img.shields.io/badge/Image_Classification-green)  ![](https://img.shields.io/badge/Uncertainty-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
-<a href="https://openreview.net/pdf?id=ry018WZAZ"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a>
+<a href="https://openreview.net/pdf?id=ry018WZAZ"><img src="https://img.shields.io/badge/ICLR-Paper-%23D2691E" alt="Paper Badge"></a>
     <details> <summary>BibTex</summary>
 
     ```bibtex
@@ -42,7 +42,7 @@
 - **[1] Selection via proxy: Efficient data selection for deep learning**, ICLR 2020.  
 *Cody Coleman, Christopher Yeh, Stephen Mussmann, Baharan Mirzasoleiman, Peter Bailis, Percy Liang, Jure Leskovec, Matei Zaharia*  
 ![](https://img.shields.io/badge/SVP-blue) ![](https://img.shields.io/badge/Image_Classification-green)  ![](https://img.shields.io/badge/Uncertainty-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
-<a href="https://openreview.net/pdf?id=HJg2b0VYDr"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a>
+<a href="https://openreview.net/pdf?id=HJg2b0VYDr"><img src="https://img.shields.io/badge/ICLR-Paper-%23D2691E" alt="Paper Badge"></a>
 <a href="https://github.com/stanford-futuredata/selection-via-proxy"><img src="https://img.shields.io/badge/GitHub-Code-brightgreen?logo=github" alt="Code Badge"></a>
     <details> <summary>BibTex</summary>
 
@@ -57,10 +57,10 @@
     </details> 
 
 #### 2023
-- **[1] Robust data pruning under label noise via maximizing re-labeling accuracy**, NIPS 2023.  
+- **[1] Robust data pruning under label noise via maximizing re-labeling accuracy**, NeurlPS 2023.  
 *Dongmin Park, Seola Choi, Doyoung Kim, Hwanjun Song, Jae-Gil Lee*  
 ![](https://img.shields.io/badge/Pr4ReL-blue) ![](https://img.shields.io/badge/Image_Classification-green)  ![](https://img.shields.io/badge/Uncertainty-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
-<a href="https://proceedings.neurips.cc/paper_files/paper/2023/file/ebb6bee50913ba7e1efeb91a1d47a002-Paper-Conference.pdf"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a>
+<a href="https://proceedings.neurips.cc/paper_files/paper/2023/file/ebb6bee50913ba7e1efeb91a1d47a002-Paper-Conference.pdf"><img src="https://img.shields.io/badge/NeurlPS-Paper-%23D2691E" alt="Paper Badge"></a>
 <a href="https://github.com/kaist-dmlab/Prune4Rel."><img src="https://img.shields.io/badge/GitHub-Code-brightgreen?logo=github" alt="Code Badge"></a>
     <details> <summary>BibTex</summary>
 
@@ -81,7 +81,7 @@
 - **[1] Large-scale dataset pruning with dynamic uncertainty**, CVPR workshop 2024.  
 *Muyang He, Shuo Yang, Tiejun Huang, Bo Zhao*  
 ![](https://img.shields.io/badge/DynUnc-blue) ![](https://img.shields.io/badge/Image_Classification-green)  ![](https://img.shields.io/badge/Uncertainty-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
-<a href="https://openaccess.thecvf.com/content/CVPR2024W/DDCV/papers/He_Large-scale_Dataset_Pruning_with_Dynamic_Uncertainty_CVPRW_2024_paper.pdf"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a>
+<a href="https://openaccess.thecvf.com/content/CVPR2024W/DDCV/papers/He_Large-scale_Dataset_Pruning_with_Dynamic_Uncertainty_CVPRW_2024_paper.pdf"><img src="https://img.shields.io/badge/DDCV-Paper-%23D2691E" alt="Paper Badge"></a>
     <details> <summary>BibTex</summary>
 
     ```bibtex
@@ -96,7 +96,7 @@
 
     </details> 
 
-- **[12]  Data Pruning via Separability, Integrity, and Model Uncertainty-Aware Importance Sampling**, arxiv 2024.  
+- **[12]  Data Pruning via Separability, Integrity, and Model Uncertainty-Aware Importance Sampling**, arXiv 2024.  
 *Steven Grosz, Rui Zhao, Rajeev Ranjan, Hongcheng Wang, Manoj Aggarwal, Gerard Medioni, Anil Jain*  
 ![](https://img.shields.io/badge/SIM(S)-blue) ![](https://img.shields.io/badge/Image_Classification-green)  ![](https://img.shields.io/badge/Geometry_Uncertainty-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
 <a href="https://arxiv.org/pdf/2406.04273"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a>
@@ -119,7 +119,7 @@
 - **[12]  Evolution-aware VAriance (EVA) Coreset Selection for Medical Image Classification**, ACM MM 2024.  
 *Yuxin Hong, Xiao Zhang, Xin Zhang, Joey Tianyi Zhou*  
 ![](https://img.shields.io/badge/EVA-blue) ![](https://img.shields.io/badge/Image_Classification-green)  ![](https://img.shields.io/badge/Uncertainty-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
-<a href="https://dl.acm.org/doi/abs/10.1145/3664647.3681592"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a>
+<a href="https://dl.acm.org/doi/abs/10.1145/3664647.3681592"><img src="https://img.shields.io/badge/MM-Paper-%23D2691E" alt="Paper Badge"></a>
 
     <details> <summary>BibTex</summary>
 
