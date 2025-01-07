@@ -1,7 +1,106 @@
 ### 🖼️ Geometry-Based Methods
 
+#### 2005
+- **[1] Smaller coresets for k-median and k-means clustering**, SoCG.  
+*Samarth Sinha, Han Zhang, Anirudh Goyal, Yoshua Bengio, Hugo Larochelle, Augustus Odena*  
+![](https://img.shields.io/badge/Cluster-blue) ![](https://img.shields.io/badge/Image_Synthesis-green)  ![](https://img.shields.io/badge/Geometry-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
+<a href="https://link.springer.com/content/pdf/10.1007/s00454-006-1271-x.pdf"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a>
+    <details> <summary>BibTex</summary>
+
+    ```bibtex
+    @inproceedings{har2005smaller,
+    title={Smaller coresets for k-median and k-means clustering},
+    author={Har-Peled, Sariel and Kushal, Akash},
+    booktitle={Proceedings of the twenty-first annual symposium on Computational geometry},
+    pages={126--134},
+    year={2005}
+    }
+    ```
+
+    </details> 
+
+#### 2012
+- **[2] Super-samples from kernel herding**, arxiv 2012.  
+*Yutian Chen, Max Welling, Alex Smola*  
+![](https://img.shields.io/badge/KeralHerding-blue) ![](https://img.shields.io/badge/Data_Synthesis-green)  ![](https://img.shields.io/badge/Geometry-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
+<a href="https://arxiv.org/pdf/1203.3472"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a>
+    <details> <summary>BibTex</summary>
+
+    ```bibtex
+    @misc{chen2012supersampleskernelherding,
+        title={Super-Samples from Kernel Herding}, 
+        author={Yutian Chen and Max Welling and Alex Smola},
+        year={2012},
+        eprint={1203.3472},
+        archivePrefix={arXiv},
+        primaryClass={cs.LG},
+        url={https://arxiv.org/abs/1203.3472}, 
+    }
+    ```
+
+    </details> 
+
+#### 2018
+- **[3] Active learning for convolutional neural networks: A core-set approach**, ICLR 2018.  
+*Ozan Sener, Silvio Savarese*  
+ ![](https://img.shields.io/badge/Image_Classification-green)  ![](https://img.shields.io/badge/Geometry-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
+<a href="https://openreview.net/pdf?id=H1aIuk-RW"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a>   
+    <details> <summary>BibTex</summary>
+
+    ```bibtex
+    @inproceedings{sener2018active,
+    title={Active Learning for Convolutional Neural Networks: A Core-Set Approach},
+    author={Sener, Ozan and Savarese, Silvio},
+    booktitle={International Conference on Learning Representations},
+    year={2018}
+    }
+    ```
+
+    </details> 
+
+#### 2020
+- **[4] Contextual diversity for active learning**, ECCV 2020.  
+*Sharat Agarwal, Himanshu Arora, Saket Anand, Chetan Arora*  
+![](https://img.shields.io/badge/CDAL-blue) ![](https://img.shields.io/badge/Image_Classification-green)  ![](https://img.shields.io/badge/Geometry-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
+<a href="https://faculty.iiitd.ac.in/~anands/files/papers/Agarwal+_ECCV2020_ContextualDiversityForActiveLearning.pdf"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a>
+<a href="https://github.com/sharat29ag/CDAL"><img src="https://img.shields.io/badge/GitHub-Code-brightgreen?logo=github" alt="Code Badge"></a>
+    <details> <summary>BibTex</summary>
+
+    ```bibtex
+    @inproceedings{agarwal2020contextual,
+    title={Contextual diversity for active learning},
+    author={Agarwal, Sharat and Arora, Himanshu and Anand, Saket and Arora, Chetan},
+    booktitle={Computer Vision--ECCV 2020: 16th European Conference, Glasgow, UK, August 23--28, 2020, Proceedings, Part XVI 16},
+    pages={137--153},
+    year={2020},
+    organization={Springer}
+    }
+    ```
+
+    </details> 
+
+- **[5] Small-gan: Speeding up gan training using core-sets**, ICML 2020.  
+*Samarth Sinha, Han Zhang, Anirudh Goyal, Yoshua Bengio, Hugo Larochelle, Augustus Odena*  
+![](https://img.shields.io/badge/SmallGAN-blue) ![](https://img.shields.io/badge/Image_Synthesis-green)  ![](https://img.shields.io/badge/Geometry-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
+<a href="https://proceedings.mlr.press/v119/sinha20b/sinha20b.pdf"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a>
+<a href="https://github.com/sharat29ag/CDAL"><img src="https://img.shields.io/badge/GitHub-Code-brightgreen?logo=github" alt="Code Badge"></a>
+    <details> <summary>BibTex</summary>
+
+    ```bibtex
+    @inproceedings{sinha2020small,
+    title={Small-gan: Speeding up gan training using core-sets},
+    author={Sinha, Samarth and Zhang, Han and Goyal, Anirudh and Bengio, Yoshua and Larochelle, Hugo and Odena, Augustus},
+    booktitle={International Conference on Machine Learning},
+    pages={9005--9015},
+    year={2020},
+    organization={PMLR}
+    }
+    ```
+
+    </details> 
+
 #### 2023
-- **[1] Coverage-centric coreset selection for high pruning rates**, ICLR.  
+- **[6] Coverage-centric coreset selection for high pruning rates**, ICLR 2023.  
 *Haizhong Zheng, Rui Liu, Fan Lai, Atul Prakash*  
 ![](https://img.shields.io/badge/CCS-blue) ![](https://img.shields.io/badge/Image_Classification-green)  ![](https://img.shields.io/badge/Geometry-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
 <a href="https://fanlai.me/assets/papers/coreset-iclr23.pdf"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a>
@@ -9,58 +108,131 @@
     <details> <summary>BibTex</summary>
 
     ```bibtex
-    @article{zheng2022coverage,
-    title={Coverage-centric coreset selection for high pruning rates},
+    @inproceedings{zhengcoverage,
+    title={Coverage-centric Coreset Selection for High Pruning Rates},
     author={Zheng, Haizhong and Liu, Rui and Lai, Fan and Prakash, Atul},
-    journal={arXiv preprint arXiv:2210.15809},
-    year={2022}
+    booktitle={The Eleventh International Conference on Learning Representations}
     }
     ```
 
     </details> 
 
 
-- **[2]  Moderate coreset: A universal method of data selection for real-world data-efficient deep learning**, ICLR.  
+- **[7]  Moderate coreset: A universal method of data selection for real-world data-efficient deep learning**, ICLR 2023.  
 *Xiaobo Xia, Jiale Liu, Jun Yu, Xu Shen, Bo Han, Tongliang Liu*  
 ![](https://img.shields.io/badge/ModerateDS-blue) ![](https://img.shields.io/badge/Image_Classification-green)  ![](https://img.shields.io/badge/Geometry-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
 <a href="https://openreview.net/pdf?id=7D5EECbOaf9"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a>
 <a href="https://github.com/tmllab/2023_ICLR_Moderate-DS"><img src="https://img.shields.io/badge/GitHub-Code-brightgreen?logo=github" alt="Code Badge"></a>
+    <details> <summary>BibTex</summary>
 
-- **[3]  Contributing Dimension Structure of Deep Feature for Coreset Selection**, AAAI.  
+    ```bibtex
+    @inproceedings{xia2022moderate,
+    title={Moderate coreset: A universal method of data selection for real-world data-efficient deep learning},
+    author={Xia, Xiaobo and Liu, Jiale and Yu, Jun and Shen, Xu and Han, Bo and Liu, Tongliang},
+    booktitle={The Eleventh International Conference on Learning Representations},
+    year={2022}
+    }
+    ```
+
+    </details> 
+
+- **[8] Efficient coreset selection with cluster-based methods**, KDD 2023.  
+*Chengliang Chai, Jiayi Wang, Nan Tang, Ye Yuan, Jiabin Liu, Yuhao Deng, Guoren Wang*  
+![](https://img.shields.io/badge/FastCore-blue) ![](https://img.shields.io/badge/Image_Classification-green)  ![](https://img.shields.io/badge/Geometry-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
+<a href="https://dl.acm.org/doi/pdf/10.1145/3580305.3599326"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a>
+    <details> <summary>BibTex</summary>
+
+    ```bibtex
+    @inproceedings{chai2023efficient,
+    title={Efficient coreset selection with cluster-based methods},
+    author={Chai, Chengliang and Wang, Jiayi and Tang, Nan and Yuan, Ye and Liu, Jiabin and Deng, Yuhao and Wang, Guoren},
+    booktitle={Proceedings of the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining},
+    pages={167--178},
+    year={2023}
+    }
+    ```
+
+    </details> 
+
+#### 2024
+- **[9]  Contributing Dimension Structure of Deep Feature for Coreset Selection**, AAAI 2024.  
 *Zhijing Wan, Zhixiang Wang, Yuran Wang, Zheng Wang, Hongyuan Zhu, Shin'ichi Satoh*  
 ![](https://img.shields.io/badge/CDS-blue) ![](https://img.shields.io/badge/Image_Classification-green)  ![](https://img.shields.io/badge/Geometry-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
 <a href="https://arxiv.org/pdf/2401.16193"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a>
 <a href="https://github.com/ZhijingWan/contributing-dimension-structure"><img src="https://img.shields.io/badge/GitHub-Code-brightgreen?logo=github" alt="Code Badge"></a>
+    <details> <summary>BibTex</summary>
 
-- **[4] Efficient coreset selection with cluster-based methods**, KDD.  
-*Chengliang Chai, Jiayi Wang, Nan Tang, Ye Yuan, Jiabin Liu, Yuhao Deng, Guoren Wang*  
-![](https://img.shields.io/badge/FastCore-blue) ![](https://img.shields.io/badge/Image_Classification-green)  ![](https://img.shields.io/badge/Geometry-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
-<a href="https://dl.acm.org/doi/pdf/10.1145/3580305.3599326"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a>
+    ```bibtex
+    @inproceedings{wan2024contributing,
+    title={Contributing Dimension Structure of Deep Feature for Coreset Selection},
+    author={Wan, Zhijing and Wang, Zhixiang and Wang, Yuran and Wang, Zheng and Zhu, Hongyuan and Satoh, Shin'ichi},
+    booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+    volume={38},
+    number={8},
+    pages={9080--9088},
+    year={2024}
+    }
+    ```
 
-- **[5] Contextual diversity for active learning**, ECCV.  
-*Sharat Agarwal, Himanshu Arora, Saket Anand, Chetan Arora*  
-![](https://img.shields.io/badge/CDAL-blue) ![](https://img.shields.io/badge/Image_Classification-green)  ![](https://img.shields.io/badge/Geometry-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
-<a href="https://faculty.iiitd.ac.in/~anands/files/papers/Agarwal+_ECCV2020_ContextualDiversityForActiveLearning.pdf"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a>
-<a href="https://github.com/sharat29ag/CDAL"><img src="https://img.shields.io/badge/GitHub-Code-brightgreen?logo=github" alt="Code Badge"></a>
+    </details> 
 
-- **[6] Small-gan: Speeding up gan training using core-sets**, ECCV.  
-*Samarth Sinha, Han Zhang, Anirudh Goyal, Yoshua Bengio, Hugo Larochelle, Augustus Odena*  
-![](https://img.shields.io/badge/SmallGAN-blue) ![](https://img.shields.io/badge/Image_Synthesis-green)  ![](https://img.shields.io/badge/Geometry-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
-<a href="https://proceedings.mlr.press/v119/sinha20b/sinha20b.pdf"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a>
-<a href="https://github.com/sharat29ag/CDAL"><img src="https://img.shields.io/badge/GitHub-Code-brightgreen?logo=github" alt="Code Badge"></a>
+- **[10]  Zero-Shot Coreset Selection: Efficient Pruning for Unlabeled Data**, arxiv 2024.  
+*Brent A. Griffin, Jacob Marks, Jason J. Corso*  
+![](https://img.shields.io/badge/ZeroShot-blue) ![](https://img.shields.io/badge/Image_Classification-green)  ![](https://img.shields.io/badge/Geometry-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
+<a href="https://arxiv.org/pdf/2411.15349"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a>
+<a href="https://github.com/voxel51/zcore"><img src="https://img.shields.io/badge/GitHub-Code-brightgreen?logo=github" alt="Code Badge"></a>
 
-- **[7] Active learning for convolutional neural networks: A core-set approach**, ICLR.  
-*Ozan Sener, Silvio Savarese*  
- ![](https://img.shields.io/badge/Image_Classification-green)  ![](https://img.shields.io/badge/Geometry-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
-<a href="https://openreview.net/pdf?id=H1aIuk-RW"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a>   
+    <details> <summary>BibTex</summary>
 
-- **[8] Super-samples from kernel herding**, arxiv.  
-*Yutian Chen, Max Welling, Alex Smola*  
-![](https://img.shields.io/badge/KeralHerding-blue) ![](https://img.shields.io/badge/Data_Synthesis-green)  ![](https://img.shields.io/badge/Geometry-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
-<a href="https://arxiv.org/pdf/1203.3472"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a>
+    ```bibtex
+    @article{griffin2024zero,
+    title={Zero-Shot Coreset Selection: Efficient Pruning for Unlabeled Data},
+    author={Griffin, Brent A and Marks, Jacob and Corso, Jason J},
+    journal={arXiv preprint arXiv:2411.15349},
+    year={2024}
+    }
+    ```
 
-- **[9] Small-gan: Speeding up gan training using core-sets**, SoCG.  
-*Samarth Sinha, Han Zhang, Anirudh Goyal, Yoshua Bengio, Hugo Larochelle, Augustus Odena*  
-![](https://img.shields.io/badge/Cluster-blue) ![](https://img.shields.io/badge/Image_Synthesis-green)  ![](https://img.shields.io/badge/Geometry-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
-<a href="https://link.springer.com/content/pdf/10.1007/s00454-006-1271-x.pdf"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a>
+    </details> 
+
+- **[11]  ELFS: Enhancing Label-Free Coreset Selection via Clustering-based Pseudo-Labeling**, arxiv 2024.  
+*Haizhong Zheng, Elisa Tsai, Yifu Lu, Jiachen Sun, Brian R. Bartoldson, Bhavya Kailkhura, Atul Prakash*  
+![](https://img.shields.io/badge/ELFS-blue) ![](https://img.shields.io/badge/Image_Classification-green)  ![](https://img.shields.io/badge/Geometry-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
+<a href="https://arxiv.org/pdf/2406.04273"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a>
+
+    <details> <summary>BibTex</summary>
+
+    ```bibtex
+    @article{zheng2024elfs,
+    title={ELFS: Enhancing Label-Free Coreset Selection via Clustering-based Pseudo-Labeling},
+    author={Zheng, Haizhong and Tsai, Elisa and Lu, Yifu and Sun, Jiachen and Bartoldson, Brian R and Kailkhura, Bhavya and Prakash, Atul},
+    journal={arXiv preprint arXiv:2406.04273},
+    year={2024}
+    }
+    ```
+
+    </details> 
+
+- **[12]  Data Pruning via Separability, Integrity, and Model Uncertainty-Aware Importance Sampling**, arxiv 2024.  
+*Steven Grosz, Rui Zhao, Rajeev Ranjan, Hongcheng Wang, Manoj Aggarwal, Gerard Medioni, Anil Jain*  
+![](https://img.shields.io/badge/SIM(S)-blue) ![](https://img.shields.io/badge/Image_Classification-green)  ![](https://img.shields.io/badge/Geometry/Uncertainty-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
+<a href="https://arxiv.org/pdf/2406.04273"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a>
+
+    <details> <summary>BibTex</summary>
+
+    ```bibtex
+    @inproceedings{grosz2024data,
+    title={Data Pruning via Separability, Integrity, and Model Uncertainty-Aware Importance Sampling},
+    author={Grosz, Steven and Zhao, Rui and Ranjan, Rajeev and Wang, Hongcheng and Aggarwal, Manoj and Medioni, Gerard and Jain, Anil},
+    booktitle={International Conference on Pattern Recognition},
+    pages={398--413},
+    year={2024},
+    organization={Springer}
+    }
+    ```
+
+    </details> 
+
+
+
 
