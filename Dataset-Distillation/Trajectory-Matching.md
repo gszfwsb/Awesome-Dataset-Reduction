@@ -99,7 +99,7 @@
 - **[6] SelMatch: Effectively Scaling Up Dataset Distillation via Selection-based Initialization and Partial Updates by Trajectory Matching**, ICML 2024.  
 *Yongmin Lee, Hye Won Chung*  
 ![](https://img.shields.io/badge/SelMatch-blue) ![](https://img.shields.io/badge/Image_Classification-green) ![](https://img.shields.io/badge/Trajectory_Matching-red) ![](https://img.shields.io/badge/Dataset_Distillation-orange)
-<a href="https://openreview.net/pdf?id=pTFud6SetK"><img src="https://img.shields.io/badge/ICML-Paper-%23D2691E" alt="Paper Badge"></a>
+<a href="https://dl.acm.org/doi/abs/10.5555/3692070.3693128"><img src="https://img.shields.io/badge/ICML-Paper-%23D2691E" alt="Paper Badge"></a>
     <details> <summary>BibTex</summary>
 
     ```bibtex
@@ -169,7 +169,7 @@
 - **[10] Navigating Complexity: Toward Lossless Graph Condensation via Expanding Window Matching**, ICML 2024.  
 *Yuchen Zhang, Tianle Zhang, Kai Wang, Ziyao Guo, Yuxuan Liang, Xavier Bresson, Wei Jin, Yang You*  
 ![](https://img.shields.io/badge/GEOM-blue) ![](https://img.shields.io/badge/Graph-green) ![](https://img.shields.io/badge/Trajectory_Matching-red) ![](https://img.shields.io/badge/Dataset_Distillation-orange)
-<a href="https://arxiv.org/abs/2402.05011"><img src="https://img.shields.io/badge/ICML-Paper-%23D2691E" alt="Paper Badge"></a>
+<a href="https://dl.acm.org/doi/10.5555/3692070.3694569"><img src="https://img.shields.io/badge/ICML-Paper-%23D2691E" alt="Paper Badge"></a>
 <a href="https://github.com/NUS-HPC-AI-Lab/GEOM"><img src="https://img.shields.io/badge/GitHub-Code-brightgreen?logo=github" alt="Code Badge"></a>
     <details> <summary>BibTex</summary>
 
@@ -206,7 +206,6 @@
 *Shaolei Yang, Shen Cheng, Mingbo Hong, Haoqiang Fan, Xing Wei, Shuaicheng Liu*  
 ![](https://img.shields.io/badge/NSD-blue) ![](https://img.shields.io/badge/Image_Classification-green) ![](https://img.shields.io/badge/Trajectory_Matching-red) ![](https://img.shields.io/badge/Dataset_Distillation-orange)
 <a href="https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06871.pdf"><img src="https://img.shields.io/badge/ECCV-Paper-%23D2691E" alt="Paper Badge"></a>
-<a href="https://github.com/NiaLiu/ATT"><img src="https://img.shields.io/badge/GitHub-Code-brightgreen?logo=github" alt="Code Badge"></a>
     <details> <summary>BibTex</summary>
 
     ```bibtex
