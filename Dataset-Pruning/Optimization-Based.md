@@ -76,8 +76,26 @@
 
     </details>
 
+- **[5] Semi-Supervised Batch Active Learning Via Bilevel Optimization**, ICASSP 2021.  
+*Zalán Borsos, Marco Tagliasacchi, Andreas Krause*  
+![](https://img.shields.io/badge/Bilevel-blue) ![](https://img.shields.io/badge/Image_Classification-green)  ![](https://img.shields.io/badge/Optimization-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
+<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9414206"><img src="https://img.shields.io/badge/ICASSP-Paper-%23D2691E" alt="Paper Badge"></a>
+<a href="https://github.com/zalanborsos/bilevel_coresets"><img src="https://img.shields.io/badge/GitHub-Code-brightgreen?logo=github" alt="Code Badge"></a>
+    <details> <summary>BibTex</summary>
+
+    ```bibtex
+    @inproceedings{borsos2021semi-supervised,
+    title={Semi-Supervised Batch Active Learning Via Bilevel Optimization},
+    author={Borsos, Zalán and Tagliasacchi, Marco and Krause, Andreas},
+    booktitle={International Conference on Acoustics, Speech and Signal Processing},
+    year={2021}
+    }
+    ```
+
+    </details>
+
 ##### 2024
-- **[5] Refined Coreset Selection: Towards Minimal Coreset Size under Model Performance Constraints**, ICML 2024.  
+- **[6] Refined Coreset Selection: Towards Minimal Coreset Size under Model Performance Constraints**, ICML 2024.  
 *Xiaobo Xia and Jiale Liu and Shaokun Zhang and Qingyun Wu and Hongxin Wei and Tongliang Liu*  
 ![](https://img.shields.io/badge/LBCS-blue) ![](https://img.shields.io/badge/Image_Classification-green)  ![](https://img.shields.io/badge/Optimization-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
 <a href="https://openreview.net/pdf?id=yb5xV8LFDq"><img src="https://img.shields.io/badge/ICML-Paper-%23D2691E?logo=ICML" alt="Paper Badge"></a>
