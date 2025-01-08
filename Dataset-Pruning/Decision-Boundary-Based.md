@@ -32,13 +32,12 @@
 
 
     ```bibtex
-  @article{ducoffe2018adversarial,
-    title={Adversarial active learning for deep networks: a margin based approach},
-    author={Ducoffe, Melanie and Precioso, Frederic},
-    journal={arXiv preprint arXiv:1802.09841},
-    year={2018}
-  }
-
+      @article{ducoffe2018adversarial,
+        	title={Adversarial active learning for deep networks: a margin based approach},
+        	author={Ducoffe, Melanie and Precioso, Frederic},
+        	journal={arXiv preprint arXiv:1802.09841},
+        	year={2018}
+      }
 </details> 
 
 #### 2021
