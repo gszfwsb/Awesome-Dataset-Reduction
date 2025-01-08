@@ -58,10 +58,8 @@
     	journal={arXiv preprint arXiv:2109.04698},
     	year={2021}
   }
-    ```
-    ```
 
-    </details> 
+</details> 
 
 - **[4] Active learning by acquiring contrastive examples**, arXiv 2021.   
   *Katerina Margatina, Giorgos Vernikos, Loïc Barrault, Nikolaos Aletras*   
