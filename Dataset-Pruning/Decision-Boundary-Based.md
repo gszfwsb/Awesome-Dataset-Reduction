@@ -10,12 +10,12 @@
     <details> <summary>BibTex</summary>
   
     ```bibtex
-    @inproceedings{rebuffi2001incremental,
-    title={Incremental classifier and representation learning},
-    author={Rebuffi, Sylvestre-Alvise and Kolesnikov, Alexander and Sperl, Georg and Lampert, Christoph H and others},
-    booktitle={Conference on Computer Vision and Pattern Recognition (CVPR)},
-    pages={5533--5542},
-    year={2001}
+    @article{chang2017active,
+      title={Active bias: Training more accurate neural networks by emphasizing high variance samples},
+      author={Chang, Haw-Shiuan and Learned-Miller, Erik and McCallum, Andrew},
+      journal={Advances in Neural Information Processing Systems},
+      volume={30},
+      year={2017}
     }
     ```
   
