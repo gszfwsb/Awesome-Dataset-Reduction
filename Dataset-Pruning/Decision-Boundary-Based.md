@@ -54,7 +54,7 @@
     ```bibtex
       @article{chen2021face,
         	title={Face-NMS: A Core-set Selection Approach for Efficient Face Recognition},
-       	 	author={Chen, Yunze and Huang, Junjie and Zhu, Jiagang and Zhu, Zheng and Yang, Tian and Huang, Guan and Du, Dalong},
+       	 author={Chen, Yunze and Huang, Junjie and Zhu, Jiagang and Zhu, Zheng and Yang, Tian and Huang, Guan and Du, Dalong},
         	journal={arXiv preprint arXiv:2109.04698},
         	year={2021}
       }
@@ -106,15 +106,13 @@
 
 
     ```bibtex
-  @inproceedings{geng2023multi,
-    title={Multi-classifier adversarial optimization for active learning},
-    author={Geng, Lin and Liu, Ningzhong and Qin, Jie},
-    booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
-    year={2023}
-  }
-    ```
-
-    </details> 
+      @inproceedings{geng2023multi,
+        	title={Multi-classifier adversarial optimization for active learning},
+        	author={Geng, Lin and Liu, Ningzhong and Qin, Jie},
+        	booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+        	year={2023}
+      }
+</details> 
 
 - **[7] Samples with low loss curvature improve data efficiency**, CVPR 2023.  
   *Isha Garg, Kaushik Roy*  
@@ -126,15 +124,13 @@
 
 
     ```bibtex
-  @inproceedings{garg2023samples,
-    title={Samples with low loss curvature improve data efficiency},
-    author={Garg, Isha and Roy, Kaushik},
-    booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
-    year={2023}
-  }
-    ```
-
-    </details> 
+      @inproceedings{garg2023samples,
+            title={Samples with low loss curvature improve data efficiency},
+        	author={Garg, Isha and Roy, Kaushik},
+    	    booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+        	year={2023}
+      }
+</details> 
 
 - **[8] Generalized category discovery with large language models in the loop**, arXiv 2023.  
   *Wenbin An, Wenkai Shi, Feng Tian, Haonan Lin, QianYing Wang, Yaqiang Wu, Mingxiang Cai, Luyan Wang, Yan Chen, Haiping Zhu, Ping Chen*  
@@ -146,13 +142,13 @@
 
 
     ```bibtex
-  @article{an2023generalized,
-    title={Generalized category discovery with large language models in the loop},
-    author={An, Wenbin and Shi, Wenkai and Tian, Feng and Lin, Haonan and Wang, QianYing and Wu, Yaqiang and Cai, Mingxiang and Wang, Luyan and Chen, Yan and Zhu, Haiping and others},
-    journal={arXiv preprint arXiv:2312.10897},
-    year={2023}
-  }
-    ```
+      @article{an2023generalized,
+        title={Generalized category discovery with large language models in the loop},
+        author={An, Wenbin and Shi, Wenkai and Tian, Feng and Lin, Haonan and Wang, QianYing and Wu, Yaqiang and Cai, Mingxiang and Wang, Luyan and Chen, Yan and Zhu, Haiping and others},
+        journal={arXiv preprint arXiv:2312.10897},
+        year={2023}
+      }
+
 
     </details> 
 
