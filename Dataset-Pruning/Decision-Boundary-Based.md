@@ -32,12 +32,12 @@
 
 
     ```bibtex
-      @article{ducoffe2018adversarial,
+    @article{ducoffe2018adversarial,
         	title={Adversarial active learning for deep networks: a margin based approach},
         	author={Ducoffe, Melanie and Precioso, Frederic},
         	journal={arXiv preprint arXiv:1802.09841},
         	year={2018}
-      }
+    }
 </details> 
 
 #### 2021
@@ -52,12 +52,12 @@
 
 
     ```bibtex
-      @article{chen2021face,
+    @article{chen2021face,
         	title={Face-NMS: A Core-set Selection Approach for Efficient Face Recognition},
        	 author={Chen, Yunze and Huang, Junjie and Zhu, Jiagang and Zhu, Zheng and Yang, Tian and Huang, Guan and Du, Dalong},
         	journal={arXiv preprint arXiv:2109.04698},
         	year={2021}
-      }
+    }
 </details> 
 
 - **[4] Active learning by acquiring contrastive examples**, arXiv 2021.   
@@ -70,12 +70,12 @@
 
 
     ```bibtex
-      @article{margatina2021active,
+    @article{margatina2021active,
        	 	title={Active learning by acquiring contrastive examples},
       		author={Margatina, Katerina and Vernikos, Giorgos and Barrault, Lo{\"\i}c and Aletras, Nikolaos},
     	   	journal={arXiv preprint arXiv:2109.03764},
      	   	year={2021}
-      }
+    }
 </details> 
 
 - **[5] Accelerating Deep Learning with Dynamic Data Pruning**, arXiv 2021.   
@@ -87,12 +87,12 @@
 
 
     ```bibtex
-      @article{raju2021accelerating,
+    @article{raju2021accelerating,
             title={Accelerating Deep Learning with Dynamic Data Pruning}, 
             author={Raju, Ravi S and Daruwalla, Kyle and Lipasti, Mikko},
             journal={arXiv preprint arXiv:2111.12621},
             year={2021}
-      }
+    }
 </details> 
 
 #### 2023
@@ -106,12 +106,12 @@
 
 
     ```bibtex
-      @inproceedings{geng2023multi,
+    @inproceedings{geng2023multi,
         	title={Multi-classifier adversarial optimization for active learning},
         	author={Geng, Lin and Liu, Ningzhong and Qin, Jie},
         	booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
         	year={2023}
-      }
+    }
 </details> 
 
 - **[7] Samples with low loss curvature improve data efficiency**, CVPR 2023.  
@@ -124,12 +124,12 @@
 
 
     ```bibtex
-      @inproceedings{garg2023samples,
+    @inproceedings{garg2023samples,
             title={Samples with low loss curvature improve data efficiency},
         	author={Garg, Isha and Roy, Kaushik},
     	   booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
         	year={2023}
-      }
+    }
 </details> 
 
 - **[8] Generalized category discovery with large language models in the loop**, arXiv 2023.  
@@ -142,12 +142,12 @@
 
 
     ```bibtex
-      @article{an2023generalized,
+    @article{an2023generalized,
         title={Generalized category discovery with large language models in the loop},
         author={An, Wenbin and Shi, Wenkai and Tian, Feng and Lin, Haonan and Wang, QianYing and Wu, Yaqiang and Cai, Mingxiang and Wang, Luyan and Chen, Yan and Zhu, Haiping and others},
         journal={arXiv preprint arXiv:2312.10897},
         year={2023}
-      }
+    }
 
 ​    </details> 
 
@@ -160,12 +160,12 @@
 
 
     ```bibtex
-      @inproceedings{wang2023dynams,
+    @inproceedings{wang2023dynams,
         title={DynaMS: Dyanmic margin selection for efficient deep learning},
         author={Wang, Jiaxing and Li, Yong and Zhuo, Jingwei and Shi, Xupeng and Zhang, Weizhong and Gong, Lixing and Tao, Tong and Liu, Pengzhang and Bao, Yongjun and Yan, Weipeng},
         booktitle={The Eleventh International Conference on Learning Representations},
         year={2023}
-      }
+    }
 </details> 
 
 #### 2024
@@ -179,12 +179,12 @@
 
 
     ```bibtex
-      @inproceedings{yang2024mind,
+    @inproceedings{yang2024mind,
         title={Mind the Boundary: Coreset Selection via Reconstructing the Decision Boundary},
         author={Yang, Shuo and Cao, Zhe and Guo, Sheng and Zhang, Ruiheng and Luo, Ping and Zhang, Shengping and Nie, Liqiang},
         booktitle={Forty-first International Conference on Machine Learning},
         year={2024}
-      }
+    }
 </details> 
 
 - **[11] Feature Distribution Matching by Optimal Transport for Effective and Robust Coreset Selection**, AAAI 2024.   
@@ -197,12 +197,12 @@
 
 
     ```bibtex
-      @inproceedings{xiao2024feature,
+    @inproceedings{xiao2024feature,
         title={Feature Distribution Matching by Optimal Transport for Effective and Robust Coreset Selection},
         author={Xiao, Weiwei and Chen, Yongyong and Shan, Qiben and Wang, Yaowei and Su, Jingyong},
         booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
         year={2024}
-      }
+    }
 </details> 
 
 - **[12] PUMA: margin-based data pruning**, arXiv 2024.  
