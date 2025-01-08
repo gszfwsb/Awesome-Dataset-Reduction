@@ -21,6 +21,8 @@
 }
   ```
 
+  </details> 
+
 #### 2018
 
 - **[2] Adversarial active learning for deep networks: a margin based approach**, arXiv 2018.  
@@ -40,6 +42,8 @@
   year={2018}
 }
   ```
+
+  </details> 
 
 #### 2021
 
@@ -61,6 +65,8 @@
 }
 ```
 
+  </details> 
+
 - **[4] Active learning by acquiring contrastive examples**, arXiv 2021.  
   *Katerina Margatina, Giorgos Vernikos, Loïc Barrault, Nikolaos Aletras*
 
@@ -78,6 +84,8 @@
   year={2021}
 }
 ```
+
+  </details> 
 
 - **[5] Accelerating Deep Learning with Dynamic Data Pruning**, arXiv 2021.  
   *Katerina Margatina, Giorgos Vernikos, Loïc Barrault, Nikolaos Aletras*
@@ -111,6 +119,8 @@
 }
 ```
 
+  </details> 
+
 - **[7] Samples with low loss curvature improve data efficiency**, CVPR 2023.  
   *Isha Garg, Kaushik Roy*
 
@@ -128,6 +138,8 @@
 }
 ```
 
+  </details> 
+
 - **[8] Generalized category discovery with large language models in the loop**, arXiv 2023.  
   *Wenbin An, Wenkai Shi, Feng Tian, Haonan Lin, QianYing Wang, Yaqiang Wu, Mingxiang Cai, Luyan Wang, Yan Chen, Haiping Zhu, Ping Chen*
 
@@ -144,6 +156,8 @@
 }
 ```
 
+  </details> 
+
 - **[9] DynaMS: Dyanmic margin selection for efficient deep learning**, ICLR 2023.  
   *Wenbin An, Wenkai Shi, Feng Tian, Haonan Lin, QianYing Wang, Yaqiang Wu, Mingxiang Cai, Luyan Wang, Yan Chen, Haiping Zhu, Ping Chen*
 
@@ -158,6 +172,8 @@
   year={2023}
 }
 ```
+
+  </details> 
 
 #### 2024
 
@@ -176,6 +192,8 @@
 }
 ```
 
+  </details> 
+
 - **[11] Feature Distribution Matching by Optimal Transport for Effective and Robust Coreset Selection**, AAAI 2024.  
   *Weiwei Xiao, Yongyong Chen, Qiben Shan, Yaowei Wang, Jingyong Su*
 
@@ -192,6 +210,8 @@
 }
 ```
 
+  </details> 
+
 - **[11] PUMA: margin-based data pruning**, arXiv 2024.  
   *Javier Maroto, Pascal Frossard*
 
@@ -206,6 +226,8 @@
   year={2024}
 }
 ```
+
+  </details> 
 
 - **[11] Feature Distribution Matching by Optimal Transport for Effective and Robust Coreset Selection**, AAAI 2024.  
   *Weiwei Xiao, Yongyong Chen, Qiben Shan, Yaowei Wang, Jingyong Su*
@@ -222,3 +244,4 @@
 }
 ```
 
+  </details> 
