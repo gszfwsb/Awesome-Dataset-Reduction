@@ -1,6 +1,6 @@
 ### 🖼️ Optimization-Based Methods
 
-#### Bilevel-Optimization-Based Methods
+#### 🎯 Bilevel-Optimization-Based Methods
 ##### 2020
 - **[1] Coresets via bilevel optimization for continual learning and Streaming**, NIPS 2020.  
 *Zalán Borsos, Mojmír Mutný, Andreas Krause*  
@@ -77,4 +77,4 @@
     </details>
 
 
-#### Submodularity Based Methods
+#### 🎯 Submodularity Based Methods
