@@ -244,7 +244,7 @@
     </details> 
 
 
-- **[13] Feature Distribution Matching by Optimal Transport for Effective and Robust Coreset Selection**, AAAI 2024.  
+- **[13] CoLAL: Co-learning Active Learning for Text Classification**, AAAI 2024.  
   *Linh Le, Genghong Zhao, Xia Zhang, Guido Zuccon, Gemartini Demartini*
 
   ![](https://img.shields.io/badge/CoLAL-blue) ![](https://img.shields.io/badge/Active_Learning-green)  ![](https://img.shields.io/badge/Decision_Boundary-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
