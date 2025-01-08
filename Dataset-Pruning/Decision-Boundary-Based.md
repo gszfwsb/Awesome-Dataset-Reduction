@@ -4,168 +4,165 @@
 
 - **[1] Active bias: Training more accurate neural networks by emphasizing high variance samples**, NIPS 2017.  
   *Haw-Shiuan Chang, Erik Learned-Miller, Andrew McCallum*   
-![](https://img.shields.io/badge/Active_bias-blue) ![](https://img.shields.io/badge/Active_Learning-green)  ![](https://img.shields.io/badge/Decision_Boundary-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
-<img src="https://img.shields.io/badge/NeurlPS-Paper-%23D2691E" alt="Paper Badge">
-
-  <details> <summary>BibTex</summary>
-
-
-  ```bibtex
-@article{chang2017active,
-  title={Active bias: Training more accurate neural networks by emphasizing high variance samples},
-  author={Chang, Haw-Shiuan and Learned-Miller, Erik and McCallum, Andrew},
-  journal={Advances in Neural Information Processing Systems},
-  volume={30},
-  year={2017}
-}
-  ```
-
-  </details> 
+  ![](https://img.shields.io/badge/iCaRL-blue)![](https://img.shields.io/badge/Active_bias-blue) ![](https://img.shields.io/badge/Active_Learning-green)  ![](https://img.shields.io/badge/Decision_Boundary-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
+  <img src="https://img.shields.io/badge/NeurlPS-Paper-%23D2691E" alt="Paper Badge">
+  
+    <details> <summary>BibTex</summary>
+  
+    ```bibtex
+    @inproceedings{rebuffi2001incremental,
+    title={Incremental classifier and representation learning},
+    author={Rebuffi, Sylvestre-Alvise and Kolesnikov, Alexander and Sperl, Georg and Lampert, Christoph H and others},
+    booktitle={Conference on Computer Vision and Pattern Recognition (CVPR)},
+    pages={5533--5542},
+    year={2001}
+    }
+    ```
+  
+    </details> 
 
 #### 2018
 
-- **[2] Adversarial active learning for deep networks: a margin based approach**, arXiv 2018.  
-  *Melanie Ducoffe, Frederic Precioso*
+- **[2] Active bias: Training more accurate neural networks by emphasizing high variance samples**, NIPS 2017.  
+  *Melanie Ducoffe, Frederic Precioso*   
+  ![](https://img.shields.io/badge/Active_Learning-green)  ![](https://img.shields.io/badge/Decision_Boundary-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
+  <img src="https://img.shields.io/badge/NeurlPS-Paper-%23D2691E" alt="Paper Badge">
 
-![](https://img.shields.io/badge/Active_Learning-green)  ![](https://img.shields.io/badge/Decision_Boundary-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
-<a href="https://arxiv.org/pdf/1203.3472"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arXiv" alt="Paper Badge"></a>
-
-  <details> <summary>BibTex</summary>
+    <details> <summary>BibTex</summary>
 
 
-  ```bibtex
-@article{ducoffe2018adversarial,
-  title={Adversarial active learning for deep networks: a margin based approach},
-  author={Ducoffe, Melanie and Precioso, Frederic},
-  journal={arXiv preprint arXiv:1802.09841},
-  year={2018}
-}
-  ```
+    ```bibtex
+  @article{ducoffe2018adversarial,
+    title={Adversarial active learning for deep networks: a margin based approach},
+    author={Ducoffe, Melanie and Precioso, Frederic},
+    journal={arXiv preprint arXiv:1802.09841},
+    year={2018}
+  }
+    ```
 
-  </details> 
+    </details> 
 
 #### 2021
 
-- **[3] Face-NMS: A Core-set Selection Approach for Efficient Face Recognition**, arXiv 2021.  
-  *Yunze Chen, Junjie Huang, Jiagang Zhu, Zheng Zhu, Tian Yang, Guan Huang, Dalong Du*
+- **[3] Face-NMS: A Core-set Selection Approach for Efficient Face Recognition**, arXiv 2021.   
+  *Yunze Chen, Junjie Huang, Jiagang Zhu, Zheng Zhu, Tian Yang, Guan Huang, Dalong Du*   
+  ![](https://img.shields.io/badge/Active_Learning-green)![](https://img.shields.io/badge/Face_NMS-blue) ![](https://img.shields.io/badge/Face_Recognition-green)  ![](https://img.shields.io/badge/Decision_Boundary-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
+  <a href="https://proceedings.neurips.cc/paper_files/paper/2023/file/749252feedd44f7f10d47ec1d674a2f8-Paper-Conference.pdf"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arXiv" alt="Paper Badge"></a>
+  <a href="https://github.com/HuangJunJie2017/Face-NMS"><img src="https://img.shields.io/badge/GitHub-Code-brightgreen?logo=github" alt="Code Badge"></a>
 
-![](https://img.shields.io/badge/Face_NMS-blue) ![](https://img.shields.io/badge/Face_Recognition-green)  ![](https://img.shields.io/badge/Decision_Boundary-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
-<a href="https://proceedings.neurips.cc/paper_files/paper/2023/file/749252feedd44f7f10d47ec1d674a2f8-Paper-Conference.pdf"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arXiv" alt="Paper Badge"></a>
-<a href="https://github.com/HuangJunJie2017/Face-NMS"><img src="https://img.shields.io/badge/GitHub-Code-brightgreen?logo=github" alt="Code Badge"></a>
+    <details> <summary>BibTex</summary>
 
-  <details> <summary>BibTex</summary>
 
-```LaTeX
-@article{chen2021face,
-  title={Face-NMS: A Core-set Selection Approach for Efficient Face Recognition},
-  author={Chen, Yunze and Huang, Junjie and Zhu, Jiagang and Zhu, Zheng and Yang, Tian and Huang, Guan and Du, Dalong},
-  journal={arXiv preprint arXiv:2109.04698},
-  year={2021}
-}
-```
+    ```bibtex
+  @article{chen2021face,
+    title={Face-NMS: A Core-set Selection Approach for Efficient Face Recognition},
+    author={Chen, Yunze and Huang, Junjie and Zhu, Jiagang and Zhu, Zheng and Yang, Tian and Huang, Guan and Du, Dalong},
+    journal={arXiv preprint arXiv:2109.04698},
+    year={2021}
+  }
+    ```
 
-  </details> 
+    </details> 
 
-- **[4] Active learning by acquiring contrastive examples**, arXiv 2021.  
-  *Katerina Margatina, Giorgos Vernikos, Loïc Barrault, Nikolaos Aletras*
+- **[4] Active learning by acquiring contrastive examples**, arXiv 2021.   
+  *Katerina Margatina, Giorgos Vernikos, Loïc Barrault, Nikolaos Aletras*   
+  ![](https://img.shields.io/badge/CAL-blue) ![](https://img.shields.io/badge/Active_Learning-green)  ![](https://img.shields.io/badge/Decision_Boundary-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
+  <a href="https://proceedings.neurips.cc/paper_files/paper/2023/file/749252feedd44f7f10d47ec1d674a2f8-Paper-Conference.pdf"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arXiv" alt="Paper Badge"></a>
+  <a href="https://github.com/mourga/contrastive-active-learning"><img src="https://img.shields.io/badge/GitHub-Code-brightgreen?logo=github" alt="Code Badge"></a>
 
-![](https://img.shields.io/badge/CAL-blue) ![](https://img.shields.io/badge/Active_Learning-green)  ![](https://img.shields.io/badge/Decision_Boundary-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
-<a href="https://proceedings.neurips.cc/paper_files/paper/2023/file/749252feedd44f7f10d47ec1d674a2f8-Paper-Conference.pdf"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arXiv" alt="Paper Badge"></a>
-<a href="https://github.com/mourga/contrastive-active-learning"><img src="https://img.shields.io/badge/GitHub-Code-brightgreen?logo=github" alt="Code Badge"></a>
+    <details> <summary>BibTex</summary>
 
-  <details> <summary>BibTex</summary>
 
-```LaTeX
-@article{margatina2021active,
-  title={Active learning by acquiring contrastive examples},
-  author={Margatina, Katerina and Vernikos, Giorgos and Barrault, Lo{\"\i}c and Aletras, Nikolaos},
-  journal={arXiv preprint arXiv:2109.03764},
-  year={2021}
-}
-```
+    ```bibtex
+  @article{margatina2021active,
+    title={Active learning by acquiring contrastive examples},
+    author={Margatina, Katerina and Vernikos, Giorgos and Barrault, Lo{\"\i}c and Aletras, Nikolaos},
+    journal={arXiv preprint arXiv:2109.03764},
+    year={2021}
+  }
+    ```
 
-  </details> 
+    </details> 
 
-- **[5] Accelerating Deep Learning with Dynamic Data Pruning**, arXiv 2021.  
-  *Katerina Margatina, Giorgos Vernikos, Loïc Barrault, Nikolaos Aletras*
+- **[5] Accelerating Deep Learning with Dynamic Data Pruning**, arXiv 2021.   
+  *Ravi S Raju, Kyle Daruwalla, Mikko Lipasti*   
+  ![](https://img.shields.io/badge/Sometimes-blue) ![](https://img.shields.io/badge/Image_Classification-green)  ![](https://img.shields.io/badge/Decision_Boundary-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
+  <a href="https://proceedings.neurips.cc/paper_files/paper/2023/file/749252feedd44f7f10d47ec1d674a2f8-Paper-Conference.pdf"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arXiv" alt="Paper Badge"></a>
 
-![](https://img.shields.io/badge/Sometimes-blue) ![](https://img.shields.io/badge/Image_Classification-green)  ![](https://img.shields.io/badge/Decision_Boundary-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
-<a href="https://proceedings.neurips.cc/paper_files/paper/2023/file/749252feedd44f7f10d47ec1d674a2f8-Paper-Conference.pdf"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arXiv" alt="Paper Badge"></a>
+    <details> <summary>BibTex</summary>
 
-  <details> <summary>BibTex</summary>
 
-```
-@article{raju2021accelerating,
-      title={Accelerating Deep Learning with Dynamic Data Pruning}, 
-      author={Raju, Ravi S and Daruwalla, Kyle and Lipasti, Mikko},
-      journal={arXiv preprint arXiv:2111.12621},
-      year={2021}
-}
-```
+    ```bibtex
+  @article{raju2021accelerating,
+        title={Accelerating Deep Learning with Dynamic Data Pruning}, 
+        author={Raju, Ravi S and Daruwalla, Kyle and Lipasti, Mikko},
+        journal={arXiv preprint arXiv:2111.12621},
+        year={2021}
+  }
+    ```
 
-  </details> 
+    </details> 
 
 #### 2023
 
 - **[6] Multi-classifier adversarial optimization for active learning**, AAAI 2023.  
-  *Lin Geng, Ningzhong Liu, Jie Qin*
+  *Lin Geng, Ningzhong Liu, Jie Qin*  
+  ![](https://img.shields.io/badge/C^3-blue) ![](https://img.shields.io/badge/Active_Learning-green)  ![](https://img.shields.io/badge/Decision_Boundary-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
+  <a href="https://arxiv.org/pdf/2401.16193"><img src="https://img.shields.io/badge/AAAI-Paper-%23D2691E" alt="Paper Badge"></a>
 
-![](https://img.shields.io/badge/C^3-blue) ![](https://img.shields.io/badge/Active_Learning-green)  ![](https://img.shields.io/badge/Decision_Boundary-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
-<a href="https://arxiv.org/pdf/2401.16193"><img src="https://img.shields.io/badge/AAAI-Paper-%23D2691E" alt="Paper Badge"></a>
+    <details> <summary>BibTex</summary>
 
-  <details> <summary>BibTex</summary>
 
-```
-@inproceedings{geng2023multi,
-  title={Multi-classifier adversarial optimization for active learning},
-  author={Geng, Lin and Liu, Ningzhong and Qin, Jie},
-  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
-  year={2023}
-}
-```
+    ```bibtex
+  @inproceedings{geng2023multi,
+    title={Multi-classifier adversarial optimization for active learning},
+    author={Geng, Lin and Liu, Ningzhong and Qin, Jie},
+    booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+    year={2023}
+  }
+    ```
 
-  </details> 
+    </details> 
 
 - **[7] Samples with low loss curvature improve data efficiency**, CVPR 2023.  
-  *Isha Garg, Kaushik Roy*
+  *Isha Garg, Kaushik Roy*  
+  ![](https://img.shields.io/badge/SLo_Curves-blue) ![](https://img.shields.io/badge/Image_Classification-green)  ![](https://img.shields.io/badge/Decision_Boundary-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
+  <a href="https://openaccess.thecvf.com/content_cvpr_2017/poster/739_POSTER.pdf"><img src="https://img.shields.io/badge/CVPR-Paper-%23D2691E" alt="Paper Badge"></a>
+  <a href="https://github.com/isha-garg/SLo-Curves"><img src="https://img.shields.io/badge/GitHub-Code-brightgreen?logo=github" alt="Code Badge"></a>
 
-![](https://img.shields.io/badge/SLo_Curves-blue) ![](https://img.shields.io/badge/Image_Classification-green)  ![](https://img.shields.io/badge/Decision_Boundary-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
-<a href="https://openaccess.thecvf.com/content_cvpr_2017/poster/739_POSTER.pdf"><img src="https://img.shields.io/badge/CVPR-Paper-%23D2691E" alt="Paper Badge"></a>
-<a href="https://github.com/isha-garg/SLo-Curves"><img src="https://img.shields.io/badge/GitHub-Code-brightgreen?logo=github" alt="Code Badge"></a>
+    <details> <summary>BibTex</summary>
 
-  <details> <summary>BibTex</summary>
 
-```
-@inproceedings{garg2023samples,
-  title={Samples with low loss curvature improve data efficiency},
-  author={Garg, Isha and Roy, Kaushik},
-  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
-  pages={20290--20300},
-  year={2023}
-}
-```
+    ```bibtex
+  @inproceedings{garg2023samples,
+    title={Samples with low loss curvature improve data efficiency},
+    author={Garg, Isha and Roy, Kaushik},
+    booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+    year={2023}
+  }
+    ```
 
-  </details> 
+    </details> 
 
 - **[8] Generalized category discovery with large language models in the loop**, arXiv 2023.  
-  *Wenbin An, Wenkai Shi, Feng Tian, Haonan Lin, QianYing Wang, Yaqiang Wu, Mingxiang Cai, Luyan Wang, Yan Chen, Haiping Zhu, Ping Chen*
+  *Wenbin An, Wenkai Shi, Feng Tian, Haonan Lin, QianYing Wang, Yaqiang Wu, Mingxiang Cai, Luyan Wang, Yan Chen, Haiping Zhu, Ping Chen*  
+  ![](https://img.shields.io/badge/LIS-blue) ![](https://img.shields.io/badge/Active_Learning-green)  ![](https://img.shields.io/badge/Decision_Boundary-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
+  <a href="https://proceedings.neurips.cc/paper_files/paper/2023/file/749252feedd44f7f10d47ec1d674a2f8-Paper-Conference.pdf"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arXiv" alt="Paper Badge"></a>
+  <a href="https://github.com/Lackel/LOOP"><img src="https://img.shields.io/badge/GitHub-Code-brightgreen?logo=github" alt="Code Badge"></a>
 
-![](https://img.shields.io/badge/LIS-blue) ![](https://img.shields.io/badge/Active_Learning-green)  ![](https://img.shields.io/badge/Decision_Boundary-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
-<a href="https://proceedings.neurips.cc/paper_files/paper/2023/file/749252feedd44f7f10d47ec1d674a2f8-Paper-Conference.pdf"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arXiv" alt="Paper Badge"></a>
-<a href="https://github.com/Lackel/LOOP"><img src="https://img.shields.io/badge/GitHub-Code-brightgreen?logo=github" alt="Code Badge"></a>
+    <details> <summary>BibTex</summary>
 
-  <details> <summary>BibTex</summary>
 
-```
-@article{an2023generalized,
-  title={Generalized category discovery with large language models in the loop},
-  author={An, Wenbin and Shi, Wenkai and Tian, Feng and Lin, Haonan and Wang, QianYing and Wu, Yaqiang and Cai, Mingxiang and Wang, Luyan and Chen, Yan and Zhu, Haiping and others},
-  journal={arXiv preprint arXiv:2312.10897},
-  year={2023}
-}
-```
+    ```bibtex
+  @article{an2023generalized,
+    title={Generalized category discovery with large language models in the loop},
+    author={An, Wenbin and Shi, Wenkai and Tian, Feng and Lin, Haonan and Wang, QianYing and Wu, Yaqiang and Cai, Mingxiang and Wang, Luyan and Chen, Yan and Zhu, Haiping and others},
+    journal={arXiv preprint arXiv:2312.10897},
+    year={2023}
+  }
+    ```
 
-  </details> 
+    </details> 
 
 - **[9] DynaMS: Dyanmic margin selection for efficient deep learning**, ICLR 2023.  
   *Wenbin An, Wenkai Shi, Feng Tian, Haonan Lin, QianYing Wang, Yaqiang Wu, Mingxiang Cai, Luyan Wang, Yan Chen, Haiping Zhu, Ping Chen*
