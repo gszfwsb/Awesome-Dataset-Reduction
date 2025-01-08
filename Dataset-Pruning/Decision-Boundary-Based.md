@@ -164,84 +164,85 @@
 
     </details> 
 
-- **[9] DynaMS: Dyanmic margin selection for efficient deep learning**, ICLR 2023.  
-  *Wenbin An, Wenkai Shi, Feng Tian, Haonan Lin, QianYing Wang, Yaqiang Wu, Mingxiang Cai, Luyan Wang, Yan Chen, Haiping Zhu, Ping Chen*
+- **[9] DynaMS: Dyanmic margin selection for efficient deep learning**, ICLR 2023.   
+  *Jiaxing Wang, Yong Li, Jingwei Zhuo, Xupeng Shi, WEIZHONG ZHANG, Lixing Gong, Tong Tao, Pengzhang Liu, Yongjun Bao, Weipeng Yan*  
+  ![](https://img.shields.io/badge/DynaMS-blue) ![](https://img.shields.io/badge/Image_Classification-green)  ![](https://img.shields.io/badge/Decision_Boundary-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
+  <a href="https://fanlai.me/assets/papers/coreset-iclr23.pdf"><img src="https://img.shields.io/badge/ICLR-Paper-%23D2691E" alt="Paper Badge"></a>
 
-![](https://img.shields.io/badge/DynaMS-blue) ![](https://img.shields.io/badge/Image_Classification-green)  ![](https://img.shields.io/badge/Decision_Boundary-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
-<a href="https://fanlai.me/assets/papers/coreset-iclr23.pdf"><img src="https://img.shields.io/badge/ICLR-Paper-%23D2691E" alt="Paper Badge"></a>
+    <details> <summary>BibTex</summary>
 
-  <details> <summary>BibTex</summary>
 
-```
-@inproceedings{wang2023dynams,
-  title={DynaMS: Dyanmic margin selection for efficient deep learning},
-  author={Wang, Jiaxing and Li, Yong and Zhuo, Jingwei and Shi, Xupeng and Zhang, Weizhong and Gong, Lixing and Tao, Tong and Liu, Pengzhang and Bao, Yongjun and Yan, Weipeng},
-  booktitle={The Eleventh International Conference on Learning Representations},
-  year={2023}
-}
-```
+    ```bibtex
+  @inproceedings{wang2023dynams,
+    title={DynaMS: Dyanmic margin selection for efficient deep learning},
+    author={Wang, Jiaxing and Li, Yong and Zhuo, Jingwei and Shi, Xupeng and Zhang, Weizhong and Gong, Lixing and Tao, Tong and Liu, Pengzhang and Bao, Yongjun and Yan, Weipeng},
+    booktitle={The Eleventh International Conference on Learning Representations},
+    year={2023}
+  }
+    ```
 
-  </details> 
+    </details> 
 
 #### 2024
 
-- **[10] Mind the Boundary: Coreset Selection via Reconstructing the Decision Boundary**, ICML 2024.  
-  *Shuo Yang, Zhe Cao, Sheng Guo, Ruiheng Zhang, Ping Luo, Shengping Zhang, Liqiang Nie*
+- **[10] Mind the Boundary: Coreset Selection via Reconstructing the Decision Boundary**, ICML 2024.    
+  *Shuo Yang, Zhe Cao, Sheng Guo, Ruiheng Zhang, Ping Luo, Shengping Zhang, Liqiang Nie*  
+  ![](https://img.shields.io/badge/Image_Classification-green)  ![](https://img.shields.io/badge/Decision_Boundary-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
+  <a href="https://fanlai.me/assets/papers/coreset-iclr23.pdf"><img src="https://img.shields.io/badge/ICML-Paper-%23D2691E" alt="Paper Badge"></a>
 
-![](https://img.shields.io/badge/Image_Classification-green)  ![](https://img.shields.io/badge/Decision_Boundary-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
-<a href="https://fanlai.me/assets/papers/coreset-iclr23.pdf"><img src="https://img.shields.io/badge/ICML-Paper-%23D2691E" alt="Paper Badge"></a>
+    <details> <summary>BibTex</summary>
 
-  <details> <summary>BibTex</summary>
 
-```
-@inproceedings{yang2024mind,
-  title={Mind the Boundary: Coreset Selection via Reconstructing the Decision Boundary},
-  author={Yang, Shuo and Cao, Zhe and Guo, Sheng and Zhang, Ruiheng and Luo, Ping and Zhang, Shengping and Nie, Liqiang},
-  booktitle={Forty-first International Conference on Machine Learning},
-  year={2024}
-}
-```
+    ```bibtex
+  @inproceedings{yang2024mind,
+    title={Mind the Boundary: Coreset Selection via Reconstructing the Decision Boundary},
+    author={Yang, Shuo and Cao, Zhe and Guo, Sheng and Zhang, Ruiheng and Luo, Ping and Zhang, Shengping and Nie, Liqiang},
+    booktitle={Forty-first International Conference on Machine Learning},
+    year={2024}
+  }
+    ```
 
-  </details> 
+    </details> 
 
-- **[11] Feature Distribution Matching by Optimal Transport for Effective and Robust Coreset Selection**, AAAI 2024.  
-  *Weiwei Xiao, Yongyong Chen, Qiben Shan, Yaowei Wang, Jingyong Su*
+- **[11] Feature Distribution Matching by Optimal Transport for Effective and Robust Coreset Selection**, AAAI 2024.   
+  *Weiwei Xiao, Yongyong Chen, Qiben Shan, Yaowei Wang, Jingyong Su*  
+  ![](https://img.shields.io/badge/FDMat-blue) ![](https://img.shields.io/badge/Image_Classification-green)  ![](https://img.shields.io/badge/Decision_Boundary-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
+  <a href="https://arxiv.org/pdf/2401.16193"><img src="https://img.shields.io/badge/AAAI-Paper-%23D2691E" alt="Paper Badge"></a>
+  <a href="https://github.com/successhaha/FDMat"><img src="https://img.shields.io/badge/GitHub-Code-brightgreen?logo=github" alt="Code Badge"></a>
 
-![](https://img.shields.io/badge/FDMat-blue) ![](https://img.shields.io/badge/Image_Classification-green)  ![](https://img.shields.io/badge/Decision_Boundary-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
-<a href="https://arxiv.org/pdf/2401.16193"><img src="https://img.shields.io/badge/AAAI-Paper-%23D2691E" alt="Paper Badge"></a>
-<a href="https://github.com/successhaha/FDMat"><img src="https://img.shields.io/badge/GitHub-Code-brightgreen?logo=github" alt="Code Badge"></a>
+    <details> <summary>BibTex</summary>
 
-  <details> <summary>BibTex</summary>
 
-```
-@inproceedings{xiao2024feature,
-  title={Feature Distribution Matching by Optimal Transport for Effective and Robust Coreset Selection},
-  author={Xiao, Weiwei and Chen, Yongyong and Shan, Qiben and Wang, Yaowei and Su, Jingyong},
-  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
-  year={2024}
-}
-```
+    ```bibtex
+  @inproceedings{xiao2024feature,
+    title={Feature Distribution Matching by Optimal Transport for Effective and Robust Coreset Selection},
+    author={Xiao, Weiwei and Chen, Yongyong and Shan, Qiben and Wang, Yaowei and Su, Jingyong},
+    booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+    year={2024}
+  }
+    ```
 
-  </details> 
+    </details> 
 
 - **[12] PUMA: margin-based data pruning**, arXiv 2024.  
   *Javier Maroto, Pascal Frossard*
 
-![](https://img.shields.io/badge/PUMA-blue) ![](https://img.shields.io/badge/Image_Classification-green)  ![](https://img.shields.io/badge/Decision_Boundary-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
-<a href="https://proceedings.neurips.cc/paper_files/paper/2023/file/749252feedd44f7f10d47ec1d674a2f8-Paper-Conference.pdf"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arXiv" alt="Paper Badge"></a>
+  ![](https://img.shields.io/badge/PUMA-blue) ![](https://img.shields.io/badge/Image_Classification-green)  ![](https://img.shields.io/badge/Decision_Boundary-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
+  <a href="https://proceedings.neurips.cc/paper_files/paper/2023/file/749252feedd44f7f10d47ec1d674a2f8-Paper-Conference.pdf"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arXiv" alt="Paper Badge"></a>
 
-  <details> <summary>BibTex</summary>
+   <details> <summary>BibTex</summary>
 
-```
-@article{maroto2024puma,
-  title={PUMA: margin-based data pruning},
-  author={Maroto, Javier and Frossard, Pascal},
-  journal={arXiv preprint arXiv:2405.06298},
-  year={2024}
-}
-```
+  ```
+  @article{maroto2024puma,
+    title={PUMA: margin-based data pruning},
+    author={Maroto, Javier and Frossard, Pascal},
+    journal={arXiv preprint arXiv:2405.06298},
+    year={2024}
+  }
+  ```
 
-  </details> 
+    </details> 
+
 
 - **[13] Feature Distribution Matching by Optimal Transport for Effective and Robust Coreset Selection**, AAAI 2024.  
   *Weiwei Xiao, Yongyong Chen, Qiben Shan, Yaowei Wang, Jingyong Su*
