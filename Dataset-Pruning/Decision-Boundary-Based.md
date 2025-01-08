@@ -26,7 +26,7 @@
 - **[2] Adversarial active learning for deep networks: a margin based approach**, arXiv 2018.  
   *Melanie Ducoffe, Frederic Precioso*   
   ![](https://img.shields.io/badge/Active_Learning-green)  ![](https://img.shields.io/badge/Decision_Boundary-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
-  <img src="https://img.shields.io/badge/NeurlPS-Paper-%23D2691E" alt="Paper Badge">
+  <a href="https://proceedings.neurips.cc/paper_files/paper/2023/file/749252feedd44f7f10d47ec1d674a2f8-Paper-Conference.pdf"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arXiv" alt="Paper Badge"></a>
 
     <details> <summary>BibTex</summary>
 
