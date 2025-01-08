@@ -127,7 +127,7 @@
       @inproceedings{garg2023samples,
             title={Samples with low loss curvature improve data efficiency},
         	author={Garg, Isha and Roy, Kaushik},
-    	    booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+    	   booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
         	year={2023}
       }
 </details> 
@@ -149,8 +149,7 @@
         year={2023}
       }
 
-
-    </details> 
+​    </details> 
 
 - **[9] DynaMS: Dyanmic margin selection for efficient deep learning**, ICLR 2023.   
   *Jiaxing Wang, Yong Li, Jingwei Zhuo, Xupeng Shi, WEIZHONG ZHANG, Lixing Gong, Tong Tao, Pengzhang Liu, Yongjun Bao, Weipeng Yan*  
@@ -161,15 +160,13 @@
 
 
     ```bibtex
-  @inproceedings{wang2023dynams,
-    title={DynaMS: Dyanmic margin selection for efficient deep learning},
-    author={Wang, Jiaxing and Li, Yong and Zhuo, Jingwei and Shi, Xupeng and Zhang, Weizhong and Gong, Lixing and Tao, Tong and Liu, Pengzhang and Bao, Yongjun and Yan, Weipeng},
-    booktitle={The Eleventh International Conference on Learning Representations},
-    year={2023}
-  }
-    ```
-
-    </details> 
+      @inproceedings{wang2023dynams,
+        title={DynaMS: Dyanmic margin selection for efficient deep learning},
+        author={Wang, Jiaxing and Li, Yong and Zhuo, Jingwei and Shi, Xupeng and Zhang, Weizhong and Gong, Lixing and Tao, Tong and Liu, Pengzhang and Bao, Yongjun and Yan, Weipeng},
+        booktitle={The Eleventh International Conference on Learning Representations},
+        year={2023}
+      }
+</details> 
 
 #### 2024
 
@@ -182,15 +179,13 @@
 
 
     ```bibtex
-  @inproceedings{yang2024mind,
-    title={Mind the Boundary: Coreset Selection via Reconstructing the Decision Boundary},
-    author={Yang, Shuo and Cao, Zhe and Guo, Sheng and Zhang, Ruiheng and Luo, Ping and Zhang, Shengping and Nie, Liqiang},
-    booktitle={Forty-first International Conference on Machine Learning},
-    year={2024}
-  }
-    ```
-
-    </details> 
+      @inproceedings{yang2024mind,
+        title={Mind the Boundary: Coreset Selection via Reconstructing the Decision Boundary},
+        author={Yang, Shuo and Cao, Zhe and Guo, Sheng and Zhang, Ruiheng and Luo, Ping and Zhang, Shengping and Nie, Liqiang},
+        booktitle={Forty-first International Conference on Machine Learning},
+        year={2024}
+      }
+</details> 
 
 - **[11] Feature Distribution Matching by Optimal Transport for Effective and Robust Coreset Selection**, AAAI 2024.   
   *Weiwei Xiao, Yongyong Chen, Qiben Shan, Yaowei Wang, Jingyong Su*  
@@ -202,15 +197,13 @@
 
 
     ```bibtex
-  @inproceedings{xiao2024feature,
-    title={Feature Distribution Matching by Optimal Transport for Effective and Robust Coreset Selection},
-    author={Xiao, Weiwei and Chen, Yongyong and Shan, Qiben and Wang, Yaowei and Su, Jingyong},
-    booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
-    year={2024}
-  }
-    ```
-
-    </details> 
+      @inproceedings{xiao2024feature,
+        title={Feature Distribution Matching by Optimal Transport for Effective and Robust Coreset Selection},
+        author={Xiao, Weiwei and Chen, Yongyong and Shan, Qiben and Wang, Yaowei and Su, Jingyong},
+        booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+        year={2024}
+      }
+</details> 
 
 - **[12] PUMA: margin-based data pruning**, arXiv 2024.  
   *Javier Maroto, Pascal Frossard*
@@ -221,6 +214,7 @@
    <details> <summary>BibTex</summary>
 
   ```
+  ```bibtex
   @article{maroto2024puma,
     title={PUMA: margin-based data pruning},
     author={Maroto, Javier and Frossard, Pascal},
@@ -228,7 +222,7 @@
     year={2024}
   }
   ```
-
+  
     </details> 
 
 
@@ -241,6 +235,7 @@
    <details> <summary>BibTex</summary>
 
   ```
+  ```bibtex
   @inproceedings{le2024colal,
     title={CoLAL: Co-learning Active Learning for Text Classification},
     author={Le, Linh and Zhao, Genghong and Zhang, Xia and Zuccon, Guido and Demartini, Gianluca},
@@ -248,6 +243,6 @@
     year={2024}
   }
   ```
-
+  
     </details> 
 
