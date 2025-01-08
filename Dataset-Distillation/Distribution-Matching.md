@@ -113,6 +113,24 @@
 
     </details>
 
+- **[11] DREAM+: Efficient Dataset Distillation by Bidirectional Representative Matching**, arXiv 2023.  
+*Yanqing Liu, Jianyang Gu, Kai Wang, Zheng Zhu, Kaipeng Zhang, Wei Jiang, Yang You*  
+![](https://img.shields.io/badge/DREAM+-blue) ![](https://img.shields.io/badge/Image_Classification-green) ![](https://img.shields.io/badge/Moment_Matching-red) ![](https://img.shields.io/badge/Dataset_Distillation-orange)
+<a href="https://arxiv.org/abs/2310.15052"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arXiv" alt="Paper Badge"></a>
+<a href="https://github.com/Yanqing0327/DREAM"><img src="https://img.shields.io/badge/GitHub-Code-brightgreen?logo=github" alt="Code Badge"></a>
+    <details> <summary>BibTex</summary>
+
+    ```bibtex
+    @article{liu2023dream+,
+      title={Dream+: Efficient dataset distillation by bidirectional representative matching},
+      author={Liu, Yanqing and Gu, Jianyang and Wang, Kai and Zhu, Zheng and Zhang, Kaipeng and Jiang, Wei and You, Yang},
+      journal={arXiv preprint arXiv:2310.15052},
+      year={2023}
+    }
+    ```
+
+    </details>
+
 #### 2024
 - **[7] M3D: Dataset Condensation by Minimizing Maximum Mean Discrepancy**, AAAI 2024.  
 *Hansong Zhang, Shikun Li, Pengju Wang, Dan Zeng, Shiming Ge*  
@@ -180,6 +198,23 @@
       title={Diversified Semantic Distribution Matching for Dataset Distillation},
       author={Li, Hongcheng and Zhou, Yucan and Gu, Xiaoyan and Li, Bo and Wang, Weiping},
       booktitle={Proceedings of the 32nd ACM International Conference on Multimedia},
+      year={2024}
+    }
+    ```
+
+    </details>
+
+- **[12] Dataset Condensation with Latent Quantile Matching**, CVPRW 2024.  
+*Wei Wei, Tom De Schepper, Kevin Mets*  
+![](https://img.shields.io/badge/LQM-blue) ![](https://img.shields.io/badge/Image_Classification-green) ![](https://img.shields.io/badge/Moment_Matching-red) ![](https://img.shields.io/badge/Dataset_Distillation-orange)
+<a href="https://openaccess.thecvf.com/content/CVPR2024W/DDCV/html/Wei_Dataset_Condensation_with_Latent_Quantile_Matching_CVPRW_2024_paper.html"><img src="https://img.shields.io/badge/CVPRW-Paper-%23D2691E" alt="Paper Badge"></a>
+    <details> <summary>BibTex</summary>
+
+    ```bibtex
+    @InProceedings{Wei2024dataset,
+      title={Dataset Condensation with Latent Quantile Matching},
+      author={Wei, Wei and De Schepper, Tom and Mets, Kevin},
+      booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},
       year={2024}
     }
     ```
