@@ -113,7 +113,7 @@
 
     </details>
 
-- **[11] DREAM+: Efficient Dataset Distillation by Bidirectional Representative Matching**, arXiv 2023.  
+- **[7] DREAM+: Efficient Dataset Distillation by Bidirectional Representative Matching**, arXiv 2023.  
 *Yanqing Liu, Jianyang Gu, Kai Wang, Zheng Zhu, Kaipeng Zhang, Wei Jiang, Yang You*  
 ![](https://img.shields.io/badge/DREAM+-blue) ![](https://img.shields.io/badge/Image_Classification-green) ![](https://img.shields.io/badge/Moment_Matching-red) ![](https://img.shields.io/badge/Dataset_Distillation-orange)
 <a href="https://arxiv.org/abs/2310.15052"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arXiv" alt="Paper Badge"></a>
@@ -132,7 +132,7 @@
     </details>
 
 #### 2024
-- **[7] M3D: Dataset Condensation by Minimizing Maximum Mean Discrepancy**, AAAI 2024.  
+- **[8] M3D: Dataset Condensation by Minimizing Maximum Mean Discrepancy**, AAAI 2024.  
 *Hansong Zhang, Shikun Li, Pengju Wang, Dan Zeng, Shiming Ge*  
 ![](https://img.shields.io/badge/M3D-blue) ![](https://img.shields.io/badge/Image_Classification-green) ![](https://img.shields.io/badge/Moment_Matching-red) ![](https://img.shields.io/badge/Dataset_Distillation-orange)
 <a href="https://ojs.aaai.org/index.php/AAAI/article/view/28784"><img src="https://img.shields.io/badge/AAAI-Paper-%23D2691E" alt="Paper Badge"></a>
@@ -150,7 +150,7 @@
 
     </details>
 
-- **[8] Exploiting Inter-sample and Inter-feature Relations in Dataset Distillation**, CVPR 2024.  
+- **[9] Exploiting Inter-sample and Inter-feature Relations in Dataset Distillation**, CVPR 2024.  
 *Wenxiao Deng, Wenbin Li, Tianyu Ding, Lei Wang, Hongguang Zhang, Kuihua Huang, Jing Huo, Yang Gao*  
 ![](https://img.shields.io/badge/IID-blue) ![](https://img.shields.io/badge/Image_Classification-green) ![](https://img.shields.io/badge/Moment_Matching-red) ![](https://img.shields.io/badge/Dataset_Distillation-orange)
 <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Deng_Exploiting_Inter-sample_and_Inter-feature_Relations_in_Dataset_Distillation_CVPR_2024_paper.pdf"><img src="https://img.shields.io/badge/CVPR-Paper-%23D2691E" alt="Paper Badge"></a>
@@ -168,7 +168,7 @@
 
     </details>
 
-- **[9] DANCE: Dual-View Distribution Alignment for Dataset Condensation**, IJCAI 2024.  
+- **[10] DANCE: Dual-View Distribution Alignment for Dataset Condensation**, IJCAI 2024.  
 *Hansong Zhang, Shikun Li, Fanzhao Lin, Weiping Wang, Zhenxing Qian, Shiming Ge*  
 ![](https://img.shields.io/badge/DANCE-blue) ![](https://img.shields.io/badge/Image_Classification-green) ![](https://img.shields.io/badge/Moment_Matching-red) ![](https://img.shields.io/badge/Dataset_Distillation-orange)
 <a href="https://www.ijcai.org/proceedings/2024/0186.pdf"><img src="https://img.shields.io/badge/IJCAI-Paper-%23D2691E" alt="Paper Badge"></a>
@@ -186,7 +186,7 @@
 
     </details>
 
-- **[10] Diversified Semantic Distribution Matching for Dataset Distillation**, ACM MM 2024.  
+- **[11] Diversified Semantic Distribution Matching for Dataset Distillation**, ACM MM 2024.  
 *Hongcheng Li, Yucan Zhou, Xiaoyan Gu, Bo Li, Weiping Wang*  
 ![](https://img.shields.io/badge/DSDM-blue) ![](https://img.shields.io/badge/Image_Classification-green) ![](https://img.shields.io/badge/Moment_Matching-red) ![](https://img.shields.io/badge/Dataset_Distillation-orange)
 <a href="https://dl.acm.org/doi/10.1145/3664647.3680900"><img src="https://img.shields.io/badge/ACM_MM-Paper-%23D2691E" alt="Paper Badge"></a>
