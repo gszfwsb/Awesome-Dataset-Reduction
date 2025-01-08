@@ -228,7 +228,7 @@
 
   </details> 
 
-- **[11] PUMA: margin-based data pruning**, arXiv 2024.  
+- **[12] PUMA: margin-based data pruning**, arXiv 2024.  
   *Javier Maroto, Pascal Frossard*
 
 ![](https://img.shields.io/badge/PUMA-blue) ![](https://img.shields.io/badge/Image_Classification-green)  ![](https://img.shields.io/badge/Decision_Boundary-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
@@ -247,7 +247,7 @@
 
   </details> 
 
-- **[11] Feature Distribution Matching by Optimal Transport for Effective and Robust Coreset Selection**, AAAI 2024.  
+- **[13] Feature Distribution Matching by Optimal Transport for Effective and Robust Coreset Selection**, AAAI 2024.  
   *Weiwei Xiao, Yongyong Chen, Qiben Shan, Yaowei Wang, Jingyong Su*
 
 ![](https://img.shields.io/badge/CoLAL-blue) ![](https://img.shields.io/badge/Active_Learning-green)  ![](https://img.shields.io/badge/Decision_Boundary-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
