@@ -23,7 +23,7 @@
 
 #### 2018
 
-- **[2] Active bias: Training more accurate neural networks by emphasizing high variance samples**, NIPS 2017.  
+- **[2] Adversarial active learning for deep networks: a margin based approach**, arXiv 2018.  
   *Melanie Ducoffe, Frederic Precioso*   
   ![](https://img.shields.io/badge/Active_Learning-green)  ![](https://img.shields.io/badge/Decision_Boundary-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
   <img src="https://img.shields.io/badge/NeurlPS-Paper-%23D2691E" alt="Paper Badge">
@@ -38,9 +38,12 @@
     journal={arXiv preprint arXiv:1802.09841},
     year={2018}
   }
+
+    ```
+    
     ```
 
-    </details> 
+</details> 
 
 #### 2021
 
