@@ -11,11 +11,11 @@
   
     ```bibtex
     @article{chang2017active,
-      title={Active bias: Training more accurate neural networks by emphasizing high variance samples},
-      author={Chang, Haw-Shiuan and Learned-Miller, Erik and McCallum, Andrew},
-      journal={Advances in Neural Information Processing Systems},
-      volume={30},
-      year={2017}
+      	title={Active bias: Training more accurate neural networks by emphasizing high variance samples},
+      	author={Chang, Haw-Shiuan and Learned-Miller, Erik and McCallum, Andrew},
+      	journal={Advances in Neural Information Processing Systems},
+      	volume={30},
+      	year={2017}
     }
     ```
   
@@ -33,10 +33,10 @@
 
     ```bibtex
       @article{ducoffe2018adversarial,
-        title={Adversarial active learning for deep networks: a margin based approach},
-        author={Ducoffe, Melanie and Precioso, Frederic},
-        journal={arXiv preprint arXiv:1802.09841},
-        year={2018}
+        	title={Adversarial active learning for deep networks: a margin based approach},
+        	author={Ducoffe, Melanie and Precioso, Frederic},
+        	journal={arXiv preprint arXiv:1802.09841},
+        	year={2018}
       }
 </details> 
 
@@ -52,13 +52,12 @@
 
 
     ```bibtex
-  @article{chen2021face,
-    	title={Face-NMS: A Core-set Selection Approach for Efficient Face Recognition},
-   	 author={Chen, Yunze and Huang, Junjie and Zhu, Jiagang and Zhu, Zheng and Yang, Tian and Huang, Guan and Du, Dalong},
-    	journal={arXiv preprint arXiv:2109.04698},
-    	year={2021}
-  }
-
+      @article{chen2021face,
+        	title={Face-NMS: A Core-set Selection Approach for Efficient Face Recognition},
+       	 	author={Chen, Yunze and Huang, Junjie and Zhu, Jiagang and Zhu, Zheng and Yang, Tian and Huang, Guan and Du, Dalong},
+        	journal={arXiv preprint arXiv:2109.04698},
+        	year={2021}
+      }
 </details> 
 
 - **[4] Active learning by acquiring contrastive examples**, arXiv 2021.   
@@ -71,16 +70,13 @@
 
 
     ```bibtex
-  @article{margatina2021active,
-   	 title={Active learning by acquiring contrastive examples},
-   	 author={Margatina, Katerina and Vernikos, Giorgos and Barrault, Lo{\"\i}c and Aletras, Nikolaos},
-	    journal={arXiv preprint arXiv:2109.03764},
- 	   year={2021}
-  }
-    ```
-    ```
-
-    </details> 
+      @article{margatina2021active,
+       	 	title={Active learning by acquiring contrastive examples},
+      		author={Margatina, Katerina and Vernikos, Giorgos and Barrault, Lo{\"\i}c and Aletras, Nikolaos},
+    	   	journal={arXiv preprint arXiv:2109.03764},
+     	   	year={2021}
+      }
+</details> 
 
 - **[5] Accelerating Deep Learning with Dynamic Data Pruning**, arXiv 2021.   
   *Ravi S Raju, Kyle Daruwalla, Mikko Lipasti*   
@@ -91,15 +87,13 @@
 
 
     ```bibtex
-  @article{raju2021accelerating,
-        title={Accelerating Deep Learning with Dynamic Data Pruning}, 
-        author={Raju, Ravi S and Daruwalla, Kyle and Lipasti, Mikko},
-        journal={arXiv preprint arXiv:2111.12621},
-        year={2021}
-  }
-    ```
-
-    </details> 
+      @article{raju2021accelerating,
+            title={Accelerating Deep Learning with Dynamic Data Pruning}, 
+            author={Raju, Ravi S and Daruwalla, Kyle and Lipasti, Mikko},
+            journal={arXiv preprint arXiv:2111.12621},
+            year={2021}
+      }
+</details> 
 
 #### 2023
 
