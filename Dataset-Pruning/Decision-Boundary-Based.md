@@ -93,6 +93,8 @@
 ![](https://img.shields.io/badge/Sometimes-blue) ![](https://img.shields.io/badge/Image_Classification-green)  ![](https://img.shields.io/badge/Decision_Boundary-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
 <a href="https://proceedings.neurips.cc/paper_files/paper/2023/file/749252feedd44f7f10d47ec1d674a2f8-Paper-Conference.pdf"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arXiv" alt="Paper Badge"></a>
 
+  <details> <summary>BibTex</summary>
+
 ```
 @article{raju2021accelerating,
       title={Accelerating Deep Learning with Dynamic Data Pruning}, 
@@ -112,6 +114,8 @@
 ![](https://img.shields.io/badge/C^3-blue) ![](https://img.shields.io/badge/Active_Learning-green)  ![](https://img.shields.io/badge/Decision_Boundary-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
 <a href="https://arxiv.org/pdf/2401.16193"><img src="https://img.shields.io/badge/AAAI-Paper-%23D2691E" alt="Paper Badge"></a>
 
+  <details> <summary>BibTex</summary>
+
 ```
 @inproceedings{geng2023multi,
   title={Multi-classifier adversarial optimization for active learning},
@@ -129,6 +133,8 @@
 ![](https://img.shields.io/badge/SLo_Curves-blue) ![](https://img.shields.io/badge/Image_Classification-green)  ![](https://img.shields.io/badge/Decision_Boundary-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
 <a href="https://openaccess.thecvf.com/content_cvpr_2017/poster/739_POSTER.pdf"><img src="https://img.shields.io/badge/CVPR-Paper-%23D2691E" alt="Paper Badge"></a>
 <a href="https://github.com/isha-garg/SLo-Curves"><img src="https://img.shields.io/badge/GitHub-Code-brightgreen?logo=github" alt="Code Badge"></a>
+
+  <details> <summary>BibTex</summary>
 
 ```
 @inproceedings{garg2023samples,
@@ -149,6 +155,8 @@
 <a href="https://proceedings.neurips.cc/paper_files/paper/2023/file/749252feedd44f7f10d47ec1d674a2f8-Paper-Conference.pdf"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arXiv" alt="Paper Badge"></a>
 <a href="https://github.com/Lackel/LOOP"><img src="https://img.shields.io/badge/GitHub-Code-brightgreen?logo=github" alt="Code Badge"></a>
 
+  <details> <summary>BibTex</summary>
+
 ```
 @article{an2023generalized,
   title={Generalized category discovery with large language models in the loop},
@@ -165,6 +173,8 @@
 
 ![](https://img.shields.io/badge/DynaMS-blue) ![](https://img.shields.io/badge/Image_Classification-green)  ![](https://img.shields.io/badge/Decision_Boundary-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
 <a href="https://fanlai.me/assets/papers/coreset-iclr23.pdf"><img src="https://img.shields.io/badge/ICLR-Paper-%23D2691E" alt="Paper Badge"></a>
+
+  <details> <summary>BibTex</summary>
 
 ```
 @inproceedings{wang2023dynams,
@@ -185,6 +195,8 @@
 ![](https://img.shields.io/badge/Image_Classification-green)  ![](https://img.shields.io/badge/Decision_Boundary-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
 <a href="https://fanlai.me/assets/papers/coreset-iclr23.pdf"><img src="https://img.shields.io/badge/ICML-Paper-%23D2691E" alt="Paper Badge"></a>
 
+  <details> <summary>BibTex</summary>
+
 ```
 @inproceedings{yang2024mind,
   title={Mind the Boundary: Coreset Selection via Reconstructing the Decision Boundary},
@@ -203,6 +215,8 @@
 <a href="https://arxiv.org/pdf/2401.16193"><img src="https://img.shields.io/badge/AAAI-Paper-%23D2691E" alt="Paper Badge"></a>
 <a href="https://github.com/successhaha/FDMat"><img src="https://img.shields.io/badge/GitHub-Code-brightgreen?logo=github" alt="Code Badge"></a>
 
+  <details> <summary>BibTex</summary>
+
 ```
 @inproceedings{xiao2024feature,
   title={Feature Distribution Matching by Optimal Transport for Effective and Robust Coreset Selection},
@@ -220,6 +234,8 @@
 ![](https://img.shields.io/badge/PUMA-blue) ![](https://img.shields.io/badge/Image_Classification-green)  ![](https://img.shields.io/badge/Decision_Boundary-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
 <a href="https://proceedings.neurips.cc/paper_files/paper/2023/file/749252feedd44f7f10d47ec1d674a2f8-Paper-Conference.pdf"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arXiv" alt="Paper Badge"></a>
 
+  <details> <summary>BibTex</summary>
+
 ```
 @article{maroto2024puma,
   title={PUMA: margin-based data pruning},
@@ -236,6 +252,8 @@
 
 ![](https://img.shields.io/badge/CoLAL-blue) ![](https://img.shields.io/badge/Active Learning-green)  ![](https://img.shields.io/badge/Decision_Boundary-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
 <a href="https://arxiv.org/pdf/2401.16193"><img src="https://img.shields.io/badge/AAAI-Paper-%23D2691E" alt="Paper Badge"></a>
+
+  <details> <summary>BibTex</summary>
 
 ```
 @inproceedings{le2024colal,
