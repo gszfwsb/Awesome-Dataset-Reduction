@@ -4,7 +4,7 @@
 
 - **[1] Active bias: Training more accurate neural networks by emphasizing high variance samples**, NIPS 2017.  
   *Haw-Shiuan Chang, Erik Learned-Miller, Andrew McCallum*   
-  ![](https://img.shields.io/badge/iCaRL-blue)![](https://img.shields.io/badge/Active_bias-blue) ![](https://img.shields.io/badge/Active_Learning-green)  ![](https://img.shields.io/badge/Decision_Boundary-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
+  ![](https://img.shields.io/badge/Active_bias-blue) ![](https://img.shields.io/badge/Active_Learning-green)  ![](https://img.shields.io/badge/Decision_Boundary-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
   <img src="https://img.shields.io/badge/NeurlPS-Paper-%23D2691E" alt="Paper Badge">
   
     <details> <summary>BibTex</summary>
@@ -46,7 +46,7 @@
 
 - **[3] Face-NMS: A Core-set Selection Approach for Efficient Face Recognition**, arXiv 2021.   
   *Yunze Chen, Junjie Huang, Jiagang Zhu, Zheng Zhu, Tian Yang, Guan Huang, Dalong Du*   
-  ![](https://img.shields.io/badge/Active_Learning-green)![](https://img.shields.io/badge/Face_NMS-blue) ![](https://img.shields.io/badge/Face_Recognition-green)  ![](https://img.shields.io/badge/Decision_Boundary-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
+  ![](https://img.shields.io/badge/Face_NMS-blue) ![](https://img.shields.io/badge/Face_Recognition-green)  ![](https://img.shields.io/badge/Decision_Boundary-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
   <a href="https://proceedings.neurips.cc/paper_files/paper/2023/file/749252feedd44f7f10d47ec1d674a2f8-Paper-Conference.pdf"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arXiv" alt="Paper Badge"></a>
   <a href="https://github.com/HuangJunJie2017/Face-NMS"><img src="https://img.shields.io/badge/GitHub-Code-brightgreen?logo=github" alt="Code Badge"></a>
 
