@@ -33,10 +33,10 @@
 
     ```bibtex
       @article{ducoffe2018adversarial,
-        	title={Adversarial active learning for deep networks: a margin based approach},
-        	author={Ducoffe, Melanie and Precioso, Frederic},
-        	journal={arXiv preprint arXiv:1802.09841},
-        	year={2018}
+        title={Adversarial active learning for deep networks: a margin based approach},
+        author={Ducoffe, Melanie and Precioso, Frederic},
+        journal={arXiv preprint arXiv:1802.09841},
+        year={2018}
       }
 </details> 
 
@@ -53,11 +53,12 @@
 
     ```bibtex
   @article{chen2021face,
-    title={Face-NMS: A Core-set Selection Approach for Efficient Face Recognition},
-    author={Chen, Yunze and Huang, Junjie and Zhu, Jiagang and Zhu, Zheng and Yang, Tian and Huang, Guan and Du, Dalong},
-    journal={arXiv preprint arXiv:2109.04698},
-    year={2021}
+    	title={Face-NMS: A Core-set Selection Approach for Efficient Face Recognition},
+   	author={Chen, Yunze and Huang, Junjie and Zhu, Jiagang and Zhu, Zheng and Yang, Tian and Huang, Guan and Du, Dalong},
+    	journal={arXiv preprint arXiv:2109.04698},
+    	year={2021}
   }
+    ```
     ```
 
     </details> 
@@ -73,10 +74,10 @@
 
     ```bibtex
   @article{margatina2021active,
-    title={Active learning by acquiring contrastive examples},
-    author={Margatina, Katerina and Vernikos, Giorgos and Barrault, Lo{\"\i}c and Aletras, Nikolaos},
-    journal={arXiv preprint arXiv:2109.03764},
-    year={2021}
+   	 title={Active learning by acquiring contrastive examples},
+   	 author={Margatina, Katerina and Vernikos, Giorgos and Barrault, Lo{\"\i}c and Aletras, Nikolaos},
+	    journal={arXiv preprint arXiv:2109.03764},
+ 	   year={2021}
   }
     ```
 
