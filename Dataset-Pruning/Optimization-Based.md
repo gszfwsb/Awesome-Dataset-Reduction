@@ -1,6 +1,6 @@
 ### 🖼️ Optimization-Based Methods
 
-#### Bilevel-Optimization-Based Methods
+#### 🎯 Bilevel-Optimization-Based Methods
 ##### 2020
 - **[1] Coresets via bilevel optimization for continual learning and Streaming**, NIPS 2020.  
 *Zalán Borsos, Mojmír Mutný, Andreas Krause*  
@@ -57,4 +57,24 @@
 
     </details>
 
-#### Submodularity Based Methods
+##### 2024
+- **[4] Refined Coreset Selection: Towards Minimal Coreset Size under Model Performance Constraints**, ICML 2024.  
+*Xiaobo Xia and Jiale Liu and Shaokun Zhang and Qingyun Wu and Hongxin Wei and Tongliang Liu*  
+![](https://img.shields.io/badge/LBCS-blue) ![](https://img.shields.io/badge/Image_Classification-green)  ![](https://img.shields.io/badge/Optimization-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
+<a href="https://openreview.net/pdf?id=yb5xV8LFDq"><img src="https://img.shields.io/badge/ICML-Paper-%23D2691E?logo=ICML" alt="Paper Badge"></a>
+<a href="https://github.com/xiaoboxia/LBCS"><img src="https://img.shields.io/badge/GitHub-Code-brightgreen?logo=github" alt="Code Badge"></a>
+    <details> <summary>BibTex</summary>
+
+    ```bibtex
+    @inproceedings{xia2024refined,
+    title={Refined Coreset Selection: Towards Minimal Coreset Size under Model Performance Constraints},
+    author={Xiaobo Xia and Jiale Liu and Shaokun Zhang and Qingyun Wu and Hongxin Wei and Tongliang Liu},
+    booktitle={Forty-first International Conference on Machine Learning},
+    year={2024}
+    }
+    ```
+
+    </details>
+
+
+#### 🎯 Submodularity Based Methods
