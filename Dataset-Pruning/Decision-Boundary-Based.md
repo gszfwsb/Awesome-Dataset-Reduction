@@ -215,12 +215,12 @@
 
 
     ```bibtex
-    	@article{maroto2024puma,
-      		title={PUMA: margin-based data pruning},
-      		author={Maroto, Javier and Frossard, Pascal},
-      		journal={arXiv preprint arXiv:2405.06298},
-      		year={2024}
-    	}
+    @article{maroto2024puma,
+      	title={PUMA: margin-based data pruning},
+      	author={Maroto, Javier and Frossard, Pascal},
+      	journal={arXiv preprint arXiv:2405.06298},
+      	year={2024}
+    }
 
 </details> 
 
@@ -231,16 +231,15 @@
   ![](https://img.shields.io/badge/CoLAL-blue) ![](https://img.shields.io/badge/Active_Learning-green)  ![](https://img.shields.io/badge/Decision_Boundary-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
   <a href="https://arxiv.org/pdf/2401.16193"><img src="https://img.shields.io/badge/AAAI-Paper-%23D2691E" alt="Paper Badge"></a>
 
-   <details> <summary>BibTex</summary>
+    <details> <summary>BibTex</summary>
 
-  ```
-  @inproceedings{le2024colal,
-    title={CoLAL: Co-learning Active Learning for Text Classification},
-    author={Le, Linh and Zhao, Genghong and Zhang, Xia and Zuccon, Guido and Demartini, Gianluca},
-    booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
-    year={2024}
-  }
-  ```
 
-    </details> 
+    ```bibtex
+    @article{maroto2024puma,
+      	title={PUMA: margin-based data pruning},
+      	author={Maroto, Javier and Frossard, Pascal},
+      	journal={arXiv preprint arXiv:2405.06298},
+      	year={2024}
+    }
 
+</details> 
