@@ -250,7 +250,7 @@
 - **[11] Feature Distribution Matching by Optimal Transport for Effective and Robust Coreset Selection**, AAAI 2024.  
   *Weiwei Xiao, Yongyong Chen, Qiben Shan, Yaowei Wang, Jingyong Su*
 
-![](https://img.shields.io/badge/CoLAL-blue) ![](https://img.shields.io/badge/Active Learning-green)  ![](https://img.shields.io/badge/Decision_Boundary-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
+![](https://img.shields.io/badge/CoLAL-blue) ![](https://img.shields.io/badge/Active_Learning-green)  ![](https://img.shields.io/badge/Decision_Boundary-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
 <a href="https://arxiv.org/pdf/2401.16193"><img src="https://img.shields.io/badge/AAAI-Paper-%23D2691E" alt="Paper Badge"></a>
 
   <details> <summary>BibTex</summary>
