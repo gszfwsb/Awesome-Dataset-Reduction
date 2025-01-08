@@ -30,7 +30,7 @@ A curated list of awesome papers on dataset reduction, including dataset distill
 ![](https://img.shields.io/badge/Method_Abbreviation-blue) ![](https://img.shields.io/badge/Data_Domain-green)  ![](https://img.shields.io/badge/Reduction_Criteria-red) ![](https://img.shields.io/badge/Reduction_Mechanism-orange)
 
 ## :star: Star Trends
-[![Star History Chart](https://api.star-history.com/svg?repos=gszfwsb/Awesome-Dataset-Reduction&type=Date)](https://star-history.com/#gszfwsb/Awesome-Dataset-Reduction&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=gszfwsb/Awesome-Dataset-Reduction&type=Timeline)](https://star-history.com/#gszfwsb/Awesome-Dataset-Reduction&Timeline)
 
 ## 🧑‍💻 Contribution
 
