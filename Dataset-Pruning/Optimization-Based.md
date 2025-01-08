@@ -57,8 +57,27 @@
 
     </details>
 
+##### 2022
+- **[4] Probabilistic Bilevel Coreset Selection**, ICML 2022.  
+*Xiao Zhou, Renjie Pi, Weizhong Zhang, Yong Lin, Zonghao Chen, Tong Zhang*  
+![](https://img.shields.io/badge/Probabilistic_Bilevel_Coreset_Selection-blue) ![](https://img.shields.io/badge/Image_Classification-green)  ![](https://img.shields.io/badge/Optimization-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
+<a href="https://proceedings.mlr.press/v162/zhou22h/zhou22h.pdf"><img src="https://img.shields.io/badge/ICML-Paper-%23D2691E?logo=ICML" alt="Paper Badge"></a>
+<a href="https://github.com/x-zho14/Probabilistic-Bilevel-Coreset-Selection"><img src="https://img.shields.io/badge/GitHub-Code-brightgreen?logo=github" alt="Code Badge"></a>
+    <details> <summary>BibTex</summary>
+
+    ```bibtex
+    @inproceedings{zhou2022probabilistic,
+    title={Probabilistic Bilevel Coreset Selection},
+    author={Zhou, Xiao and Pi, Renjie and Zhang, Weizhong and Lin, Yong and Zhang, Tong},
+    booktitle={International Conference on Machine Learning},
+    year={2022}
+    }
+    ```
+
+    </details>
+
 ##### 2024
-- **[4] Refined Coreset Selection: Towards Minimal Coreset Size under Model Performance Constraints**, ICML 2024.  
+- **[5] Refined Coreset Selection: Towards Minimal Coreset Size under Model Performance Constraints**, ICML 2024.  
 *Xiaobo Xia and Jiale Liu and Shaokun Zhang and Qingyun Wu and Hongxin Wei and Tongliang Liu*  
 ![](https://img.shields.io/badge/LBCS-blue) ![](https://img.shields.io/badge/Image_Classification-green)  ![](https://img.shields.io/badge/Optimization-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
 <a href="https://openreview.net/pdf?id=yb5xV8LFDq"><img src="https://img.shields.io/badge/ICML-Paper-%23D2691E?logo=ICML" alt="Paper Badge"></a>
