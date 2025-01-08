@@ -102,6 +102,8 @@
 }
 ```
 
+  </details> 
+
 #### 2023
 
 - **[6] Multi-classifier adversarial optimization for active learning**, AAAI 2023.  
