@@ -5,7 +5,7 @@
 - **[1] Active bias: Training more accurate neural networks by emphasizing high variance samples**, NIPS 2017.  
   *Haw-Shiuan Chang, Erik Learned-Miller, Andrew McCallum*
 
-![](https://img.shields.io/badge/Active_bias-blue) ![](https://img.shields.io/badge/Active_Learning-green)  ![](https://img.shields.io/badge/Decision Boundary-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
+![](https://img.shields.io/badge/Active_bias-blue) ![](https://img.shields.io/badge/Active_Learning-green)  ![](https://img.shields.io/badge/Decision_Boundary-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
 <img src="https://img.shields.io/badge/NeurlPS-Paper-%23D2691E" alt="Paper Badge">
 
   <details> <summary>BibTex</summary>
@@ -28,7 +28,7 @@
 - **[2] Adversarial active learning for deep networks: a margin based approach**, arXiv 2018.  
   *Melanie Ducoffe, Frederic Precioso*
 
-![](https://img.shields.io/badge/Active_Learning-green)  ![](https://img.shields.io/badge/Decision Boundary-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
+![](https://img.shields.io/badge/Active_Learning-green)  ![](https://img.shields.io/badge/Decision_Boundary-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
 <a href="https://arxiv.org/pdf/1203.3472"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arXiv" alt="Paper Badge"></a>
 
   <details> <summary>BibTex</summary>
@@ -50,7 +50,7 @@
 - **[3] Face-NMS: A Core-set Selection Approach for Efficient Face Recognition**, arXiv 2021.  
   *Yunze Chen, Junjie Huang, Jiagang Zhu, Zheng Zhu, Tian Yang, Guan Huang, Dalong Du*
 
-![](https://img.shields.io/badge/Face NMS-blue) ![](https://img.shields.io/badge/Face Recognition-green)  ![](https://img.shields.io/badge/Decision Boundary-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
+![](https://img.shields.io/badge/Face_NMS-blue) ![](https://img.shields.io/badge/Face_Recognition-green)  ![](https://img.shields.io/badge/Decision_Boundary-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
 <a href="https://proceedings.neurips.cc/paper_files/paper/2023/file/749252feedd44f7f10d47ec1d674a2f8-Paper-Conference.pdf"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arXiv" alt="Paper Badge"></a>
 <a href="https://github.com/HuangJunJie2017/Face-NMS"><img src="https://img.shields.io/badge/GitHub-Code-brightgreen?logo=github" alt="Code Badge"></a>
 
@@ -70,7 +70,7 @@
 - **[4] Active learning by acquiring contrastive examples**, arXiv 2021.  
   *Katerina Margatina, Giorgos Vernikos, Loïc Barrault, Nikolaos Aletras*
 
-![](https://img.shields.io/badge/CAL-blue) ![](https://img.shields.io/badge/Active Learning-green)  ![](https://img.shields.io/badge/Decision Boundary-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
+![](https://img.shields.io/badge/CAL-blue) ![](https://img.shields.io/badge/Active_Learning-green)  ![](https://img.shields.io/badge/Decision_Boundary-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
 <a href="https://proceedings.neurips.cc/paper_files/paper/2023/file/749252feedd44f7f10d47ec1d674a2f8-Paper-Conference.pdf"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arXiv" alt="Paper Badge"></a>
 <a href="https://github.com/mourga/contrastive-active-learning"><img src="https://img.shields.io/badge/GitHub-Code-brightgreen?logo=github" alt="Code Badge"></a>
 
@@ -90,7 +90,7 @@
 - **[5] Accelerating Deep Learning with Dynamic Data Pruning**, arXiv 2021.  
   *Katerina Margatina, Giorgos Vernikos, Loïc Barrault, Nikolaos Aletras*
 
-![](https://img.shields.io/badge/Sometimes-blue) ![](https://img.shields.io/badge/Image_Classification-green)  ![](https://img.shields.io/badge/Decision Boundary-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
+![](https://img.shields.io/badge/Sometimes-blue) ![](https://img.shields.io/badge/Image_Classification-green)  ![](https://img.shields.io/badge/Decision_Boundary-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
 <a href="https://proceedings.neurips.cc/paper_files/paper/2023/file/749252feedd44f7f10d47ec1d674a2f8-Paper-Conference.pdf"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arXiv" alt="Paper Badge"></a>
 
 ```
@@ -107,7 +107,7 @@
 - **[6] Multi-classifier adversarial optimization for active learning**, AAAI 2023.  
   *Lin Geng, Ningzhong Liu, Jie Qin*
 
-![](https://img.shields.io/badge/C^3-blue) ![](https://img.shields.io/badge/Active Learning-green)  ![](https://img.shields.io/badge/Decision Boundary-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
+![](https://img.shields.io/badge/C^3-blue) ![](https://img.shields.io/badge/Active_Learning-green)  ![](https://img.shields.io/badge/Decision_Boundary-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
 <a href="https://arxiv.org/pdf/2401.16193"><img src="https://img.shields.io/badge/AAAI-Paper-%23D2691E" alt="Paper Badge"></a>
 
 ```
@@ -124,7 +124,7 @@
 - **[7] Samples with low loss curvature improve data efficiency**, CVPR 2023.  
   *Isha Garg, Kaushik Roy*
 
-![](https://img.shields.io/badge/SLo_Curves-blue) ![](https://img.shields.io/badge/Image_Classification-green)  ![](https://img.shields.io/badge/Decision Boundary-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
+![](https://img.shields.io/badge/SLo_Curves-blue) ![](https://img.shields.io/badge/Image_Classification-green)  ![](https://img.shields.io/badge/Decision_Boundary-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
 <a href="https://openaccess.thecvf.com/content_cvpr_2017/poster/739_POSTER.pdf"><img src="https://img.shields.io/badge/CVPR-Paper-%23D2691E" alt="Paper Badge"></a>
 <a href="https://github.com/isha-garg/SLo-Curves"><img src="https://img.shields.io/badge/GitHub-Code-brightgreen?logo=github" alt="Code Badge"></a>
 
@@ -143,7 +143,7 @@
 - **[8] Generalized category discovery with large language models in the loop**, arXiv 2023.  
   *Wenbin An, Wenkai Shi, Feng Tian, Haonan Lin, QianYing Wang, Yaqiang Wu, Mingxiang Cai, Luyan Wang, Yan Chen, Haiping Zhu, Ping Chen*
 
-![](https://img.shields.io/badge/LIS-blue) ![](https://img.shields.io/badge/Active_Learning-green)  ![](https://img.shields.io/badge/Decision Boundary-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
+![](https://img.shields.io/badge/LIS-blue) ![](https://img.shields.io/badge/Active_Learning-green)  ![](https://img.shields.io/badge/Decision_Boundary-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
 <a href="https://proceedings.neurips.cc/paper_files/paper/2023/file/749252feedd44f7f10d47ec1d674a2f8-Paper-Conference.pdf"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arXiv" alt="Paper Badge"></a>
 <a href="https://github.com/Lackel/LOOP"><img src="https://img.shields.io/badge/GitHub-Code-brightgreen?logo=github" alt="Code Badge"></a>
 
@@ -161,7 +161,7 @@
 - **[9] DynaMS: Dyanmic margin selection for efficient deep learning**, ICLR 2023.  
   *Wenbin An, Wenkai Shi, Feng Tian, Haonan Lin, QianYing Wang, Yaqiang Wu, Mingxiang Cai, Luyan Wang, Yan Chen, Haiping Zhu, Ping Chen*
 
-![](https://img.shields.io/badge/DynaMS-blue) ![](https://img.shields.io/badge/Image_Classification-green)  ![](https://img.shields.io/badge/Decision Boundary-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
+![](https://img.shields.io/badge/DynaMS-blue) ![](https://img.shields.io/badge/Image_Classification-green)  ![](https://img.shields.io/badge/Decision_Boundary-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
 <a href="https://fanlai.me/assets/papers/coreset-iclr23.pdf"><img src="https://img.shields.io/badge/ICLR-Paper-%23D2691E" alt="Paper Badge"></a>
 
 ```
@@ -180,7 +180,7 @@
 - **[10] Mind the Boundary: Coreset Selection via Reconstructing the Decision Boundary**, ICML 2024.  
   *Shuo Yang, Zhe Cao, Sheng Guo, Ruiheng Zhang, Ping Luo, Shengping Zhang, Liqiang Nie*
 
-![](https://img.shields.io/badge/Image_Classification-green)  ![](https://img.shields.io/badge/Decision Boundary-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
+![](https://img.shields.io/badge/Image_Classification-green)  ![](https://img.shields.io/badge/Decision_Boundary-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
 <a href="https://fanlai.me/assets/papers/coreset-iclr23.pdf"><img src="https://img.shields.io/badge/ICML-Paper-%23D2691E" alt="Paper Badge"></a>
 
 ```
@@ -197,7 +197,7 @@
 - **[11] Feature Distribution Matching by Optimal Transport for Effective and Robust Coreset Selection**, AAAI 2024.  
   *Weiwei Xiao, Yongyong Chen, Qiben Shan, Yaowei Wang, Jingyong Su*
 
-![](https://img.shields.io/badge/FDMat-blue) ![](https://img.shields.io/badge/Image_Classification-green)  ![](https://img.shields.io/badge/Decision Boundary-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
+![](https://img.shields.io/badge/FDMat-blue) ![](https://img.shields.io/badge/Image_Classification-green)  ![](https://img.shields.io/badge/Decision_Boundary-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
 <a href="https://arxiv.org/pdf/2401.16193"><img src="https://img.shields.io/badge/AAAI-Paper-%23D2691E" alt="Paper Badge"></a>
 <a href="https://github.com/successhaha/FDMat"><img src="https://img.shields.io/badge/GitHub-Code-brightgreen?logo=github" alt="Code Badge"></a>
 
@@ -215,7 +215,7 @@
 - **[11] PUMA: margin-based data pruning**, arXiv 2024.  
   *Javier Maroto, Pascal Frossard*
 
-![](https://img.shields.io/badge/PUMA-blue) ![](https://img.shields.io/badge/Image_Classification-green)  ![](https://img.shields.io/badge/Decision Boundary-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
+![](https://img.shields.io/badge/PUMA-blue) ![](https://img.shields.io/badge/Image_Classification-green)  ![](https://img.shields.io/badge/Decision_Boundary-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
 <a href="https://proceedings.neurips.cc/paper_files/paper/2023/file/749252feedd44f7f10d47ec1d674a2f8-Paper-Conference.pdf"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arXiv" alt="Paper Badge"></a>
 
 ```
@@ -232,7 +232,7 @@
 - **[11] Feature Distribution Matching by Optimal Transport for Effective and Robust Coreset Selection**, AAAI 2024.  
   *Weiwei Xiao, Yongyong Chen, Qiben Shan, Yaowei Wang, Jingyong Su*
 
-![](https://img.shields.io/badge/CoLAL-blue) ![](https://img.shields.io/badge/Active Learning-green)  ![](https://img.shields.io/badge/Decision Boundary-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
+![](https://img.shields.io/badge/CoLAL-blue) ![](https://img.shields.io/badge/Active Learning-green)  ![](https://img.shields.io/badge/Decision_Boundary-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
 <a href="https://arxiv.org/pdf/2401.16193"><img src="https://img.shields.io/badge/AAAI-Paper-%23D2691E" alt="Paper Badge"></a>
 
 ```
