@@ -54,7 +54,7 @@
     ```bibtex
   @article{chen2021face,
     	title={Face-NMS: A Core-set Selection Approach for Efficient Face Recognition},
-   	author={Chen, Yunze and Huang, Junjie and Zhu, Jiagang and Zhu, Zheng and Yang, Tian and Huang, Guan and Du, Dalong},
+   	 author={Chen, Yunze and Huang, Junjie and Zhu, Jiagang and Zhu, Zheng and Yang, Tian and Huang, Guan and Du, Dalong},
     	journal={arXiv preprint arXiv:2109.04698},
     	year={2021}
   }
@@ -79,6 +79,7 @@
 	    journal={arXiv preprint arXiv:2109.03764},
  	   year={2021}
   }
+    ```
     ```
 
     </details> 
