@@ -19,8 +19,27 @@
 
     </details> 
 
+#### 2021
+- **[2] Semi-Supervised Batch Active Learning Via Bilevel Optimization**, ICASSP 2021.  
+*Zalán Borsos, Marco Tagliasacchi, Andreas Krause*  
+![](https://img.shields.io/badge/Bilevel-blue) ![](https://img.shields.io/badge/Image_Classification-green)  ![](https://img.shields.io/badge/Proxy-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
+<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9414206"><img src="https://img.shields.io/badge/ICASSP-Paper-%23D2691E" alt="Paper Badge"></a>
+<a href="https://github.com/zalanborsos/bilevel_coresets"><img src="https://img.shields.io/badge/GitHub-Code-brightgreen?logo=github" alt="Code Badge"></a>
+    <details> <summary>BibTex</summary>
+
+    ```bibtex
+    @inproceedings{borsos2021semi-supervised,
+    title={Semi-Supervised Batch Active Learning Via Bilevel Optimization},
+    author={Borsos, Zalán and Tagliasacchi, Marco and Krause, Andreas},
+    booktitle={International Conference on Acoustics, Speech and Signal Processing},
+    year={2021}
+    }
+    ```
+
+    </details>
+
 #### 2022
-- **[2] On Sampling Collaborative Filtering Datasets**, WSDM 2022.  
+- **[3] On Sampling Collaborative Filtering Datasets**, WSDM 2022.  
 *Noveen Sachdeva, Carole-Jean Wu, Julian McAuley*  
 ![](https://img.shields.io/badge/SVP_CF-blue) ![](https://img.shields.io/badge/Image_Classification-green)  ![](https://img.shields.io/badge/Proxy-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
 <a href="https://dl.acm.org/doi/pdf/10.1145/3488560.3498439"><img src="https://img.shields.io/badge/WSDM-Paper-%23D2691E" alt="Paper Badge"></a>
