@@ -84,7 +84,7 @@
     <details> <summary>BibTex</summary>
 
     ```bibtex
-    @inproceedings{borsos2021semi-supervised,
+    @inproceedings{borsos2021semi,
     title={Semi-Supervised Batch Active Learning Via Bilevel Optimization},
     author={Borsos, Zalán and Tagliasacchi, Marco and Krause, Andreas},
     booktitle={International Conference on Acoustics, Speech and Signal Processing},
