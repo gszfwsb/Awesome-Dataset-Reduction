@@ -223,10 +223,29 @@
 
     </details>
 
+##### 2022
+- **[13] Prism: A rich class of parameterized submodular information measures for guided data subset selection**, AAAI 2022.  
+*Suraj Kothawade, Vishal Kaushal, Ganesh Ramakrishnan, Jeff Bilmes, Rishabh Iyer*  
+![](https://img.shields.io/badge/PRISM-blue) ![](https://img.shields.io/badge/Image_Classification-green)  ![](https://img.shields.io/badge/Optimization-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
+<a href="https://ojs.aaai.org/index.php/AAAI/article/view/21264/21013"><img src="https://img.shields.io/badge/AAAI-Paper-%23D2691E?logo=AAAI" alt="Paper Badge"></a>
+<a href="https://github.com/decile-team/submodlib"><img src="https://img.shields.io/badge/GitHub-Code-brightgreen?logo=github" alt="Code Badge"></a>
+    <details> <summary>BibTex</summary>
+
+    ```bibtex
+    @inproceedings{kothawade2022prism,
+    title={Prism: A rich class of parameterized submodular information measures for guided data subset selection},
+    author={Kothawade, Suraj and Kaushal, Vishal and Ramakrishnan, Ganesh and Bilmes, Jeff and Iyer, Rishabh},
+    booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+    year={2022}
+    }
+    ```
+
+    </details>
+
 #### 🎯 Discrete-Optimization-Based Methods
 
 ##### 2023
-- **[1] Dataset Pruning: Reducing Training Data by Examining Generalization Influence**, ICLR 2023.  
+- **[14] Dataset Pruning: Reducing Training Data by Examining Generalization Influence**, ICLR 2023.  
 *Shuo Yang, Zeke Xie, Hanyu Peng, MinXu, Mingming Sun, Ping Li*  
 ![](https://img.shields.io/badge/Optimization_based-blue) ![](https://img.shields.io/badge/Image_Classification-green)  ![](https://img.shields.io/badge/Optimization-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
 <a href="https://openreview.net/pdf?id=BSn88qhQpIm"><img src="https://img.shields.io/badge/ICLR-Paper-%23D2691E?logo=ICLR" alt="Paper Badge"></a>
