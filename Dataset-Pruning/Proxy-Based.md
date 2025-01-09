@@ -38,8 +38,26 @@
 
     </details>
 
+- **[3] Face-NMS: A Core-set Selection Approach for Efficient Face Recognition**, arXiv 2021.  
+*Yunze Chen, Junjie Huang, Jiagang Zhu, Zheng Zhu, Tian Yang, Guan Huang, Dalong Du*  
+![](https://img.shields.io/badge/Face_NMS-blue) ![](https://img.shields.io/badge/Image_Classification-green)  ![](https://img.shields.io/badge/Proxy-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
+<a href="https://arxiv.org/pdf/2109.04698"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E" alt="Paper Badge"></a>
+<a href="https://github.com/HuangJunJie2017/Face-NMS"><img src="https://img.shields.io/badge/GitHub-Code-brightgreen?logo=github" alt="Code Badge"></a>
+    <details> <summary>BibTex</summary>
+
+    ```bibtex
+    @article{chen2021face,
+    title={Face-NMS: A Core-set Selection Approach for Efficient Face Recognition},
+    author={Chen, Yunze and Huang, Junjie and Zhu, Jiagang and Zhu, Zheng and Yang, Tian and Huang, Guan and Du, Dalong},
+    journal={arXiv preprint arXiv:2109.04698},
+    year={2021}
+    }
+    ```
+
+    </details>
+
 #### 2022
-- **[3] On Sampling Collaborative Filtering Datasets**, WSDM 2022.  
+- **[4] On Sampling Collaborative Filtering Datasets**, WSDM 2022.  
 *Noveen Sachdeva, Carole-Jean Wu, Julian McAuley*  
 ![](https://img.shields.io/badge/SVP_CF-blue) ![](https://img.shields.io/badge/Image_Classification-green)  ![](https://img.shields.io/badge/Proxy-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
 <a href="https://dl.acm.org/doi/pdf/10.1145/3488560.3498439"><img src="https://img.shields.io/badge/WSDM-Paper-%23D2691E" alt="Paper Badge"></a>
