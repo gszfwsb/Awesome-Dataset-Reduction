@@ -2,10 +2,10 @@
 
 #### 🎯 Bilevel-Optimization-Based Methods
 ##### 2020
-- **[1] Coresets via bilevel optimization for continual learning and Streaming**, NIPS 2020.  
+- **[1] Coresets via bilevel optimization for continual learning and Streaming**, NeurIPS 2020.  
 *Zalán Borsos, Mojmír Mutný, Andreas Krause*  
 ![](https://img.shields.io/badge/Cardinality_Constrained_Bilevel_Optimization-blue) ![](https://img.shields.io/badge/Image_Classification-green)  ![](https://img.shields.io/badge/Optimization-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
-<a href="https://proceedings.neurips.cc/paper/2020/file/aa2a77371374094fe9e0bc1de3f94ed9-Paper.pdf"><img src="https://img.shields.io/badge/NIPS-Paper-%23D2691E?logo=NIPS" alt="Paper Badge"></a>
+<a href="https://proceedings.neurips.cc/paper/2020/file/aa2a77371374094fe9e0bc1de3f94ed9-Paper.pdf"><img src="https://img.shields.io/badge/NeurIPS-Paper-%23D2691E?logo=NIPS" alt="Paper Badge"></a>
 <a href="https://github.com/zalanborsos/bilevel_coresets"><img src="https://img.shields.io/badge/GitHub-Code-brightgreen?logo=github" alt="Code Badge"></a>
     <details> <summary>BibTex</summary>
 
@@ -39,10 +39,10 @@
 
     </details>
 
-- **[3] RETRIEVE: Coreset Selection for Efficient and Robust Semi-Supervised Learning**, NIPS 2021.  
+- **[3] RETRIEVE: Coreset Selection for Efficient and Robust Semi-Supervised Learning**, NeurIPS 2021.  
 *Krishnateja Killamsetty, Xujiang Zhao, Feng Chen, Rishabh Iyer*  
 ![](https://img.shields.io/badge/RETRIEVE-blue) ![](https://img.shields.io/badge/Image_Classification-green)  ![](https://img.shields.io/badge/Optimization-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
-<a href="https://proceedings.neurips.cc/paper_files/paper/2021/file/793bc52a941b3951dfdb85fb04f9fd06-Paper.pdf"><img src="https://img.shields.io/badge/NIPS-Paper-%23D2691E?logo=NIPS" alt="Paper Badge"></a>
+<a href="https://proceedings.neurips.cc/paper_files/paper/2021/file/793bc52a941b3951dfdb85fb04f9fd06-Paper.pdf"><img src="https://img.shields.io/badge/NeurIPS-Paper-%23D2691E?logo=NeurIPS" alt="Paper Badge"></a>
 <a href="https://github.com/decile-team/cords"><img src="https://img.shields.io/badge/GitHub-Code-brightgreen?logo=github" alt="Code Badge"></a>
     <details> <summary>BibTex</summary>
 
@@ -135,10 +135,10 @@
     </details> 
 
 ##### 2013
-- **[8] Submodular Optimization with Submodular Cover and Submodular Knapsack Constraints**, NIPS 2013.  
+- **[8] Submodular Optimization with Submodular Cover and Submodular Knapsack Constraints**, NeurIPS 2013.  
 *Rishabh Iyer, Jeff Bilmes*  
 ![](https://img.shields.io/badge/Submodular_Optimization-blue) ![](https://img.shields.io/badge/Image_Classification-green)  ![](https://img.shields.io/badge/Optimization-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
-<a href="https://proceedings.neurips.cc/paper_files/paper/2013/file/a1d50185e7426cbb0acad1e6ca74b9aa-Paper.pdf"><img src="https://img.shields.io/badge/NIPS-Paper-%23D2691E?logo=NIPS" alt="Paper Badge"></a>
+<a href="https://proceedings.neurips.cc/paper_files/paper/2013/file/a1d50185e7426cbb0acad1e6ca74b9aa-Paper.pdf"><img src="https://img.shields.io/badge/NeurIPS-Paper-%23D2691E?logo=NeurIPS" alt="Paper Badge"></a>
     <details> <summary>BibTex</summary>
 
     ```bibtex
@@ -188,10 +188,10 @@
 
     </details>
 
-- **[11] Similar: Submodular information measures based active learning in realistic scenarios**, NIPS 2021.  
+- **[11] Similar: Submodular information measures based active learning in realistic scenarios**, NeurIPS 2021.  
 *Suraj Kothawade, Nathan Beck, Krishnateja Killamsetty, Rishabh Iyer*  
 ![](https://img.shields.io/badge/SIMILAR-blue) ![](https://img.shields.io/badge/Image_Classification-green)  ![](https://img.shields.io/badge/Optimization-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
-<a href="https://proceedings.neurips.cc/paper_files/paper/2021/file/9af08cda54faea9adf40a201794183cf-Paper.pdf"><img src="https://img.shields.io/badge/NIPS-Paper-%23D2691E?logo=NIPS" alt="Paper Badge"></a>
+<a href="https://proceedings.neurips.cc/paper_files/paper/2021/file/9af08cda54faea9adf40a201794183cf-Paper.pdf"><img src="https://img.shields.io/badge/NeurIPS-Paper-%23D2691E?logo=NeurIPS" alt="Paper Badge"></a>
 <a href="https://github.com/decile-team/distil"><img src="https://img.shields.io/badge/GitHub-Code-brightgreen?logo=github" alt="Code Badge"></a>
     <details> <summary>BibTex</summary>
 
