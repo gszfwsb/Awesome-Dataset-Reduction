@@ -96,7 +96,7 @@
 
 ##### 2024
 - **[6] Refined Coreset Selection: Towards Minimal Coreset Size under Model Performance Constraints**, ICML 2024.  
-*Xiaobo Xia and Jiale Liu and Shaokun Zhang and Qingyun Wu and Hongxin Wei and Tongliang Liu*  
+*Xiaobo Xia, Jiale Liu, Shaokun Zhang, Qingyun Wu, Hongxin Wei, Tongliang Liu*  
 ![](https://img.shields.io/badge/LBCS-blue) ![](https://img.shields.io/badge/Image_Classification-green)  ![](https://img.shields.io/badge/Optimization-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
 <a href="https://openreview.net/pdf?id=yb5xV8LFDq"><img src="https://img.shields.io/badge/ICML-Paper-%23D2691E?logo=ICML" alt="Paper Badge"></a>
 <a href="https://github.com/xiaoboxia/LBCS"><img src="https://img.shields.io/badge/GitHub-Code-brightgreen?logo=github" alt="Code Badge"></a>
@@ -117,7 +117,7 @@
 #### 🎯 Submodularity-Based Methods
 
 ##### 1978
-- **[1] An analysis of approximations for maximizing submodular set functions—I**, MATH PROGRAM 1978.  
+- **[7] An analysis of approximations for maximizing submodular set functions—I**, MATH PROGRAM 1978.  
 *G.L. NEMHAUSER, L.A. WOLSEY*  
 ![](https://img.shields.io/badge/Cardinality_Constrained_Bilevel_Optimization-blue) ![](https://img.shields.io/badge/Image_Classification-green)  ![](https://img.shields.io/badge/Optimization-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
 <a href="https://proceedings.neurips.cc/paper/2020/file/aa2a77371374094fe9e0bc1de3f94ed9-Paper.pdf"><img src="https://img.shields.io/badge/MATH PROGRAM-Paper-%23D2691E?logo=MATH PROGRAM" alt="Paper Badge"></a>
@@ -136,20 +136,19 @@
 
 #### 🎯 Discrete-Optimization-Based Methods
 
-##### 2020
-- **[1] Coresets via bilevel optimization for continual learning and Streaming**, NIPS 2020.  
-*Zalán Borsos, Mojmír Mutný, Andreas Krause*  
-![](https://img.shields.io/badge/Cardinality_Constrained_Bilevel_Optimization-blue) ![](https://img.shields.io/badge/Image_Classification-green)  ![](https://img.shields.io/badge/Optimization-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
-<a href="https://proceedings.neurips.cc/paper/2020/file/aa2a77371374094fe9e0bc1de3f94ed9-Paper.pdf"><img src="https://img.shields.io/badge/NIPS-Paper-%23D2691E?logo=NIPS" alt="Paper Badge"></a>
-<a href="https://github.com/zalanborsos/bilevel_coresets"><img src="https://img.shields.io/badge/GitHub-Code-brightgreen?logo=github" alt="Code Badge"></a>
+##### 2023
+- **[1] Dataset Pruning: Reducing Training Data by Examining Generalization Influence**, ICLR 2023.  
+*Shuo Yang, Zeke Xie, Hanyu Peng, MinXu, Mingming Sun, Ping Li*  
+![](https://img.shields.io/badge/Optimization_based-blue) ![](https://img.shields.io/badge/Image_Classification-green)  ![](https://img.shields.io/badge/Optimization-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
+<a href="https://openreview.net/pdf?id=BSn88qhQpIm"><img src="https://img.shields.io/badge/ICLR-Paper-%23D2691E?logo=ICLR" alt="Paper Badge"></a>
     <details> <summary>BibTex</summary>
 
     ```bibtex
-    @inproceedings{borsos2020coresets,
-    title={Coresets via bilevel optimization for continual learning and Streaming},
-    author={Zalán Borsos and Mojmír Mutný and Andreas Krause},
-    booktitle={Proceedings of the 34th International Conference on Neural Information Processing Systems},
-    year={2020}
+    @inproceedings{yang2023dataset,
+    title={Dataset Pruning: Reducing Training Data by Examining Generalization Influence},
+    author={Yang, Shuo and Xie, Zeke and Peng, Hanyu and Xu, Min and Sun, Mingming and Li, Ping},
+    booktitle={The Eleventh International Conference on Learning Representations},
+    year={2023}
     }
     ```
 
