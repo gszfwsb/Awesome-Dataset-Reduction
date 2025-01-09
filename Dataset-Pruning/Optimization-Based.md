@@ -122,4 +122,4 @@
 
 #### 🎯 Nonconvex-Optimization-Based Methods
 
-#### 🎯 Multi-Objective Optimization Based Methods
+#### 🎯 Multi-Objective-Optimization-Based Methods
