@@ -134,8 +134,26 @@
 
     </details> 
 
+##### 2013
+- **[8] Submodular Optimization with Submodular Cover and Submodular Knapsack Constraints**, NIPS 2013.  
+*Rishabh Iyer, Jeff Bilmes*  
+![](https://img.shields.io/badge/Submodular_Optimization-blue) ![](https://img.shields.io/badge/Image_Classification-green)  ![](https://img.shields.io/badge/Optimization-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
+<a href="https://proceedings.neurips.cc/paper_files/paper/2013/file/a1d50185e7426cbb0acad1e6ca74b9aa-Paper.pdf"><img src="https://img.shields.io/badge/NIPS-Paper-%23D2691E?logo=NIPS" alt="Paper Badge"></a>
+    <details> <summary>BibTex</summary>
+
+    ```bibtex
+    @inproceedings{iyer2013submodular,
+    title={Submodular Optimization with Submodular Cover and Submodular Knapsack Constraints},
+    author={Iyer, Rishabh and Bilmes, Jeff},
+    booktitle={Advances in Neural Information Processing Systems},
+    year={2013}
+    }
+    ```
+
+    </details> 
+
 ##### 2015
-- **[8] Submodularity in data subset selection and active learning**, ICML 2015.  
+- **[9] Submodularity in data subset selection and active learning**, ICML 2015.  
 *Kai Wei, Rishabh Iyer, Jeff Bilmes*  
 ![](https://img.shields.io/badge/FASS-blue) ![](https://img.shields.io/badge/Image_Classification-green)  ![](https://img.shields.io/badge/Optimization-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
 <a href="https://proceedings.mlr.press/v37/wei15.pdf"><img src="https://img.shields.io/badge/ICML-Paper-%23D2691E?logo=ICML" alt="Paper Badge"></a>
