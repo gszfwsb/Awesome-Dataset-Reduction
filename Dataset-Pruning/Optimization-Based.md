@@ -206,6 +206,22 @@
 
     </details>
 
+- **[12] Submodular Mutual Information for Targeted Data Subset Selection**, arXiv 2021.  
+*Suraj Kothawade, Vishal Kaushal, Ganesh Ramakrishnan, Jeff Bilmes, Rishabh Iyer*  
+![](https://img.shields.io/badge/SMI-blue) ![](https://img.shields.io/badge/Image_Classification-green)  ![](https://img.shields.io/badge/Optimization-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
+<a href="https://arxiv.org/pdf/2105.00043"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arXiv" alt="Paper Badge"></a>
+    <details> <summary>BibTex</summary>
+
+    ```bibtex
+    @article{kothawade2021submodular,
+    title={Submodular Mutual Information for Targeted Data Subset Selection},
+    author={Kothawade, Suraj and Kaushal, Vishal and Ramakrishnan, Ganesh and Bilmes, Jeff and Iyer, Rishabh},
+    journal={arXiv preprint arXiv:2105.00043},
+    year={2021}
+    }
+    ```
+
+    </details>
 
 #### 🎯 Discrete-Optimization-Based Methods
 
