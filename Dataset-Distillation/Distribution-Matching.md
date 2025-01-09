@@ -4,7 +4,7 @@
 
 - **[1] CAFE: Learning to Condense Dataset by Aligning Features**, CVPR 2022.  
 *Kai Wang, Bo Zhao, Xiangyu Peng, Zheng Zhu, Shuo Yang, Shuo Wang, Guan Huang, Hakan Bilen, Xinchao Wang, Yang You*  
-![](https://img.shields.io/badge/CAFE-blue) ![](https://img.shields.io/badge/Image_Classification-green) ![](https://img.shields.io/badge/Distribution_Matching-red) ![](https://img.shields.io/badge/Dataset_Distillation-orange)
+![](https://img.shields.io/badge/CAFE-blue) ![](https://img.shields.io/badge/Image_Classification-green) ![](https://img.shields.io/badge/Feature_Matching-red) ![](https://img.shields.io/badge/Dataset_Distillation-orange)
 <a href="https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_CAFE_Learning_To_Condense_Dataset_by_Aligning_Features_CVPR_2022_paper.pdf"><img src="https://img.shields.io/badge/CVPR-Paper-%23D2691E" alt="Paper Badge"></a>
 <a href="https://github.com/kaiwang960112/CAFE"><img src="https://img.shields.io/badge/GitHub-Code-brightgreen?logo=github" alt="Code Badge"></a>
     <details> <summary>BibTex</summary>
@@ -23,7 +23,7 @@
 #### 2023
 - **[2] DataDAM: Efficient Dataset Distillation with Attention Matching**, ICCV 2023.  
 *Ahmad Sajedi, Samir Khaki, Ehsan Amjadian, Lucy Z Liu, Yuri A Lawryshyn, Konstantinos N Plataniotis*  
-![](https://img.shields.io/badge/DataDAM-blue) ![](https://img.shields.io/badge/Image_Classification-green) ![](https://img.shields.io/badge/Distribution_Matching-red) ![](https://img.shields.io/badge/Dataset_Distillation-orange)
+![](https://img.shields.io/badge/DataDAM-blue) ![](https://img.shields.io/badge/Image_Classification-green) ![](https://img.shields.io/badge/Feature_Matching-red) ![](https://img.shields.io/badge/Dataset_Distillation-orange)
 <a href="https://openaccess.thecvf.com/content/ICCV2023/papers/Sajedi_DataDAM_Efficient_Dataset_Distillation_with_Attention_Matching_ICCV_2023_paper.pdf"><img src="https://img.shields.io/badge/ICCV-Paper-%23D2691E" alt="Paper Badge"></a>
 <a href="https://github.com/DataDistillation/DataDAM"><img src="https://img.shields.io/badge/GitHub-Code-brightgreen?logo=github" alt="Code Badge"></a>
     <details> <summary>BibTex</summary>
@@ -99,7 +99,7 @@
 *Ganlong Zhao, Guanbin Li, Yipeng Qin, Yizhou Yu*  
 ![](https://img.shields.io/badge/IDM-blue) ![](https://img.shields.io/badge/Image_Classification-green) ![](https://img.shields.io/badge/Moment_Matching-red) ![](https://img.shields.io/badge/Dataset_Distillation-orange)
 <a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Zhao_Improved_Distribution_Matching_for_Dataset_Condensation_CVPR_2023_paper.pdf"><img src="https://img.shields.io/badge/CVPR-Paper-%23D2691E" alt="Paper Badge"></a>
-<a href="https://github.com/zgl-thu/IDM"><img src="https://img.shields.io/badge/GitHub-Code-brightgreen?logo=github" alt="Code Badge"></a>
+<a href="https://github.com/uitrbn/IDM"><img src="https://img.shields.io/badge/GitHub-Code-brightgreen?logo=github" alt="Code Badge"></a>
     <details> <summary>BibTex</summary>
 
     ```bibtex
@@ -113,11 +113,30 @@
 
     </details>
 
+- **[7] DREAM+: Efficient Dataset Distillation by Bidirectional Representative Matching**, arXiv 2023.  
+*Yanqing Liu, Jianyang Gu, Kai Wang, Zheng Zhu, Kaipeng Zhang, Wei Jiang, Yang You*  
+![](https://img.shields.io/badge/DREAM+-blue) ![](https://img.shields.io/badge/Image_Classification-green) ![](https://img.shields.io/badge/Moment_Matching-red) ![](https://img.shields.io/badge/Dataset_Distillation-orange)
+<a href="https://arxiv.org/abs/2310.15052"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arXiv" alt="Paper Badge"></a>
+<a href="https://github.com/Yanqing0327/DREAM"><img src="https://img.shields.io/badge/GitHub-Code-brightgreen?logo=github" alt="Code Badge"></a>
+    <details> <summary>BibTex</summary>
+
+    ```bibtex
+    @article{liu2023dream+,
+      title={Dream+: Efficient dataset distillation by bidirectional representative matching},
+      author={Liu, Yanqing and Gu, Jianyang and Wang, Kai and Zhu, Zheng and Zhang, Kaipeng and Jiang, Wei and You, Yang},
+      journal={arXiv preprint arXiv:2310.15052},
+      year={2023}
+    }
+    ```
+
+    </details>
+
 #### 2024
-- **[7] M3D: Dataset Condensation by Minimizing Maximum Mean Discrepancy**, AAAI 2024.  
+- **[8] M3D: Dataset Condensation by Minimizing Maximum Mean Discrepancy**, AAAI 2024.  
 *Hansong Zhang, Shikun Li, Pengju Wang, Dan Zeng, Shiming Ge*  
 ![](https://img.shields.io/badge/M3D-blue) ![](https://img.shields.io/badge/Image_Classification-green) ![](https://img.shields.io/badge/Moment_Matching-red) ![](https://img.shields.io/badge/Dataset_Distillation-orange)
-<a href=""><img src="https://img.shields.io/badge/AAAI-Paper-%23D2691E" alt="Paper Badge"></a>
+<a href="https://ojs.aaai.org/index.php/AAAI/article/view/28784"><img src="https://img.shields.io/badge/AAAI-Paper-%23D2691E" alt="Paper Badge"></a>
+<a href="https://github.com/Hansong-Zhang/M3D"><img src="https://img.shields.io/badge/GitHub-Code-brightgreen?logo=github" alt="Code Badge"></a>
     <details> <summary>BibTex</summary>
 
     ```bibtex
@@ -131,10 +150,11 @@
 
     </details>
 
-- **[8] Exploiting Inter-sample and Inter-feature Relations in Dataset Distillation**, CVPR 2024.  
+- **[9] Exploiting Inter-sample and Inter-feature Relations in Dataset Distillation**, CVPR 2024.  
 *Wenxiao Deng, Wenbin Li, Tianyu Ding, Lei Wang, Hongguang Zhang, Kuihua Huang, Jing Huo, Yang Gao*  
 ![](https://img.shields.io/badge/IID-blue) ![](https://img.shields.io/badge/Image_Classification-green) ![](https://img.shields.io/badge/Moment_Matching-red) ![](https://img.shields.io/badge/Dataset_Distillation-orange)
-<a href=""><img src="https://img.shields.io/badge/CVPR-Paper-%23D2691E" alt="Paper Badge"></a>
+<a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Deng_Exploiting_Inter-sample_and_Inter-feature_Relations_in_Dataset_Distillation_CVPR_2024_paper.pdf"><img src="https://img.shields.io/badge/CVPR-Paper-%23D2691E" alt="Paper Badge"></a>
+<a href="https://github.com/VincenDen/IID"><img src="https://img.shields.io/badge/GitHub-Code-brightgreen?logo=github" alt="Code Badge"></a>
     <details> <summary>BibTex</summary>
 
     ```bibtex
@@ -148,27 +168,29 @@
 
     </details>
 
-- **[9] DANCE: Dual-View Distribution Alignment for Dataset Condensation**, arXiv 2024.  
+- **[10] DANCE: Dual-View Distribution Alignment for Dataset Condensation**, IJCAI 2024.  
 *Hansong Zhang, Shikun Li, Fanzhao Lin, Weiping Wang, Zhenxing Qian, Shiming Ge*  
 ![](https://img.shields.io/badge/DANCE-blue) ![](https://img.shields.io/badge/Image_Classification-green) ![](https://img.shields.io/badge/Moment_Matching-red) ![](https://img.shields.io/badge/Dataset_Distillation-orange)
-<a href="https://arxiv.org/abs/2406.01063"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arXiv" alt="Paper Badge"></a>
+<a href="https://www.ijcai.org/proceedings/2024/0186.pdf"><img src="https://img.shields.io/badge/IJCAI-Paper-%23D2691E" alt="Paper Badge"></a>
+<a href="https://github.com/Hansong-Zhang/DANCE"><img src="https://img.shields.io/badge/GitHub-Code-brightgreen?logo=github" alt="Code Badge"></a>
     <details> <summary>BibTex</summary>
 
     ```bibtex
-    @article{zhang2024dance,
+    @inproceedings{zhang2024dance,
       title={DANCE: Dual-View Distribution Alignment for Dataset Condensation},
       author={Zhang, Hansong and Li, Shikun and Lin, Fanzhao and Wang, Weiping and Qian, Zhenxing and Ge, Shiming},
-      journal={arXiv preprint arXiv:2406.01063},
+      booktitle={Proceedings of the International Joint Conference on Artificial Intelligence},
       year={2024}
     }
     ```
 
     </details>
 
-- **[10] Diversified Semantic Distribution Matching for Dataset Distillation**, ACM MM 2024.  
+- **[11] Diversified Semantic Distribution Matching for Dataset Distillation**, ACM MM 2024.  
 *Hongcheng Li, Yucan Zhou, Xiaoyan Gu, Bo Li, Weiping Wang*  
 ![](https://img.shields.io/badge/DSDM-blue) ![](https://img.shields.io/badge/Image_Classification-green) ![](https://img.shields.io/badge/Moment_Matching-red) ![](https://img.shields.io/badge/Dataset_Distillation-orange)
-<a href=""><img src="https://img.shields.io/badge/ACM_MM-Paper-%23D2691E" alt="Paper Badge"></a>
+<a href="https://dl.acm.org/doi/10.1145/3664647.3680900"><img src="https://img.shields.io/badge/ACM_MM-Paper-%23D2691E" alt="Paper Badge"></a>
+<a href="https://github.com/Li-Hongcheng/DSDM"><img src="https://img.shields.io/badge/GitHub-Code-brightgreen?logo=github" alt="Code Badge"></a>
     <details> <summary>BibTex</summary>
 
     ```bibtex
@@ -176,6 +198,23 @@
       title={Diversified Semantic Distribution Matching for Dataset Distillation},
       author={Li, Hongcheng and Zhou, Yucan and Gu, Xiaoyan and Li, Bo and Wang, Weiping},
       booktitle={Proceedings of the 32nd ACM International Conference on Multimedia},
+      year={2024}
+    }
+    ```
+
+    </details>
+
+- **[12] Dataset Condensation with Latent Quantile Matching**, CVPRW 2024.  
+*Wei Wei, Tom De Schepper, Kevin Mets*  
+![](https://img.shields.io/badge/LQM-blue) ![](https://img.shields.io/badge/Image_Classification-green) ![](https://img.shields.io/badge/Moment_Matching-red) ![](https://img.shields.io/badge/Dataset_Distillation-orange)
+<a href="https://openaccess.thecvf.com/content/CVPR2024W/DDCV/html/Wei_Dataset_Condensation_with_Latent_Quantile_Matching_CVPRW_2024_paper.html"><img src="https://img.shields.io/badge/CVPRW-Paper-%23D2691E" alt="Paper Badge"></a>
+    <details> <summary>BibTex</summary>
+
+    ```bibtex
+    @InProceedings{Wei2024dataset,
+      title={Dataset Condensation with Latent Quantile Matching},
+      author={Wei, Wei and De Schepper, Tom and Mets, Kevin},
+      booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},
       year={2024}
     }
     ```

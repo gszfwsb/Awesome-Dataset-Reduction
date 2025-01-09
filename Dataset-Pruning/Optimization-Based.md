@@ -1,6 +1,6 @@
 ### 🖼️ Optimization-Based Methods
 
-#### Bilevel-Optimization-Based Methods
+#### 🎯 Bilevel-Optimization-Based Methods
 ##### 2020
 - **[1] Coresets via bilevel optimization for continual learning and Streaming**, NIPS 2020.  
 *Zalán Borsos, Mojmír Mutný, Andreas Krause*  
@@ -57,4 +57,213 @@
 
     </details>
 
-#### Submodularity Based Methods
+##### 2022
+- **[4] Probabilistic Bilevel Coreset Selection**, ICML 2022.  
+*Xiao Zhou, Renjie Pi, Weizhong Zhang, Yong Lin, Zonghao Chen, Tong Zhang*  
+![](https://img.shields.io/badge/Probabilistic_Bilevel_Coreset_Selection-blue) ![](https://img.shields.io/badge/Image_Classification-green)  ![](https://img.shields.io/badge/Optimization-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
+<a href="https://proceedings.mlr.press/v162/zhou22h/zhou22h.pdf"><img src="https://img.shields.io/badge/ICML-Paper-%23D2691E?logo=ICML" alt="Paper Badge"></a>
+<a href="https://github.com/x-zho14/Probabilistic-Bilevel-Coreset-Selection"><img src="https://img.shields.io/badge/GitHub-Code-brightgreen?logo=github" alt="Code Badge"></a>
+    <details> <summary>BibTex</summary>
+
+    ```bibtex
+    @inproceedings{zhou2022probabilistic,
+    title={Probabilistic Bilevel Coreset Selection},
+    author={Zhou, Xiao and Pi, Renjie and Zhang, Weizhong and Lin, Yong and Zhang, Tong},
+    booktitle={International Conference on Machine Learning},
+    year={2022}
+    }
+    ```
+
+    </details>
+
+- **[5] Semi-Supervised Batch Active Learning Via Bilevel Optimization**, ICASSP 2021.  
+*Zalán Borsos, Marco Tagliasacchi, Andreas Krause*  
+![](https://img.shields.io/badge/Bilevel-blue) ![](https://img.shields.io/badge/Image_Classification-green)  ![](https://img.shields.io/badge/Optimization-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
+<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9414206"><img src="https://img.shields.io/badge/ICASSP-Paper-%23D2691E" alt="Paper Badge"></a>
+<a href="https://github.com/zalanborsos/bilevel_coresets"><img src="https://img.shields.io/badge/GitHub-Code-brightgreen?logo=github" alt="Code Badge"></a>
+    <details> <summary>BibTex</summary>
+
+    ```bibtex
+    @inproceedings{borsos2021semi,
+    title={Semi-Supervised Batch Active Learning Via Bilevel Optimization},
+    author={Borsos, Zalán and Tagliasacchi, Marco and Krause, Andreas},
+    booktitle={International Conference on Acoustics, Speech and Signal Processing},
+    year={2021}
+    }
+    ```
+
+    </details>
+
+##### 2024
+- **[6] Refined Coreset Selection: Towards Minimal Coreset Size under Model Performance Constraints**, ICML 2024.  
+*Xiaobo Xia, Jiale Liu, Shaokun Zhang, Qingyun Wu, Hongxin Wei, Tongliang Liu*  
+![](https://img.shields.io/badge/LBCS-blue) ![](https://img.shields.io/badge/Image_Classification-green)  ![](https://img.shields.io/badge/Optimization-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
+<a href="https://openreview.net/pdf?id=yb5xV8LFDq"><img src="https://img.shields.io/badge/ICML-Paper-%23D2691E?logo=ICML" alt="Paper Badge"></a>
+<a href="https://github.com/xiaoboxia/LBCS"><img src="https://img.shields.io/badge/GitHub-Code-brightgreen?logo=github" alt="Code Badge"></a>
+    <details> <summary>BibTex</summary>
+
+    ```bibtex
+    @inproceedings{xia2024refined,
+    title={Refined Coreset Selection: Towards Minimal Coreset Size under Model Performance Constraints},
+    author={Xiaobo Xia and Jiale Liu and Shaokun Zhang and Qingyun Wu and Hongxin Wei and Tongliang Liu},
+    booktitle={Forty-first International Conference on Machine Learning},
+    year={2024}
+    }
+    ```
+
+    </details>
+
+
+#### 🎯 Submodularity-Based Methods
+
+##### 1978
+- **[7] An analysis of approximations for maximizing submodular set functions—I**, MATH PROGRAM 1978.  
+*G.L. NEMHAUSER, L.A. WOLSEY, M.L. FISHER*  
+![](https://img.shields.io/badge/Submodular_Set_Functions-blue) ![](https://img.shields.io/badge/Image_Classification-green)  ![](https://img.shields.io/badge/Optimization-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
+<a href="https://proceedings.neurips.cc/paper/2020/file/aa2a77371374094fe9e0bc1de3f94ed9-Paper.pdf"><img src="https://img.shields.io/badge/MATH PROGRAM-Paper-%23D2691E?logo=MATH PROGRAM" alt="Paper Badge"></a>
+    <details> <summary>BibTex</summary>
+
+    ```bibtex
+    @article{nemhauser1978an, 
+    title={An analysis of approximations for maximizing submodular set functions—I},
+    author={Nemhauser, G.L. and Wolsey, L.A. and Fisher, M.L.},
+    journal={Mathematical programming},
+    year={1978}
+    }
+    ```
+
+    </details> 
+
+##### 2013
+- **[8] Submodular Optimization with Submodular Cover and Submodular Knapsack Constraints**, NIPS 2013.  
+*Rishabh Iyer, Jeff Bilmes*  
+![](https://img.shields.io/badge/Submodular_Optimization-blue) ![](https://img.shields.io/badge/Image_Classification-green)  ![](https://img.shields.io/badge/Optimization-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
+<a href="https://proceedings.neurips.cc/paper_files/paper/2013/file/a1d50185e7426cbb0acad1e6ca74b9aa-Paper.pdf"><img src="https://img.shields.io/badge/NIPS-Paper-%23D2691E?logo=NIPS" alt="Paper Badge"></a>
+    <details> <summary>BibTex</summary>
+
+    ```bibtex
+    @inproceedings{iyer2013submodular,
+    title={Submodular Optimization with Submodular Cover and Submodular Knapsack Constraints},
+    author={Iyer, Rishabh and Bilmes, Jeff},
+    booktitle={Advances in Neural Information Processing Systems},
+    year={2013}
+    }
+    ```
+
+    </details> 
+
+##### 2015
+- **[9] Submodularity in data subset selection and active learning**, ICML 2015.  
+*Kai Wei, Rishabh Iyer, Jeff Bilmes*  
+![](https://img.shields.io/badge/FASS-blue) ![](https://img.shields.io/badge/Image_Classification-green)  ![](https://img.shields.io/badge/Optimization-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
+<a href="https://proceedings.mlr.press/v37/wei15.pdf"><img src="https://img.shields.io/badge/ICML-Paper-%23D2691E?logo=ICML" alt="Paper Badge"></a>
+    <details> <summary>BibTex</summary>
+
+    ```bibtex
+    @inproceedings{wei2015submodularity,
+    title={Submodularity in data subset selection and active learning},
+    author={Wei, Kai and Iyer, Rishabh and Bilmes, Jeff},
+    booktitle={International conference on machine learning},
+    year={2015}
+    }
+    ```
+
+    </details> 
+
+##### 2021
+- **[10] Submodular combinatorial information measures with applications in machine learning**, ALT 2021.  
+*Rishabh Iyer, Ninad Khargoankar, Jeff Bilmes, Himanshu Asanani*  
+![](https://img.shields.io/badge/Submodular_Combinatorial_Information_Measures-blue) ![](https://img.shields.io/badge/Image_Classification-green)  ![](https://img.shields.io/badge/Optimization-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
+<a href="http://proceedings.mlr.press/v132/iyer21a/iyer21a.pdf"><img src="https://img.shields.io/badge/ALT-Paper-%23D2691E?logo=ALT" alt="Paper Badge"></a>
+    <details> <summary>BibTex</summary>
+
+    ```bibtex
+    @inproceedings{iyer2021submodular,
+    title={Submodular combinatorial information measures with applications in machine learning},
+    author={Iyer, Rishabh and Khargoankar, Ninad and Bilmes, Jeff and Asanani, Himanshu},
+    booktitle={Algorithmic Learning Theory},
+    year={2021}
+    }
+    ```
+
+    </details>
+
+- **[11] Similar: Submodular information measures based active learning in realistic scenarios**, NIPS 2021.  
+*Suraj Kothawade, Nathan Beck, Krishnateja Killamsetty, Rishabh Iyer*  
+![](https://img.shields.io/badge/SIMILAR-blue) ![](https://img.shields.io/badge/Image_Classification-green)  ![](https://img.shields.io/badge/Optimization-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
+<a href="https://proceedings.neurips.cc/paper_files/paper/2021/file/9af08cda54faea9adf40a201794183cf-Paper.pdf"><img src="https://img.shields.io/badge/NIPS-Paper-%23D2691E?logo=NIPS" alt="Paper Badge"></a>
+<a href="https://github.com/decile-team/distil"><img src="https://img.shields.io/badge/GitHub-Code-brightgreen?logo=github" alt="Code Badge"></a>
+    <details> <summary>BibTex</summary>
+
+    ```bibtex
+    @article{kothawade2021similar,
+    title={Similar: Submodular information measures based active learning in realistic scenarios},
+    author={Kothawade, Suraj and Beck, Nathan and Killamsetty, Krishnateja and Iyer, Rishabh},
+    journal={Advances in Neural Information Processing Systems},
+    year={2021}
+    }
+    ```
+
+    </details>
+
+- **[12] Submodular Mutual Information for Targeted Data Subset Selection**, arXiv 2021.  
+*Suraj Kothawade, Vishal Kaushal, Ganesh Ramakrishnan, Jeff Bilmes, Rishabh Iyer*  
+![](https://img.shields.io/badge/SMI-blue) ![](https://img.shields.io/badge/Image_Classification-green)  ![](https://img.shields.io/badge/Optimization-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
+<a href="https://arxiv.org/pdf/2105.00043"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arXiv" alt="Paper Badge"></a>
+    <details> <summary>BibTex</summary>
+
+    ```bibtex
+    @article{kothawade2021submodular,
+    title={Submodular Mutual Information for Targeted Data Subset Selection},
+    author={Kothawade, Suraj and Kaushal, Vishal and Ramakrishnan, Ganesh and Bilmes, Jeff and Iyer, Rishabh},
+    journal={arXiv preprint arXiv:2105.00043},
+    year={2021}
+    }
+    ```
+
+    </details>
+
+##### 2022
+- **[13] Prism: A rich class of parameterized submodular information measures for guided data subset selection**, AAAI 2022.  
+*Suraj Kothawade, Vishal Kaushal, Ganesh Ramakrishnan, Jeff Bilmes, Rishabh Iyer*  
+![](https://img.shields.io/badge/PRISM-blue) ![](https://img.shields.io/badge/Image_Classification-green)  ![](https://img.shields.io/badge/Optimization-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
+<a href="https://ojs.aaai.org/index.php/AAAI/article/view/21264/21013"><img src="https://img.shields.io/badge/AAAI-Paper-%23D2691E?logo=AAAI" alt="Paper Badge"></a>
+<a href="https://github.com/decile-team/submodlib"><img src="https://img.shields.io/badge/GitHub-Code-brightgreen?logo=github" alt="Code Badge"></a>
+    <details> <summary>BibTex</summary>
+
+    ```bibtex
+    @inproceedings{kothawade2022prism,
+    title={Prism: A rich class of parameterized submodular information measures for guided data subset selection},
+    author={Kothawade, Suraj and Kaushal, Vishal and Ramakrishnan, Ganesh and Bilmes, Jeff and Iyer, Rishabh},
+    booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+    year={2022}
+    }
+    ```
+
+    </details>
+
+#### 🎯 Discrete-Optimization-Based Methods
+
+##### 2023
+- **[14] Dataset Pruning: Reducing Training Data by Examining Generalization Influence**, ICLR 2023.  
+*Shuo Yang, Zeke Xie, Hanyu Peng, MinXu, Mingming Sun, Ping Li*  
+![](https://img.shields.io/badge/Optimization_based-blue) ![](https://img.shields.io/badge/Image_Classification-green)  ![](https://img.shields.io/badge/Optimization-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
+<a href="https://openreview.net/pdf?id=BSn88qhQpIm"><img src="https://img.shields.io/badge/ICLR-Paper-%23D2691E?logo=ICLR" alt="Paper Badge"></a>
+    <details> <summary>BibTex</summary>
+
+    ```bibtex
+    @inproceedings{yang2023dataset,
+    title={Dataset Pruning: Reducing Training Data by Examining Generalization Influence},
+    author={Yang, Shuo and Xie, Zeke and Peng, Hanyu and Xu, Min and Sun, Mingming and Li, Ping},
+    booktitle={The Eleventh International Conference on Learning Representations},
+    year={2023}
+    }
+    ```
+
+    </details> 
+
+#### 🎯 Convex-Optimization-Based Methods
+
+#### 🎯 Nonconvex-Optimization-Based Methods
+
+#### 🎯 Multi-Objective-Optimization-Based Methods
