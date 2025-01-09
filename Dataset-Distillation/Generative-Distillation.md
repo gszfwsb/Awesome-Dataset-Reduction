@@ -5,7 +5,7 @@
 - **[1] Dataset meta-learning from kernel ridge-regression**, NeurIPS 2022 Workshop.   
    *Bo Zhao, Hakan Bilen*   
   ![](https://img.shields.io/badge/ITGAN-blue) ![](https://img.shields.io/badge/Image_Classification-green)  ![](https://img.shields.io/badge/Generative_Distillation-red) ![](https://img.shields.io/badge/Dataset_Distillation-orange)
-  <a href="https://openreview.net/forum?id=frAv0jtUMfS"><img src="https://img.shields.io/badge/NIPSWS-Paper-%23D2691E?logo=ICLR" alt="Paper Badge"></a>
+  <a href="https://openreview.net/forum?id=frAv0jtUMfS"><img src="https://img.shields.io/badge/NeurIPSWS-Paper-%23D2691E?logo=ICLR" alt="Paper Badge"></a>
   <a href="https://github.com/VICO-UoE/IT-GAN"><img src="https://img.shields.io/badge/GitHub-Code-brightgreen?logo=github" alt="Code Badge"></a>
 
     <details> <summary>BibTex</summary>
@@ -45,10 +45,10 @@
 
 </details> 
 
-- **[3] Dim: Distilling dataset into generative model**, Arxiv 2023.   
+- **[3] Dim: Distilling dataset into generative model**, arXiv 2023.   
   *Kai Wang, Jianyang Gu, Daquan Zhou, Zheng Zhu, Wei Jiang, Yang You*   
   ![](https://img.shields.io/badge/DiM-blue) ![](https://img.shields.io/badge/Image_Classification-green)  ![](https://img.shields.io/badge/Generative_Distillation-red) ![](https://img.shields.io/badge/Dataset_Distillation-orange)
-  <a href="https://arxiv.org/abs/2303.04707"><img src="https://img.shields.io/badge/Arxiv-Paper-%23D2691E?logo=ICLR" alt="Paper Badge"></a>
+  <a href="https://arxiv.org/abs/2303.04707"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=ICLR" alt="Paper Badge"></a>
   <a href="https://github.com/vimar-gu/DiM"><img src="https://img.shields.io/badge/GitHub-Code-brightgreen?logo=github" alt="Code Badge"></a>
 
     <details> <summary>BibTex</summary>
@@ -128,10 +128,10 @@
 
 </details> 
 
-- **[7] Hierarchical Features Matter: A Deep Exploration of GAN Priors for Improved Dataset Distillation**, Arxiv 2024.   
+- **[7] Hierarchical Features Matter: A Deep Exploration of GAN Priors for Improved Dataset Distillation**, arXiv 2024.   
   *Xinhao Zhong, Hao Fang, Bin Chen, Xulin Gu, Tao Dai, Meikang Qiu, Shu-Tao Xia*   
   ![](https://img.shields.io/badge/HGLaD-blue) ![](https://img.shields.io/badge/Image_Classification-green)  ![](https://img.shields.io/badge/Generative_Distillation-red) ![](https://img.shields.io/badge/Dataset_Distillation-orange)
-  <a href="https://arxiv.org/abs/2406.05704"><img src="https://img.shields.io/badge/Arxiv-Paper-%23D2691E?logo=arXiv" alt="Paper Badge"></a> <a href="https://github.com/ndhg1213/H-GLaD"><img src="https://img.shields.io/badge/GitHub-Code-brightgreen?logo=github" alt="Code Badge"></a>
+  <a href="https://arxiv.org/abs/2406.05704"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arXiv" alt="Paper Badge"></a> <a href="https://github.com/ndhg1213/H-GLaD"><img src="https://img.shields.io/badge/GitHub-Code-brightgreen?logo=github" alt="Code Badge"></a>
 
     <details> <summary>BibTex</summary>
 

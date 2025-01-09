@@ -28,7 +28,7 @@
 - **[2] Dataset distillation with infinitely wide convolutional networks**, NeurIPS 2021.   
   *Timothy Nguyen, Roman Novak, Lechao Xiao, Jaehoon Lee*   
   ![](https://img.shields.io/badge/LS-blue) ![](https://img.shields.io/badge/Image_Classification-green)  ![](https://img.shields.io/badge/Kernel_Methods-red) ![](https://img.shields.io/badge/Dataset_Distillation-orange)
-  <a href="https://papers.neurips.cc/paper/2021/file/299a23a2291e2126b91d54f3601ec162-Paper.pdf"><img src="https://img.shields.io/badge/NIPS-Paper-%23D2691E?logo=arXiv" alt="Paper Badge"></a>
+  <a href="https://papers.neurips.cc/paper/2021/file/299a23a2291e2126b91d54f3601ec162-Paper.pdf"><img src="https://img.shields.io/badge/NeurIPS-Paper-%23D2691E?logo=arXiv" alt="Paper Badge"></a>
   <a href="https://github.com/google/neural-tangents"><img src="https://img.shields.io/badge/GitHub-Code-brightgreen?logo=github" alt="Code Badge"></a>
 
     <details> <summary>BibTex</summary>
@@ -51,7 +51,7 @@
 - **[3] Dataset distillation using neural feature regression**, NeurIPS 2022.   
   *Yongchao Zhou, Ehsan Nezhadarya, Jimmy Ba*   
   ![](https://img.shields.io/badge/FRePo-blue) ![](https://img.shields.io/badge/Image_Classification-green)  ![](https://img.shields.io/badge/Kernel_Methods-red) ![](https://img.shields.io/badge/Dataset_Distillation-orange)
-  <a href="https://proceedings.neurips.cc/paper_files/paper/2022/file/3fe2a777282299ecb4f9e7ebb531f0ab-Supplemental-Conference.pdf"><img src="https://img.shields.io/badge/NIPS-Paper-%23D2691E?logo=arXiv" alt="Paper Badge"></a>
+  <a href="https://proceedings.neurips.cc/paper_files/paper/2022/file/3fe2a777282299ecb4f9e7ebb531f0ab-Supplemental-Conference.pdf"><img src="https://img.shields.io/badge/NeurIPS-Paper-%23D2691E?logo=arXiv" alt="Paper Badge"></a>
   <a href="https://github.com/yongchaoz/FRePo"><img src="https://img.shields.io/badge/GitHub-Code-brightgreen?logo=github" alt="Code Badge"></a>
 
     <details> <summary>BibTex</summary>
@@ -73,7 +73,7 @@
 - **[4] Efficient dataset distillation using random feature approximation**, NeurIPS 2022.   
   *Noel Loo, Ramin Hasani, Alexander Amini, Daniela Rus*   
   ![](https://img.shields.io/badge/RFAD-blue)  ![](https://img.shields.io/badge/Image_Classification-green)  ![](https://img.shields.io/badge/Kernel_Methods-red) ![](https://img.shields.io/badge/Dataset_Distillation-orange)
-  <a href="https://proceedings.neurips.cc/paper_files/paper/2022/file/5a28f46993c19f428f482cc59db40870-Paper-Conference.pdf"><img src="https://img.shields.io/badge/NIPS-Paper-%23D2691E?logo=arXiv" alt="Paper Badge"></a>
+  <a href="https://proceedings.neurips.cc/paper_files/paper/2022/file/5a28f46993c19f428f482cc59db40870-Paper-Conference.pdf"><img src="https://img.shields.io/badge/NeurIPS-Paper-%23D2691E?logo=arXiv" alt="Paper Badge"></a>
   <a href="https://github.com/yolky/RFAD"><img src="https://img.shields.io/badge/GitHub-Code-brightgreen?logo=github" alt="Code Badge"></a>
   
     <details> <summary>BibTex</summary>
@@ -116,10 +116,10 @@
 
 #### 2024
 
-- **[6] Provable and Efficient Dataset Distillation for Kernel Ridge Regression**, NIPS 2024.   
+- **[6] Provable and Efficient Dataset Distillation for Kernel Ridge Regression**, NeurIPS 2024.   
   *Yu Yang, Hao Kang, Baharan Mirzasoleiman*   
   ![](https://img.shields.io/badge/KRR-blue) ![](https://img.shields.io/badge/Image_Classification-green)  ![](https://img.shields.io/badge/Kernel_Methods-red) ![](https://img.shields.io/badge/Dataset_Distillation-orange)
-  <a href="https://openreview.net/pdf?id=WI2VpcBdnd"><img src="https://img.shields.io/badge/NIPS-Paper-%23D2691E?logo=arXiv" alt="Paper Badge"></a> <a href="https://github.com/Trustworthy-ML-Lab/provable-efficient-dataset-distill-KRR"><img src="https://img.shields.io/badge/GitHub-Code-brightgreen?logo=github" alt="Code Badge"></a>
+  <a href="https://openreview.net/pdf?id=WI2VpcBdnd"><img src="https://img.shields.io/badge/NeurIPS-Paper-%23D2691E?logo=arXiv" alt="Paper Badge"></a> <a href="https://github.com/Trustworthy-ML-Lab/provable-efficient-dataset-distill-KRR"><img src="https://img.shields.io/badge/GitHub-Code-brightgreen?logo=github" alt="Code Badge"></a>
   
     <details> <summary>BibTex</summary>
 
