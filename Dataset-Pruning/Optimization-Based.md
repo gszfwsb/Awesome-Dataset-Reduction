@@ -134,6 +134,24 @@
 
     </details> 
 
+##### 2015
+- **[8] Submodularity in data subset selection and active learning**, ICML 2015.  
+*Kai Wei, Rishabh Iyer, Jeff Bilmes*  
+![](https://img.shields.io/badge/FASS-blue) ![](https://img.shields.io/badge/Image_Classification-green)  ![](https://img.shields.io/badge/Optimization-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
+<a href="https://proceedings.mlr.press/v37/wei15.pdf"><img src="https://img.shields.io/badge/ICML-Paper-%23D2691E?logo=ICML" alt="Paper Badge"></a>
+    <details> <summary>BibTex</summary>
+
+    ```bibtex
+    @inproceedings{wei2015submodularity,
+    title={Submodularity in data subset selection and active learning},
+    author={Wei, Kai and Iyer, Rishabh and Bilmes, Jeff},
+    booktitle={International conference on machine learning},
+    year={2015}
+    }
+    ```
+
+    </details> 
+
 #### 🎯 Discrete-Optimization-Based Methods
 
 ##### 2023
