@@ -188,6 +188,25 @@
 
     </details>
 
+- **[11] Similar: Submodular information measures based active learning in realistic scenarios**, NIPS 2021.  
+*Suraj Kothawade, Nathan Beck, Krishnateja Killamsetty, Rishabh Iyer*  
+![](https://img.shields.io/badge/SIMILAR-blue) ![](https://img.shields.io/badge/Image_Classification-green)  ![](https://img.shields.io/badge/Optimization-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
+<a href="https://proceedings.neurips.cc/paper_files/paper/2021/file/9af08cda54faea9adf40a201794183cf-Paper.pdf"><img src="https://img.shields.io/badge/NIPS-Paper-%23D2691E?logo=NIPS" alt="Paper Badge"></a>
+<a href="https://github.com/decile-team/distil"><img src="https://img.shields.io/badge/GitHub-Code-brightgreen?logo=github" alt="Code Badge"></a>
+    <details> <summary>BibTex</summary>
+
+    ```bibtex
+    @article{kothawade2021similar,
+    title={Similar: Submodular information measures based active learning in realistic scenarios},
+    author={Kothawade, Suraj and Beck, Nathan and Killamsetty, Krishnateja and Iyer, Rishabh},
+    journal={Advances in Neural Information Processing Systems},
+    year={2021}
+    }
+    ```
+
+    </details>
+
+
 #### 🎯 Discrete-Optimization-Based Methods
 
 ##### 2023
