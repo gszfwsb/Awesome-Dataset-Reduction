@@ -170,6 +170,24 @@
 
     </details> 
 
+##### 2021
+- **[10] Submodular combinatorial information measures with applications in machine learning**, ALT 2021.  
+*Rishabh Iyer, Ninad Khargoankar, Jeff Bilmes, Himanshu Asanani*  
+![](https://img.shields.io/badge/Submodular_Combinatorial_Information_Measures-blue) ![](https://img.shields.io/badge/Image_Classification-green)  ![](https://img.shields.io/badge/Optimization-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
+<a href="http://proceedings.mlr.press/v132/iyer21a/iyer21a.pdf"><img src="https://img.shields.io/badge/ALT-Paper-%23D2691E?logo=ALT" alt="Paper Badge"></a>
+    <details> <summary>BibTex</summary>
+
+    ```bibtex
+    @inproceedings{iyer2021submodular,
+    title={Submodular combinatorial information measures with applications in machine learning},
+    author={Iyer, Rishabh and Khargoankar, Ninad and Bilmes, Jeff and Asanani, Himanshu},
+    booktitle={Algorithmic Learning Theory},
+    year={2021}
+    }
+    ```
+
+    </details>
+
 #### 🎯 Discrete-Optimization-Based Methods
 
 ##### 2023
