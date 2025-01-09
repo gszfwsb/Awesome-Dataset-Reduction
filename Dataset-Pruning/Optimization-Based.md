@@ -114,4 +114,12 @@
     </details>
 
 
-#### 🎯 Submodularity Based Methods
+#### 🎯 Submodularity-Based Methods
+
+#### 🎯 Discrete-Optimization-Based Methods
+
+#### 🎯 Convex-Optimization-Based Methods
+
+#### 🎯 Nonconvex-Optimization-Based Methods
+
+#### 🎯 Multi-Objective Optimization Based Methods
