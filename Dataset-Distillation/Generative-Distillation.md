@@ -5,7 +5,7 @@
 - **[1] Dataset meta-learning from kernel ridge-regression**, NeurIPS 2022 Workshop.   
    *Bo Zhao, Hakan Bilen*   
   ![](https://img.shields.io/badge/ITGAN-blue) ![](https://img.shields.io/badge/Image_Classification-green)  ![](https://img.shields.io/badge/Generative_Distillation-red) ![](https://img.shields.io/badge/Dataset_Distillation-orange)
-  <a href="https://openreview.net/forum?id=frAv0jtUMfS"><img src="https://img.shields.io/badge/NeurIPSWS-Paper-%23D2691E?logo=ICLR" alt="Paper Badge"></a>
+  <a href="https://openreview.net/forum?id=frAv0jtUMfS"><img src="https://img.shields.io/badge/NeurIPSW-Paper-%23D2691E?logo=ICLR" alt="Paper Badge"></a>
   <a href="https://github.com/VICO-UoE/IT-GAN"><img src="https://img.shields.io/badge/GitHub-Code-brightgreen?logo=github" alt="Code Badge"></a>
 
     <details> <summary>BibTex</summary>
@@ -108,8 +108,8 @@
 
 - **[6] Generative Dataset Distillation: Balancing Global Structure and Local Details**, CVPR 2024 Workshop.   
   Longzhen Li, Guang Li, Ren Togo, Keisuke Maeda, Takahiro Ogawa,  Miki Haseyama  
-  ![](https://img.shields.io/badge/GDD-blue) ![](https://img.shields.io/badge/Image_Classification-green)  ![](https://img.shields.io/badge/Generative_Distillation-red) ![](https://img.shields.io/badge/Dataset_Distillation-orange)
-  <a href="https://openaccess.thecvf.com/content/CVPR2024W/DDCV/papers/Li_Generative_Dataset_Distillation_Balancing_Global_Structure_and_Local_Details_CVPRW_2024_paper.pdf"><img src="https://img.shields.io/badge/CVPRWS-Paper-%23D2691E?logo=arXiv" alt="Paper Badge"></a>
+  ![](https://img.shields.io/badge/Image_Classification-green)  ![](https://img.shields.io/badge/Generative_Distillation-red) ![](https://img.shields.io/badge/Dataset_Distillation-orange)
+  <a href="https://openaccess.thecvf.com/content/CVPR2024W/DDCV/papers/Li_Generative_Dataset_Distillation_Balancing_Global_Structure_and_Local_Details_CVPRW_2024_paper.pdf"><img src="https://img.shields.io/badge/CVPRW-Paper-%23D2691E?logo=arXiv" alt="Paper Badge"></a>
 
     <details> <summary>BibTex</summary>
 
@@ -187,8 +187,8 @@
 
 - **[10] Generative Dataset Distillation Based on Diffusion Model**, ECCV 2024 Workshop.   
   *Duo Su, Junjie Hou, Guang Li, Ren Togo, Rui Song, Takahiro Ogawa, Miki Haseyama*   
-  ![](https://img.shields.io/badge/GDDDM-blue) ![](https://img.shields.io/badge/Image_Classification-green)  ![](https://img.shields.io/badge/Generative_Distillation-red) ![](https://img.shields.io/badge/Dataset_Distillation-orange)
-  <a href="https://arxiv.org/abs/2408.08610"><img src="https://img.shields.io/badge/ECCVWS-Paper-%23D2691E?logo=arXiv" alt="Paper Badge"></a> <a href="https://github.com/Guang000/Generative-Dataset-Distillation-Based-on-Diffusion-Model"><img src="https://img.shields.io/badge/GitHub-Code-brightgreen?logo=github" alt="Code Badge"></a>
+  ![](https://img.shields.io/badge/Image_Classification-green)  ![](https://img.shields.io/badge/Generative_Distillation-red) ![](https://img.shields.io/badge/Dataset_Distillation-orange)
+  <a href="https://arxiv.org/abs/2408.08610"><img src="https://img.shields.io/badge/ECCVW-Paper-%23D2691E?logo=arXiv" alt="Paper Badge"></a> <a href="https://github.com/Guang000/Generative-Dataset-Distillation-Based-on-Diffusion-Model"><img src="https://img.shields.io/badge/GitHub-Code-brightgreen?logo=github" alt="Code Badge"></a>
 
     <details> <summary>BibTex</summary>
 
