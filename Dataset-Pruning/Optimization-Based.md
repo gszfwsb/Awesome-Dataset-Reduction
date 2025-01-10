@@ -264,6 +264,25 @@
 
 #### 🎯 Convex-Optimization-Based Methods
 
+##### 2020
+- **[15] Coresets for data-efficient training of machine learning models**, ICML 2020.  
+*Baharan Mirzasoleiman, Jeff Bilmes, Jure Leskovec*  
+![](https://img.shields.io/badge/CRAIG-blue) ![](https://img.shields.io/badge/Image_Classification-green)  ![](https://img.shields.io/badge/Optimization-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
+<a href="http://proceedings.mlr.press/v119/mirzasoleiman20a/mirzasoleiman20a.pdf"><img src="https://img.shields.io/badge/ICML-Paper-%23D2691E?logo=ICML" alt="Paper Badge"></a>
+<a href="https://github.com/baharanm/craig"><img src="https://img.shields.io/badge/GitHub-Code-brightgreen?logo=github" alt="Code Badge"></a>
+    <details> <summary>BibTex</summary>
+
+    ```bibtex
+    @inproceedings{mirzasoleiman2020coresets,
+    title={Coresets for data-efficient training of machine learning models},
+    author={Mirzasoleiman, Baharan and Bilmes, Jeff and Leskovec, Jure},
+    booktitle={International Conference on Machine Learning},
+    year={2020}
+    }
+    ```
+
+    </details>
+
 #### 🎯 Nonconvex-Optimization-Based Methods
 
 #### 🎯 Multi-Objective-Optimization-Based Methods
