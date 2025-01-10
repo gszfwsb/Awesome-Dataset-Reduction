@@ -304,4 +304,23 @@
 
     </details>
 
+##### 2019
+- **[17] Sparse variational inference: Bayesian coresets from scratch**, NeurIPS 2019.  
+*Trevor Campbell, Boyan Beronov*  
+![](https://img.shields.io/badge/SparseVI-blue) ![](https://img.shields.io/badge/Image_Classification-green)  ![](https://img.shields.io/badge/Optimization-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
+<a href="https://proceedings.neurips.cc/paper_files/paper/2019/file/7bec7e63a493e2d61891b1e4051ef75a-Paper.pdf"><img src="https://img.shields.io/badge/NeurIPS-Paper-%23D2691E?logo=NeurIPS" alt="Paper Badge"></a>
+<a href="https://github.com/trevorcampbell/bayesian-coresets"><img src="https://img.shields.io/badge/GitHub-Code-brightgreen?logo=github" alt="Code Badge"></a>
+    <details> <summary>BibTex</summary>
+
+    ```bibtex
+    @article{campbell2019sparse,
+    title={Sparse variational inference: Bayesian coresets from scratch},
+    author={Campbell, Trevor and Beronov, Boyan},
+    journal={Advances in Neural Information Processing Systems},
+    year={2019}
+    }
+    ```
+
+    </details>
+
 #### 🎯 Multi-Objective-Optimization-Based Methods
