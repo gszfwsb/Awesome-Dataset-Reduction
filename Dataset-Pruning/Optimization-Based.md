@@ -285,4 +285,23 @@
 
 #### 🎯 Nonconvex-Optimization-Based Methods
 
+##### 2018
+- **[16] Bayesian coreset construction via greedy iterative geodesic ascent**, ICML 2018.  
+*Trevor Campbell, Tamara Broderick*  
+![](https://img.shields.io/badge/GIGA-blue) ![](https://img.shields.io/badge/Image_Classification-green)  ![](https://img.shields.io/badge/Optimization-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
+<a href="http://proceedings.mlr.press/v80/campbell18a/campbell18a.pdf"><img src="https://img.shields.io/badge/ICML-Paper-%23D2691E?logo=ICML" alt="Paper Badge"></a>
+<a href="https://github.com/trevorcampbell/bayesian-coresets"><img src="https://img.shields.io/badge/GitHub-Code-brightgreen?logo=github" alt="Code Badge"></a>
+    <details> <summary>BibTex</summary>
+
+    ```bibtex
+    @inproceedings{campbell2018bayesian,
+    title={Bayesian coreset construction via greedy iterative geodesic ascent},
+    author={Campbell, Trevor and Broderick, Tamara},
+    booktitle={International Conference on Machine Learning},
+    year={2018}
+    }
+    ```
+
+    </details>
+
 #### 🎯 Multi-Objective-Optimization-Based Methods
