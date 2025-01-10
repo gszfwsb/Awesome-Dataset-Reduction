@@ -343,3 +343,22 @@
     </details>
 
 #### 🎯 Multi-Objective-Optimization-Based Methods
+
+##### 2020
+- **[19] Uncovering coresets for classification with multi-objective evolutionary algorithms**, arXiv 2020.  
+*Pietro Barbiero, Giovanni Squillero, Alberto Tonda*  
+![](https://img.shields.io/badge/EvoCore-blue) ![](https://img.shields.io/badge/Image_Classification-green)  ![](https://img.shields.io/badge/Optimization-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
+<a href="https://arxiv.org/pdf/2002.08645"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arXiv" alt="Paper Badge"></a>
+<a href="https://github.com/albertotonda/prototype-set-discovery"><img src="https://img.shields.io/badge/GitHub-Code-brightgreen?logo=github" alt="Code Badge"></a>
+    <details> <summary>BibTex</summary>
+
+    ```bibtex
+    @article{barbiero2020uncovering,
+    title={Uncovering coresets for classification with multi-objective evolutionary algorithms},
+    author={Barbiero, Pietro and Squillero, Giovanni and Tonda, Alberto},
+    journal={arXiv preprint arXiv:2002.08645},
+    year={2020}
+    }
+    ```
+
+    </details>
