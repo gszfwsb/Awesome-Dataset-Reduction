@@ -2,7 +2,7 @@
 
 #### 2017
 
-- **[1] Active bias: Training more accurate neural networks by emphasizing high variance samples**, NIPS 2017.  
+- **[1] Active bias: Training more accurate neural networks by emphasizing high variance samples**, NeurIPS 2017.  
   *Haw-Shiuan Chang, Erik Learned-Miller, Andrew McCallum*   
   ![](https://img.shields.io/badge/Active_bias-blue) ![](https://img.shields.io/badge/Active_Learning-green)  ![](https://img.shields.io/badge/Decision_Boundary-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
   <img src="https://img.shields.io/badge/NeurlPS-Paper-%23D2691E" alt="Paper Badge">

@@ -2,10 +2,10 @@
 
 #### 🎯 Bilevel-Optimization-Based Methods
 ##### 2020
-- **[1] Coresets via bilevel optimization for continual learning and Streaming**, NIPS 2020.  
+- **[1] Coresets via bilevel optimization for continual learning and Streaming**, NeurIPS 2020.  
 *Zalán Borsos, Mojmír Mutný, Andreas Krause*  
 ![](https://img.shields.io/badge/Cardinality_Constrained_Bilevel_Optimization-blue) ![](https://img.shields.io/badge/Image_Classification-green)  ![](https://img.shields.io/badge/Optimization-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
-<a href="https://proceedings.neurips.cc/paper/2020/file/aa2a77371374094fe9e0bc1de3f94ed9-Paper.pdf"><img src="https://img.shields.io/badge/NIPS-Paper-%23D2691E?logo=NIPS" alt="Paper Badge"></a>
+<a href="https://proceedings.neurips.cc/paper/2020/file/aa2a77371374094fe9e0bc1de3f94ed9-Paper.pdf"><img src="https://img.shields.io/badge/NeurIPS-Paper-%23D2691E?logo=NIPS" alt="Paper Badge"></a>
 <a href="https://github.com/zalanborsos/bilevel_coresets"><img src="https://img.shields.io/badge/GitHub-Code-brightgreen?logo=github" alt="Code Badge"></a>
     <details> <summary>BibTex</summary>
 
@@ -39,10 +39,10 @@
 
     </details>
 
-- **[3] RETRIEVE: Coreset Selection for Efficient and Robust Semi-Supervised Learning**, NIPS 2021.  
+- **[3] RETRIEVE: Coreset Selection for Efficient and Robust Semi-Supervised Learning**, NeurIPS 2021.  
 *Krishnateja Killamsetty, Xujiang Zhao, Feng Chen, Rishabh Iyer*  
 ![](https://img.shields.io/badge/RETRIEVE-blue) ![](https://img.shields.io/badge/Image_Classification-green)  ![](https://img.shields.io/badge/Optimization-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
-<a href="https://proceedings.neurips.cc/paper_files/paper/2021/file/793bc52a941b3951dfdb85fb04f9fd06-Paper.pdf"><img src="https://img.shields.io/badge/NIPS-Paper-%23D2691E?logo=NIPS" alt="Paper Badge"></a>
+<a href="https://proceedings.neurips.cc/paper_files/paper/2021/file/793bc52a941b3951dfdb85fb04f9fd06-Paper.pdf"><img src="https://img.shields.io/badge/NeurIPS-Paper-%23D2691E?logo=NeurIPS" alt="Paper Badge"></a>
 <a href="https://github.com/decile-team/cords"><img src="https://img.shields.io/badge/GitHub-Code-brightgreen?logo=github" alt="Code Badge"></a>
     <details> <summary>BibTex</summary>
 
@@ -135,10 +135,10 @@
     </details> 
 
 ##### 2013
-- **[8] Submodular Optimization with Submodular Cover and Submodular Knapsack Constraints**, NIPS 2013.  
+- **[8] Submodular Optimization with Submodular Cover and Submodular Knapsack Constraints**, NeurIPS 2013.  
 *Rishabh Iyer, Jeff Bilmes*  
 ![](https://img.shields.io/badge/Submodular_Optimization-blue) ![](https://img.shields.io/badge/Image_Classification-green)  ![](https://img.shields.io/badge/Optimization-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
-<a href="https://proceedings.neurips.cc/paper_files/paper/2013/file/a1d50185e7426cbb0acad1e6ca74b9aa-Paper.pdf"><img src="https://img.shields.io/badge/NIPS-Paper-%23D2691E?logo=NIPS" alt="Paper Badge"></a>
+<a href="https://proceedings.neurips.cc/paper_files/paper/2013/file/a1d50185e7426cbb0acad1e6ca74b9aa-Paper.pdf"><img src="https://img.shields.io/badge/NeurIPS-Paper-%23D2691E?logo=NeurIPS" alt="Paper Badge"></a>
     <details> <summary>BibTex</summary>
 
     ```bibtex
@@ -188,10 +188,10 @@
 
     </details>
 
-- **[11] Similar: Submodular information measures based active learning in realistic scenarios**, NIPS 2021.  
+- **[11] Similar: Submodular information measures based active learning in realistic scenarios**, NeurIPS 2021.  
 *Suraj Kothawade, Nathan Beck, Krishnateja Killamsetty, Rishabh Iyer*  
 ![](https://img.shields.io/badge/SIMILAR-blue) ![](https://img.shields.io/badge/Image_Classification-green)  ![](https://img.shields.io/badge/Optimization-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
-<a href="https://proceedings.neurips.cc/paper_files/paper/2021/file/9af08cda54faea9adf40a201794183cf-Paper.pdf"><img src="https://img.shields.io/badge/NIPS-Paper-%23D2691E?logo=NIPS" alt="Paper Badge"></a>
+<a href="https://proceedings.neurips.cc/paper_files/paper/2021/file/9af08cda54faea9adf40a201794183cf-Paper.pdf"><img src="https://img.shields.io/badge/NeurIPS-Paper-%23D2691E?logo=NeurIPS" alt="Paper Badge"></a>
 <a href="https://github.com/decile-team/distil"><img src="https://img.shields.io/badge/GitHub-Code-brightgreen?logo=github" alt="Code Badge"></a>
     <details> <summary>BibTex</summary>
 
@@ -264,6 +264,101 @@
 
 #### 🎯 Convex-Optimization-Based Methods
 
+##### 2020
+- **[15] Coresets for data-efficient training of machine learning models**, ICML 2020.  
+*Baharan Mirzasoleiman, Jeff Bilmes, Jure Leskovec*  
+![](https://img.shields.io/badge/CRAIG-blue) ![](https://img.shields.io/badge/Image_Classification-green)  ![](https://img.shields.io/badge/Optimization-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
+<a href="http://proceedings.mlr.press/v119/mirzasoleiman20a/mirzasoleiman20a.pdf"><img src="https://img.shields.io/badge/ICML-Paper-%23D2691E?logo=ICML" alt="Paper Badge"></a>
+<a href="https://github.com/baharanm/craig"><img src="https://img.shields.io/badge/GitHub-Code-brightgreen?logo=github" alt="Code Badge"></a>
+    <details> <summary>BibTex</summary>
+
+    ```bibtex
+    @inproceedings{mirzasoleiman2020coresets,
+    title={Coresets for data-efficient training of machine learning models},
+    author={Mirzasoleiman, Baharan and Bilmes, Jeff and Leskovec, Jure},
+    booktitle={International Conference on Machine Learning},
+    year={2020}
+    }
+    ```
+
+    </details>
+
 #### 🎯 Nonconvex-Optimization-Based Methods
 
+##### 2018
+- **[16] Bayesian coreset construction via greedy iterative geodesic ascent**, ICML 2018.  
+*Trevor Campbell, Tamara Broderick*  
+![](https://img.shields.io/badge/GIGA-blue) ![](https://img.shields.io/badge/Image_Classification-green)  ![](https://img.shields.io/badge/Optimization-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
+<a href="http://proceedings.mlr.press/v80/campbell18a/campbell18a.pdf"><img src="https://img.shields.io/badge/ICML-Paper-%23D2691E?logo=ICML" alt="Paper Badge"></a>
+<a href="https://github.com/trevorcampbell/bayesian-coresets"><img src="https://img.shields.io/badge/GitHub-Code-brightgreen?logo=github" alt="Code Badge"></a>
+    <details> <summary>BibTex</summary>
+
+    ```bibtex
+    @inproceedings{campbell2018bayesian,
+    title={Bayesian coreset construction via greedy iterative geodesic ascent},
+    author={Campbell, Trevor and Broderick, Tamara},
+    booktitle={International Conference on Machine Learning},
+    year={2018}
+    }
+    ```
+
+    </details>
+
+##### 2019
+- **[17] Sparse variational inference: Bayesian coresets from scratch**, NeurIPS 2019.  
+*Trevor Campbell, Boyan Beronov*  
+![](https://img.shields.io/badge/SparseVI-blue) ![](https://img.shields.io/badge/Image_Classification-green)  ![](https://img.shields.io/badge/Optimization-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
+<a href="https://proceedings.neurips.cc/paper_files/paper/2019/file/7bec7e63a493e2d61891b1e4051ef75a-Paper.pdf"><img src="https://img.shields.io/badge/NeurIPS-Paper-%23D2691E?logo=NeurIPS" alt="Paper Badge"></a>
+<a href="https://github.com/trevorcampbell/bayesian-coresets"><img src="https://img.shields.io/badge/GitHub-Code-brightgreen?logo=github" alt="Code Badge"></a>
+    <details> <summary>BibTex</summary>
+
+    ```bibtex
+    @article{campbell2019sparse,
+    title={Sparse variational inference: Bayesian coresets from scratch},
+    author={Campbell, Trevor and Beronov, Boyan},
+    journal={Advances in Neural Information Processing Systems},
+    year={2019}
+    }
+    ```
+
+    </details>
+
+##### 2021
+- **[18] Bayesian coresets: Revisiting the nonconvex optimization perspective**, AISTATS 2021.  
+*Jacky Zhang, Rajiv Khanna, Anastasios Kyrillidis, Sanmi Koyejo*  
+![](https://img.shields.io/badge/A_IHT-blue) ![](https://img.shields.io/badge/Image_Classification-green)  ![](https://img.shields.io/badge/Optimization-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
+<a href="http://proceedings.mlr.press/v130/zhang21g/zhang21g.pdf"><img src="https://img.shields.io/badge/AISTATS-Paper-%23D2691E?logo=AISTATS" alt="Paper Badge"></a>
+<a href="https://github.com/jackyzyb/bayesian-coresets-optimization"><img src="https://img.shields.io/badge/GitHub-Code-brightgreen?logo=github" alt="Code Badge"></a>
+    <details> <summary>BibTex</summary>
+
+    ```bibtex
+    @inproceedings{zhang2021bayesian,
+    title={Bayesian coresets: Revisiting the nonconvex optimization perspective},
+    author={Zhang, Jacky and Khanna, Rajiv and Kyrillidis, Anastasios and Koyejo, Sanmi},
+    booktitle={International Conference on Artificial Intelligence and Statistics},
+    year={2021}
+    }
+    ```
+
+    </details>
+
 #### 🎯 Multi-Objective-Optimization-Based Methods
+
+##### 2020
+- **[19] Uncovering coresets for classification with multi-objective evolutionary algorithms**, arXiv 2020.  
+*Pietro Barbiero, Giovanni Squillero, Alberto Tonda*  
+![](https://img.shields.io/badge/EvoCore-blue) ![](https://img.shields.io/badge/Image_Classification-green)  ![](https://img.shields.io/badge/Optimization-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
+<a href="https://arxiv.org/pdf/2002.08645"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arXiv" alt="Paper Badge"></a>
+<a href="https://github.com/albertotonda/prototype-set-discovery"><img src="https://img.shields.io/badge/GitHub-Code-brightgreen?logo=github" alt="Code Badge"></a>
+    <details> <summary>BibTex</summary>
+
+    ```bibtex
+    @article{barbiero2020uncovering,
+    title={Uncovering coresets for classification with multi-objective evolutionary algorithms},
+    author={Barbiero, Pietro and Squillero, Giovanni and Tonda, Alberto},
+    journal={arXiv preprint arXiv:2002.08645},
+    year={2020}
+    }
+    ```
+
+    </details>

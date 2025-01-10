@@ -4,7 +4,7 @@
 #### 2020
 - **[1] Reducing Catastrophic Forgetting with Learning on Synthetic Data**, CVPRW 2020.  
 *Wojciech Masarczyk, Ivona Tautkute*  
-![](https://img.shields.io/badge/RCFSD-blue) ![](https://img.shields.io/badge/Image_Classification-green) ![](https://img.shields.io/badge/Continual_Learning-red) ![](https://img.shields.io/badge/Dataset_Distillation-orange)
+![](https://img.shields.io/badge/Image_Classification-green) ![](https://img.shields.io/badge/Continual_Learning-red) ![](https://img.shields.io/badge/Dataset_Distillation-orange)
 <a href="https://openaccess.thecvf.com/content_CVPRW_2020/papers/w15/Masarczyk_Reducing_Catastrophic_Forgetting_With_Learning_on_Synthetic_Data_CVPRW_2020_paper.pdf"><img src="https://img.shields.io/badge/CVPRW-Paper-%23D2691E" alt="Paper Badge"></a>
     <details> <summary>BibTex</summary>
 
@@ -22,7 +22,7 @@
 #### 2021
 - **[2] Distilled Replay: Overcoming Forgetting through Synthetic Samples**, CSSLW 2021.  
 *Andrea Rosasco, Antonio Carta, Andrea Cossu, Vincenzo Lomonaco, Davide Bacciu*  
-![](https://img.shields.io/badge/DistilledReplay-blue) ![](https://img.shields.io/badge/Image_Classification-green) ![](https://img.shields.io/badge/Continual_Learning-red) ![](https://img.shields.io/badge/Dataset_Distillation-orange)
+![](https://img.shields.io/badge/DR-blue) ![](https://img.shields.io/badge/Image_Classification-green) ![](https://img.shields.io/badge/Continual_Learning-red) ![](https://img.shields.io/badge/Dataset_Distillation-orange)
 <a href="https://link.springer.com/chapter/10.1007/978-3-031-17587-9_8"><img src="https://img.shields.io/badge/CSSLW-Paper-%23D2691E" alt="Paper Badge"></a>
 <a href="https://github.com/andrearosasco/DistilledReplay"><img src="https://img.shields.io/badge/GitHub-Code-brightgreen?logo=github" alt="Code Badge"></a>
     <details> <summary>BibTex</summary>
@@ -77,7 +77,7 @@
 
 - **[5] Remember the Past: Distilling Datasets into Addressable Memories for Neural Networks**, NeurIPS 2022.  
 *Zhiwei Deng, Olga Russakovsky*  
-![](https://img.shields.io/badge/RememberThePast-blue) ![](https://img.shields.io/badge/Image_Classification-green) ![](https://img.shields.io/badge/Continual_Learning-red) ![](https://img.shields.io/badge/Dataset_Distillation-orange)
+![](https://img.shields.io/badge/Image_Classification-green) ![](https://img.shields.io/badge/Continual_Learning-red) ![](https://img.shields.io/badge/Dataset_Distillation-orange)
 <a href="https://proceedings.neurips.cc/paper_files/paper/2022/hash/de3d2bb604cfc43c81edd2a31b257f03-Abstract-Conference.html"><img src="https://img.shields.io/badge/NeurIPS-Paper-%23D2691E" alt="Paper Badge"></a>
 <a href="https://github.com/princetonvisualai/RememberThePast-DatasetDistillation"><img src="https://img.shields.io/badge/GitHub-Code-brightgreen?logo=github" alt="Code Badge"></a>
     <details> <summary>BibTex</summary>
