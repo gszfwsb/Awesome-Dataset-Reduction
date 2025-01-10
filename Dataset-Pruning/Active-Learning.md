@@ -27,7 +27,7 @@
     <details> <summary>BibTex</summary>
 
     ```bibtex
-    @inproceedings{qininfobatch,
+    @inproceedings{qin2024infobatch,
         title={InfoBatch: Lossless Training Speed Up by Unbiased Dynamic Data Pruning},
         author={Qin, Ziheng and Wang, Kai and Zheng, Zangwei and Gu, Jianyang and Peng, Xiangyu and Zhou, Daquan and Shang, Lei and Sun, Baigui and Xie, Xuansong and You, Yang and others},
         booktitle={The Twelfth International Conference on Learning Representations}, 
@@ -62,7 +62,7 @@
     <details> <summary>BibTex</summary>
 
     ```bibtex
-    @inproceedings{qin2024datasetgrowth,
+    @inproceedings{qin2024dataset,
         title={Dataset Growth}, 
         author={Ziheng Qin and Zhaopan Xu and Yukun Zhou and Zangwei Zheng and Zebang Cheng and Hao Tang and Lei Shang and Baigui Sun and Xiaojiang Peng and Radu Timofte and Hongxun Yao and Kai Wang and Yang You},
         booktitle={ECCV},
@@ -114,7 +114,7 @@
     <details> <summary>BibTex</summary>
 
     ```bibtex
-    @inproceedings{linaccelerating,
+    @inproceedings{lin2024accelerating,
         title={Accelerating Augmentation Invariance Pretraining},
         author={Lin, Jinhong and Wu, Cheng-En and Wei, Yibing and Morgado, Pedro},
         booktitle={The Thirty-eighth Annual Conference on Neural Information Processing Systems}, 
@@ -132,7 +132,7 @@
     <details> <summary>BibTex</summary>
 
     ```bibtex
-    @inproceedings{zhangheprune,
+    @inproceedings{zhang2024heprune,
         title={HEPrune: Fast Private Training of Deep Neural Networks With Encrypted Data Pruning},
         author={Zhang, Yancheng and Zheng, Mengxin and Shang, Yuzhang and Chen, Xun and Lou, Qian},
         booktitle={The Thirty-eighth Annual Conference on Neural Information Processing Systems}, 
@@ -150,7 +150,7 @@
     <details> <summary>BibTex</summary>
 
     ```bibtex
-    @inproceedings{zhanggder,
+    @inproceedings{zhang2024gder,
         title={GDeR: Safeguarding Efficiency, Balancing, and Robustness via Prototypical Graph Pruning},
         author={Zhang, Guibin and Dong, Haonan and Zhang, Yuchen and Li, Zhixun and Chen, Dingshuo and Wang, Kai and Chen, Tianlong and Liang, Yuxuan and Cheng, Dawei and Wang, Kun},
         booktitle={The Thirty-eighth Annual Conference on Neural Information Processing Systems}, 
@@ -167,7 +167,7 @@
     <details> <summary>BibTex</summary>
 
     ```bibtex
-    @inproceedings{chenbeyond,
+    @inproceedings{chen2024beyond,
         title={Beyond Efficiency: Molecular Data Pruning for Enhanced Generalization},
         author={Chen, Dingshuo and Li, Zhixun and Ni, Yuyan and Zhang, Guibin and Wang, Ding and Liu, Qiang and Wu, Shu and Yu, Jeffrey Xu and Wang, Liang},
         booktitle={The Thirty-eighth Annual Conference on Neural Information Processing Systems}, 
