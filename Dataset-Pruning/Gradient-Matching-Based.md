@@ -191,7 +191,7 @@
 
 - **[10] Sketchy Moment Matching: Toward Fast and Provable Data Selection for Finetuning**, arXiv 2024.   
   *Yijun Dong, Hoang Phan, Xiang Pan, Qi Lei*   
-  ![](https://img.shields.io/badge/SkMM-blue)![](https://img.shields.io/badge/Image_Finetuning-green)  ![](https://img.shields.io/badge/Gradient_Matching-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
+  ![](https://img.shields.io/badge/SkMM-blue)![](https://img.shields.io/badge/Image_Classification-green)  ![](https://img.shields.io/badge/Gradient_Matching-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
   <a href="https://proceedings.neurips.cc/paper_files/paper/2023/file/749252feedd44f7f10d47ec1d674a2f8-Paper-Conference.pdf"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arXiv" alt="Paper Badge"></a>
 
     <details> <summary>BibTex</summary>
@@ -209,7 +209,7 @@
 
 - **[11] Less: Selecting influential data for targeted instruction tuning**, arXiv 2024.   
   *Mengzhou Xia, Sadhika Malladi, Suchin Gururangan, Sanjeev Arora, Danqi Chen*   
-  ![](https://img.shields.io/badge/Less-blue)![](https://img.shields.io/badge/Instruction_Finetuning-green)  ![](https://img.shields.io/badge/Gradient_Matching-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
+  ![](https://img.shields.io/badge/Less-blue)![](https://img.shields.io/badge/LLM-green)  ![](https://img.shields.io/badge/Gradient_Matching-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
   <img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arXiv" alt="Paper Badge">
   <a href="https://github.com/princeton-nlp/LESS"><img src="https://img.shields.io/badge/GitHub-Code-brightgreen?logo=github" alt="Code Badge"></a>
 
@@ -228,7 +228,7 @@
 
 - **[12] Influential Language Data Selection via Gradient Trajectory Pursuit**, arXiv 2024.   
   *Zhiwei Deng, Tao Li, Yang Li*   
-  ![](https://img.shields.io/badge/GTP-blue)![](https://img.shields.io/badge/Instruction_Finetuning-green)  ![](https://img.shields.io/badge/Gradient_Matching-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
+  ![](https://img.shields.io/badge/GTP-blue)![](https://img.shields.io/badge/LLM-green)  ![](https://img.shields.io/badge/Gradient_Matching-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
   <img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arXiv" alt="Paper Badge">
 
     <details> <summary>BibTex</summary>
@@ -246,7 +246,7 @@
 
 - **[13] TAGCOS: Task-agnostic Gradient Clustered Coreset Selection for Instruction Tuning Data**, arXiv 2024.   
   *Jipeng Zhang, Yaxuan Qin, Renjie Pi, Weizhong Zhang, Rui Pan, Tong Zhang*   
-  ![](https://img.shields.io/badge/TAGCOS-blue)![](https://img.shields.io/badge/Instruction_Finetuning-green)  ![](https://img.shields.io/badge/Gradient_Matching-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
+  ![](https://img.shields.io/badge/TAGCOS-blue)![](https://img.shields.io/badge/LLM-green)  ![](https://img.shields.io/badge/Gradient_Matching-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
   <img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arXiv" alt="Paper Badge">
   <a href="https://github.com/2003pro/TAGCOS"><img src="https://img.shields.io/badge/GitHub-Code-brightgreen?logo=github" alt="Code Badge"></a>
 
