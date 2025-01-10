@@ -323,4 +323,23 @@
 
     </details>
 
+##### 2021
+- **[18] Bayesian coresets: Revisiting the nonconvex optimization perspective**, AISTATS 2021.  
+*Jacky Zhang, Rajiv Khanna, Anastasios Kyrillidis, Sanmi Koyejo*  
+![](https://img.shields.io/badge/A_IHT-blue) ![](https://img.shields.io/badge/Image_Classification-green)  ![](https://img.shields.io/badge/Optimization-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
+<a href="http://proceedings.mlr.press/v130/zhang21g/zhang21g.pdf"><img src="https://img.shields.io/badge/AISTATS-Paper-%23D2691E?logo=AISTATS" alt="Paper Badge"></a>
+<a href="https://github.com/jackyzyb/bayesian-coresets-optimization"><img src="https://img.shields.io/badge/GitHub-Code-brightgreen?logo=github" alt="Code Badge"></a>
+    <details> <summary>BibTex</summary>
+
+    ```bibtex
+    @inproceedings{zhang2021bayesian,
+    title={Bayesian coresets: Revisiting the nonconvex optimization perspective},
+    author={Zhang, Jacky and Khanna, Rajiv and Kyrillidis, Anastasios and Koyejo, Sanmi},
+    booktitle={International Conference on Artificial Intelligence and Statistics},
+    year={2021}
+    }
+    ```
+
+    </details>
+
 #### 🎯 Multi-Objective-Optimization-Based Methods
