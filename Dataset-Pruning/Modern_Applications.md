@@ -17,10 +17,10 @@
 
     ```bibtex
     @article{borsos2020coresets,
-        title={Coresets via bilevel optimization for continual learning and streaming},
-        author={Borsos, Zal{\'a}n and Mutny, Mojmir and Krause, Andreas},
-        journal={Advances in neural information processing systems},
-        year={2020}
+    title={Coresets via bilevel optimization for continual learning and streaming},
+    author={Borsos, Zal{\'a}n and Mutny, Mojmir and Krause, Andreas},
+    journal={Advances in neural information processing systems},
+    year={2020}
     }
     ```
 
@@ -30,16 +30,16 @@
 - **[2] Structural-Entropy-Based Sample Selection for Efficient and Effective Learning**, arXiv 2024.  
 *Tianchi Xie, Jiangning Zhu, Guozu Ma, Minzhi Lin, Wei Chen, Weikai Yang, Shixia Liu*  
 ![](https://img.shields.io/badge/SES-blue) ![](https://img.shields.io/badge/Image_Classification&Text_Classification&Object_Detection&Visual_Question,-green) ![](https://img.shields.io/badge/Entropy-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
-<a href="https://arxiv.org/pdf/2410.02268"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E" alt="Paper Badge"></a>
+<a href="https://arxiv.org/pdf/2410.02268"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arXiv" alt="Paper Badge"></a>
 <a href="https://anonymous.4open.science/r/SE-based_sample_selection-575B/"><img src="https://img.shields.io/badge/GitHub-Code-brightgreen?logo=github" alt="Code Badge"></a>
     <details> <summary>BibTex</summary>
 
     ```bibtex
     @article{xie2024structural,
-        title={Structural-Entropy-Based Sample Selection for Efficient and Effective Learning},
-        author={Xie, Tianchi and Zhu, Jiangning and Ma, Guozu and Lin, Minzhi and Chen, Wei and Yang, Weikai and Liu, Shixia},
-        journal={arXiv preprint arXiv:2410.02268},
-        year={2024}
+    title={Structural-Entropy-Based Sample Selection for Efficient and Effective Learning},
+    author={Xie, Tianchi and Zhu, Jiangning and Ma, Guozu and Lin, Minzhi and Chen, Wei and Yang, Weikai and Liu, Shixia},
+    journal={arXiv preprint arXiv:2410.02268},
+    year={2024}
     }
     ```
 
@@ -55,10 +55,10 @@
 
     ```bibtex
     @inproceedings{yang2023dataset,
-        title={Dataset Pruning: Reducing Training Data by Examining Generalization Influence},
-        author={Yang, Shuo and Xie, Zeke and Peng, Hanyu and Xu, Min and Sun, Mingming and Li, Ping},
-        booktitle={The Eleventh International Conference on Learning Representations}, 
-        year={2023}
+    title={Dataset Pruning: Reducing Training Data by Examining Generalization Influence},
+    author={Yang, Shuo and Xie, Zeke and Peng, Hanyu and Xu, Min and Sun, Mingming and Li, Ping},
+    booktitle={The Eleventh International Conference on Learning Representations}, 
+    year={2023}
     }
     ```
 
@@ -75,10 +75,10 @@
 
     ```bibtex
     @inproceedings{zhang2024heprune,
-        title={HEPrune: Fast Private Training of Deep Neural Networks With Encrypted Data Pruning},
-        author={Zhang, Yancheng and Zheng, Mengxin and Shang, Yuzhang and Chen, Xun and Lou, Qian},
-        booktitle={The Thirty-eighth Annual Conference on Neural Information Processing Systems}, 
-        year={2024}
+    title={HEPrune: Fast Private Training of Deep Neural Networks With Encrypted Data Pruning},
+    author={Zhang, Yancheng and Zheng, Mengxin and Shang, Yuzhang and Chen, Xun and Lou, Qian},
+    booktitle={The Thirty-eighth Annual Conference on Neural Information Processing Systems}, 
+    year={2024}
     }
     ```
 
@@ -96,10 +96,10 @@
 
     ```bibtex
     @inproceedings{zhang2024gder,
-        title={GDeR: Safeguarding Efficiency, Balancing, and Robustness via Prototypical Graph Pruning},
-        author={Zhang, Guibin and Dong, Haonan and Zhang, Yuchen and Li, Zhixun and Chen, Dingshuo and Wang, Kai and Chen, Tianlong and Liang, Yuxuan and Cheng, Dawei and Wang, Kun},
-        booktitle={The Thirty-eighth Annual Conference on Neural Information Processing Systems}, 
-        year={2024}
+    title={GDeR: Safeguarding Efficiency, Balancing, and Robustness via Prototypical Graph Pruning},
+    author={Zhang, Guibin and Dong, Haonan and Zhang, Yuchen and Li, Zhixun and Chen, Dingshuo and Wang, Kai and Chen, Tianlong and Liang, Yuxuan and Cheng, Dawei and Wang, Kun},
+    booktitle={The Thirty-eighth Annual Conference on Neural Information Processing Systems}, 
+    year={2024}
     }
     ```
 
@@ -115,10 +115,10 @@
 
     ```bibtex
     @inproceedings{xiao2024dynamic,
-        title={Dynamic Data Pruning for Automatic Speech Recognition},
-        author={Xiao, Qiao and Ma, Pingchuan and Fernandez-Lopez, Adriana and Wu, Boqian and Yin, Lu and Petridis, Stavros and Pechenizkiy, Mykola and Pantic, Maja and Mocanu, Decebal C and Liu, Shiwei},
-        booktitle={The 25th Interspeech Conference},
-        year={2024}
+    title={Dynamic Data Pruning for Automatic Speech Recognition},
+    author={Xiao, Qiao and Ma, Pingchuan and Fernandez-Lopez, Adriana and Wu, Boqian and Yin, Lu and Petridis, Stavros and Pechenizkiy, Mykola and Pantic, Maja and Mocanu, Decebal C and Liu, Shiwei},
+    booktitle={The 25th Interspeech Conference},
+    year={2024}
     }
     ```
 
@@ -135,10 +135,10 @@
 
     ```bibtex
     @inproceedings{wang2023too,
-        title={Too large; data reduction for vision-language pre-training},
-        author={Wang, Alex Jinpeng and Lin, Kevin Qinghong and Zhang, David Junhao and Lei, Stan Weixian and Shou, Mike Zheng},
-        booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
-        year={2023}
+    title={Too large; data reduction for vision-language pre-training},
+    author={Wang, Alex Jinpeng and Lin, Kevin Qinghong and Zhang, David Junhao and Lei, Stan Weixian and Shou, Mike Zheng},
+    booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+    year={2023}
     }
     ```
 
@@ -154,10 +154,10 @@
 
     ```bibtex
     @inproceedings{qin2024dataset,
-        title={Dataset Growth}, 
-        author={Ziheng Qin and Zhaopan Xu and Yukun Zhou and Zangwei Zheng and Zebang Cheng and Hao Tang and Lei Shang and Baigui Sun and Xiaojiang Peng and Radu Timofte and Hongxun Yao and Kai Wang and Yang You},
-        booktitle={ECCV},
-        year={2024}
+    title={Dataset Growth}, 
+    author={Ziheng Qin and Zhaopan Xu and Yukun Zhou and Zangwei Zheng and Zebang Cheng and Hao Tang and Lei Shang and Baigui Sun and Xiaojiang Peng and Radu Timofte and Hongxun Yao and Kai Wang and Yang You},
+    booktitle={ECCV},
+    year={2024}
     }
     ```
 
@@ -168,16 +168,16 @@
 - **[9] EMP: Enhance Memory in Data Pruning**, arXiv 2024.  
 *Jinying Xiao, Ping Li, Jie Nie, Zhe Tang*  
 ![](https://img.shields.io/badge/EMP-blue) ![](https://img.shields.io/badge/Image_Classification&Contrastive_Learning-green) ![](https://img.shields.io/badge/Loss+Entropy-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
-<a href="https://arxiv.org/pdf/2408.16031"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E" alt="Paper Badge"></a>
+<a href="https://arxiv.org/pdf/2408.16031"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arXiv" alt="Paper Badge"></a>
 <a href="https://github.com/xiaojinying/EMP"><img src="https://img.shields.io/badge/GitHub-Code-brightgreen?logo=github" alt="Code Badge"></a>
     <details> <summary>BibTex</summary>
 
     ```bibtex
     @article{xiao2024emp,
-        title={EMP: Enhance Memory in Data Pruning},
-        author={Xiao, Jinying and Li, Ping and Nie, Jie and Tang, Zhe},
-        journal={arXiv preprint arXiv:2408.16031},
-        year={2024}
+    title={EMP: Enhance Memory in Data Pruning},
+    author={Xiao, Jinying and Li, Ping and Nie, Jie and Tang, Zhe},
+    journal={arXiv preprint arXiv:2408.16031},
+    year={2024}
     }
     ```
 
@@ -186,15 +186,15 @@
 - **[10] Language Model-Driven Data Pruning Enables Efficient Active Learning**, arXiv 2024.  
 *Abdul Hameed Azeemi, Ihsan Ayyub Qazi, Agha Ali Raza*  
 ![](https://img.shields.io/badge/ActivePrune-blue) ![](https://img.shields.io/badge/Text_Analytics-green) ![](https://img.shields.io/badge/Perplexity-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
-<a href="https://arxiv.org/pdf/2410.04275"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E" alt="Paper Badge"></a>
+<a href="https://arxiv.org/pdf/2410.04275"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arXiv" alt="Paper Badge"></a>
     <details> <summary>BibTex</summary>
 
     ```bibtex
     @article{azeemi2024language,
-        title={Language Model-Driven Data Pruning Enables Efficient Active Learning},
-        author={Azeemi, Abdul Hameed and Qazi, Ihsan Ayyub and Raza, Agha Ali},
-        journal={arXiv preprint arXiv:2410.04275},
-        year={2024}
+    title={Language Model-Driven Data Pruning Enables Efficient Active Learning},
+    author={Azeemi, Abdul Hameed and Qazi, Ihsan Ayyub and Raza, Agha Ali},
+    journal={arXiv preprint arXiv:2410.04275},
+    year={2024}
     }
     ```
 
