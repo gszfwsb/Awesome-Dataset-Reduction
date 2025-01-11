@@ -196,7 +196,7 @@
 
 
 #### 2023
-- **[3] Meta-prediction Model for Distillation-Aware NAS on Unseen Datasets**,arXiv 2023.      
+- **[3] Meta-prediction Model for Distillation-Aware NAS on Unseen Datasetss**,arXiv 2023.      
 *Liu, Hanxiao and Simonyan, Karen and Yang, Yiming*  
 ![](https://img.shields.io/badge/Image_Classification-green) ![](https://img.shields.io/badge/Neural_Architecture_Search-red) ![](https://img.shields.io/badge/Dataset_Distillation-orange)
 <a href="https://arxiv.org/abs/2305.16948"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E" alt="Paper Badge"></a>
