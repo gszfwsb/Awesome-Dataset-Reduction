@@ -138,7 +138,26 @@
 
     </details>
 
-- **[8] Are Large-scale Soft Labels Necessary for Large-scale Dataset Distillation?**, NeurIPS 2024.  
+- **[8] Prioritize Alignment in Dataset Distillation**, arXiv 2024.  
+*Zekai Li, Ziyao Guo, Wangbo Zhao, Tianle Zhang, Zhi-Qi Cheng, Samir Khaki, Kaipeng Zhang, Ahmad Sajedi, Konstantinos N Plataniotis, Kai Wang, Yang You*  
+![](https://img.shields.io/badge/PAD-blue) ![](https://img.shields.io/badge/Image_Classification-green) ![](https://img.shields.io/badge/Label_Distillation-red) ![](https://img.shields.io/badge/Dataset_Distillation-orange)
+<a href="https://arxiv.org/pdf/2408.03360"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E" alt="Paper Badge"></a>
+<a href="https://github.com/NUS-HPC-AI-Lab/PAD"><img src="https://img.shields.io/badge/GitHub-Code-brightgreen?logo=github" alt="Code Badge"></a>
+    <details> <summary>BibTex</summary>
+
+    ```bibtex
+    @article{li2024prioritize,
+      title={Prioritize Alignment in Dataset Distillation},
+      author={Li, Zekai and Guo, Ziyao and Zhao, Wangbo and Zhang, Tianle and Cheng, Zhi-Qi and Khaki, Samir and Zhang, Kaipeng and Sajedi, Ahmad and Plataniotis, Konstantinos N and Wang, Kai and others},
+      journal={arXiv preprint arXiv:2408.03360},
+      year={2024}
+    }
+
+    ```
+
+    </details>
+
+- **[9] Are Large-scale Soft Labels Necessary for Large-scale Dataset Distillation?**, NeurIPS 2024.  
 *Lingao Xiao, Yang He*  
 ![](https://img.shields.io/badge/LPLD-blue) ![](https://img.shields.io/badge/Image_Classification-green) ![](https://img.shields.io/badge/Label_Distillation-red) ![](https://img.shields.io/badge/Dataset_Distillation-orange)
 <a href="https://openreview.net/forum?id=12A1RT1L87"><img src="https://img.shields.io/badge/NeurIPS-Paper-%23D2691E" alt="Paper Badge"></a>
@@ -155,7 +174,7 @@
 
     </details>
 
-- **[9] Label-Augmented Dataset Distillation**, arXiv 2024.  
+- **[10] Label-Augmented Dataset Distillation**, arXiv 2024.  
 *Lingao Xiao, Yang He*  
 ![](https://img.shields.io/badge/LADD-blue) ![](https://img.shields.io/badge/Image_Classification-green) ![](https://img.shields.io/badge/Label_Distillation-red) ![](https://img.shields.io/badge/Dataset_Distillation-orange)
 <a href="https://arxiv.org/pdf/2409.16239"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E" alt="Paper Badge"></a>
@@ -172,7 +191,7 @@
 
     </details>
 
-- **[10] DRUPI: Dataset Reduction Using Privileged Information**, arXiv 2024.  
+- **[11] DRUPI: Dataset Reduction Using Privileged Information**, arXiv 2024.  
 *Lingao Xiao, Yang He*  
 ![](https://img.shields.io/badge/DRUPI-blue) ![](https://img.shields.io/badge/Image_Classification-green) ![](https://img.shields.io/badge/Label_Distillation-red) ![](https://img.shields.io/badge/Dataset_Distillation-orange)
 <a href="https://arxiv.org/pdf/2410.01611"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E" alt="Paper Badge"></a>
