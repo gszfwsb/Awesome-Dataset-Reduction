@@ -175,7 +175,7 @@
     </details>
 
 - **[10] Label-Augmented Dataset Distillation**, arXiv 2024.  
-*Lingao Xiao, Yang He*  
+*Seoungyoon Kang, Youngsun Lim, Hyunjung Shim*  
 ![](https://img.shields.io/badge/LADD-blue) ![](https://img.shields.io/badge/Image_Classification-green) ![](https://img.shields.io/badge/Label_Distillation-red) ![](https://img.shields.io/badge/Dataset_Distillation-orange)
 <a href="https://arxiv.org/pdf/2409.16239"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E" alt="Paper Badge"></a>
     <details> <summary>BibTex</summary>
@@ -192,7 +192,7 @@
     </details>
 
 - **[11] DRUPI: Dataset Reduction Using Privileged Information**, arXiv 2024.  
-*Lingao Xiao, Yang He*  
+*Shaobo Wang, Yantai Yang, Shuaiyu Zhang, Chenghao Sun, Weiya Li, Xuming Hu, Linfeng Zhang*  
 ![](https://img.shields.io/badge/DRUPI-blue) ![](https://img.shields.io/badge/Image_Classification-green) ![](https://img.shields.io/badge/Label_Distillation-red) ![](https://img.shields.io/badge/Dataset_Distillation-orange)
 <a href="https://arxiv.org/pdf/2410.01611"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E" alt="Paper Badge"></a>
     <details> <summary>BibTex</summary>
