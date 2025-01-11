@@ -152,7 +152,7 @@
 
     </details>
 
-#### 2021
+#### 2020
 - **[2] Generative teaching networks: Accelerating neural architecture search by learning to generate synthetic training data**, ICML 2020.  
 *Jianyang Gu, Kai Wang, Wei Jiang, Yang You*  
 ![](https://img.shields.io/badge/GTN-blue) ![](https://img.shields.io/badge/Image_Classification-green) ![](https://img.shields.io/badge/Neural_Architecture_Search-red) ![](https://img.shields.io/badge/Dataset_Distillation-orange)
@@ -168,6 +168,27 @@
       pages={9206--9216},
       year={2020},
       organization={PMLR}
+    }
+    ```
+
+    </details>
+
+#### 2021
+- **[1] DARTS: Differentiable Architecture Search**,arXiv 2021.      
+*Liu, Hanxiao and Simonyan, Karen and Yang, Yiming*  
+![](https://img.shields.io/badge/Image_Classification-green) ![](https://img.shields.io/badge/Neural_Architecture_Search-red) ![](https://img.shields.io/badge/Dataset_Distillation-orange)
+<a href="https://link.springer.com/chapter/10.1007/978-3-031-15168-2_12"><img src="https://img.shields.io/badge/ICIST-Paper-%23D2691E" alt="Paper Badge"></a>
+<a href="https://github.com/quark0/darts"><img src="https://img.shields.io/badge/GitHub-Code-brightgreen?logo=github" alt="Code Badge"></a>
+    <details> <summary>BibTex</summary>
+
+    ```bibtex
+    @inproceedings{medvedev2021learning,
+      title={Learning to generate synthetic training data using gradient matching and implicit differentiation},
+      author={Medvedev, Dmitry and D’yakonov, Alexander},
+      booktitle={International Conference on Analysis of Images, Social Networks and Texts},
+      pages={138--150},
+      year={2021},
+      organization={Springer}
     }
     ```
 
