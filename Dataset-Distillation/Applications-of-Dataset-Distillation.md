@@ -174,7 +174,7 @@
     </details>
 
 #### 2021
-- **[1] Learning to generate synthetic training data using gradient matching and implicit differentiation**,arXiv 2021.      
+- **[3] Learning to generate synthetic training data using gradient matching and implicit differentiation**,ICIST 2021.      
 *Liu, Hanxiao and Simonyan, Karen and Yang, Yiming*  
 ![](https://img.shields.io/badge/Image_Classification-green) ![](https://img.shields.io/badge/Neural_Architecture_Search-red) ![](https://img.shields.io/badge/Dataset_Distillation-orange)
 <a href="https://link.springer.com/chapter/10.1007/978-3-031-15168-2_12"><img src="https://img.shields.io/badge/ICIST-Paper-%23D2691E" alt="Paper Badge"></a>
@@ -190,6 +190,26 @@
       year={2021},
       organization={Springer}
     }
+    ```
+
+    </details>
+
+
+#### 2023
+- **[3] Meta-prediction Model for Distillation-Aware NAS on Unseen Datasets**,arXiv 2023.      
+*Liu, Hanxiao and Simonyan, Karen and Yang, Yiming*  
+![](https://img.shields.io/badge/Image_Classification-green) ![](https://img.shields.io/badge/Neural_Architecture_Search-red) ![](https://img.shields.io/badge/Dataset_Distillation-orange)
+<a href="https://arxiv.org/abs/2305.16948"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E" alt="Paper Badge"></a>
+<a href="https://github.com/quark0/darts"><img src="https://img.shields.io/badge/GitHub-Code-brightgreen?logo=github" alt="Code Badge"></a>
+    <details> <summary>BibTex</summary>
+
+    ```bibtex
+    @article{lee2023meta,
+      title={Meta-prediction Model for Distillation-Aware NAS on Unseen Datasets},
+      author={Lee, Hayeon and An, Sohyun and Kim, Minseon and Hwang, Sung Ju},
+      journal={arXiv preprint arXiv:2305.16948},
+      year={2023}
+      }
     ```
 
     </details>
