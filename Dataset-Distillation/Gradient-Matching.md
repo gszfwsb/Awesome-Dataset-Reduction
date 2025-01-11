@@ -174,10 +174,10 @@
 
     ```bibtex
     @article{liu2023dream+,
-      title={Dream+: Efficient dataset distillation by bidirectional representative matching},
-      author={Liu, Yanqing and Gu, Jianyang and Wang, Kai and Zhu, Zheng and Zhang, Kaipeng and Jiang, Wei and You, Yang},
-      journal={arXiv preprint arXiv:2310.15052},
-      year={2023}
+    title={Dream+: Efficient dataset distillation by bidirectional representative matching},
+    author={Liu, Yanqing and Gu, Jianyang and Wang, Kai and Zhu, Zheng and Zhang, Kaipeng and Jiang, Wei and You, Yang},
+    journal={arXiv preprint arXiv:2310.15052},
+    year={2023}
     }
     ```
 

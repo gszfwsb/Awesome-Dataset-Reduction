@@ -4,7 +4,7 @@
 ##### 2020
 - **[1] Coresets via bilevel optimization for continual learning and Streaming**, NeurIPS 2020.  
 *Zalán Borsos, Mojmír Mutný, Andreas Krause*  
-![](https://img.shields.io/badge/Cardinality_Constrained_Bilevel_Optimization-blue) ![](https://img.shields.io/badge/Image_Classification-green)  ![](https://img.shields.io/badge/Optimization-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
+ ![](https://img.shields.io/badge/Image_Classification-green)  ![](https://img.shields.io/badge/Optimization-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
 <a href="https://proceedings.neurips.cc/paper/2020/file/aa2a77371374094fe9e0bc1de3f94ed9-Paper.pdf"><img src="https://img.shields.io/badge/NeurIPS-Paper-%23D2691E?logo=NIPS" alt="Paper Badge"></a>
 <a href="https://github.com/zalanborsos/bilevel_coresets"><img src="https://img.shields.io/badge/GitHub-Code-brightgreen?logo=github" alt="Code Badge"></a>
     <details> <summary>BibTex</summary>
@@ -60,7 +60,7 @@
 ##### 2022
 - **[4] Probabilistic Bilevel Coreset Selection**, ICML 2022.  
 *Xiao Zhou, Renjie Pi, Weizhong Zhang, Yong Lin, Zonghao Chen, Tong Zhang*  
-![](https://img.shields.io/badge/Probabilistic_Bilevel_Coreset_Selection-blue) ![](https://img.shields.io/badge/Image_Classification-green)  ![](https://img.shields.io/badge/Optimization-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
+ ![](https://img.shields.io/badge/Image_Classification-green)  ![](https://img.shields.io/badge/Optimization-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
 <a href="https://proceedings.mlr.press/v162/zhou22h/zhou22h.pdf"><img src="https://img.shields.io/badge/ICML-Paper-%23D2691E?logo=ICML" alt="Paper Badge"></a>
 <a href="https://github.com/x-zho14/Probabilistic-Bilevel-Coreset-Selection"><img src="https://img.shields.io/badge/GitHub-Code-brightgreen?logo=github" alt="Code Badge"></a>
     <details> <summary>BibTex</summary>
@@ -119,7 +119,7 @@
 ##### 1978
 - **[7] An analysis of approximations for maximizing submodular set functions—I**, MATH PROGRAM 1978.  
 *G.L. NEMHAUSER, L.A. WOLSEY, M.L. FISHER*  
-![](https://img.shields.io/badge/Submodular_Set_Functions-blue) ![](https://img.shields.io/badge/Image_Classification-green)  ![](https://img.shields.io/badge/Optimization-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
+![](https://img.shields.io/badge/Image_Classification-green)  ![](https://img.shields.io/badge/Optimization-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
 <a href="https://proceedings.neurips.cc/paper/2020/file/aa2a77371374094fe9e0bc1de3f94ed9-Paper.pdf"><img src="https://img.shields.io/badge/MATH PROGRAM-Paper-%23D2691E?logo=MATH PROGRAM" alt="Paper Badge"></a>
     <details> <summary>BibTex</summary>
 
@@ -137,7 +137,7 @@
 ##### 2013
 - **[8] Submodular Optimization with Submodular Cover and Submodular Knapsack Constraints**, NeurIPS 2013.  
 *Rishabh Iyer, Jeff Bilmes*  
-![](https://img.shields.io/badge/Submodular_Optimization-blue) ![](https://img.shields.io/badge/Image_Classification-green)  ![](https://img.shields.io/badge/Optimization-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
+![](https://img.shields.io/badge/Image_Classification-green)  ![](https://img.shields.io/badge/Optimization-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
 <a href="https://proceedings.neurips.cc/paper_files/paper/2013/file/a1d50185e7426cbb0acad1e6ca74b9aa-Paper.pdf"><img src="https://img.shields.io/badge/NeurIPS-Paper-%23D2691E?logo=NeurIPS" alt="Paper Badge"></a>
     <details> <summary>BibTex</summary>
 
@@ -173,7 +173,7 @@
 ##### 2021
 - **[10] Submodular combinatorial information measures with applications in machine learning**, ALT 2021.  
 *Rishabh Iyer, Ninad Khargoankar, Jeff Bilmes, Himanshu Asanani*  
-![](https://img.shields.io/badge/Submodular_Combinatorial_Information_Measures-blue) ![](https://img.shields.io/badge/Image_Classification-green)  ![](https://img.shields.io/badge/Optimization-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
+![](https://img.shields.io/badge/Image_Classification-green)  ![](https://img.shields.io/badge/Optimization-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
 <a href="http://proceedings.mlr.press/v132/iyer21a/iyer21a.pdf"><img src="https://img.shields.io/badge/ALT-Paper-%23D2691E?logo=ALT" alt="Paper Badge"></a>
     <details> <summary>BibTex</summary>
 

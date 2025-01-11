@@ -76,9 +76,26 @@
     ```
 
     </details> 
+- **[5] Optimal Sample Selection Through Uncertainty Estimation and Its Application in Deep Learning**, AISTATS 2023.  
+*Seungjae Shin, Heesun Bae, Donghyeok Shin, Weonyoung Joo, Il-Chul Moon*  
+![](https://img.shields.io/badge/LCMat-blue) ![](https://img.shields.io/badge/Image_Classification-green)  ![](https://img.shields.io/badge/Uncertainty-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
+<a href="https://proceedings.mlr.press/v206/shin23a/shin23a.pdf"><img src="https://img.shields.io/badge/AISTATS-Paper-%23D2691E" alt="Paper Badge"></a>
+<a href="https://github.com/SJShin-AI/LCMat"><img src="https://img.shields.io/badge/GitHub-Code-brightgreen?logo=github" alt="Code Badge"></a>
+    <details> <summary>BibTex</summary>
+
+    ```bibtex
+    @article{lin2023optimal,
+    title={Optimal sample selection through uncertainty estimation and its application in deep learning},
+    author={Lin, Yong and Liu, Chen and Ye, Chenlu and Lian, Qing and Yao, Yuan and Zhang, Tong},
+    journal={arXiv preprint arXiv:2309.02476},
+    year={2023}
+    }
+    ```
+
+    </details> 
 
 #### 2024
-- **[5] Large-scale dataset pruning with dynamic uncertainty**, CVPR workshop 2024.  
+- **[6] Large-scale dataset pruning with dynamic uncertainty**, CVPR workshop 2024.  
 *Muyang He, Shuo Yang, Tiejun Huang, Bo Zhao*  
 ![](https://img.shields.io/badge/DynUnc-blue) ![](https://img.shields.io/badge/Image_Classification-green)  ![](https://img.shields.io/badge/Uncertainty-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
 <a href="https://openaccess.thecvf.com/content/CVPR2024W/DDCV/papers/He_Large-scale_Dataset_Pruning_with_Dynamic_Uncertainty_CVPRW_2024_paper.pdf"><img src="https://img.shields.io/badge/DDCV-Paper-%23D2691E" alt="Paper Badge"></a>
@@ -96,7 +113,7 @@
 
     </details> 
 
-- **[6]  Data Pruning via Separability, Integrity, and Model Uncertainty-Aware Importance Sampling**, arXiv 2024.  
+- **[7]  Data Pruning via Separability, Integrity, and Model Uncertainty-Aware Importance Sampling**, arXiv 2024.  
 *Steven Grosz, Rui Zhao, Rajeev Ranjan, Hongcheng Wang, Manoj Aggarwal, Gerard Medioni, Anil Jain*  
 ![](https://img.shields.io/badge/SIM(S)-blue) ![](https://img.shields.io/badge/Image_Classification-green)  ![](https://img.shields.io/badge/Geometry_Uncertainty-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
 <a href="https://arxiv.org/pdf/2406.04273"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a>
@@ -116,7 +133,7 @@
 
     </details> 
 
-- **[7]  Evolution-aware VAriance (EVA) Coreset Selection for Medical Image Classification**, ACM MM 2024.  
+- **[8]  Evolution-aware VAriance (EVA) Coreset Selection for Medical Image Classification**, ACM MM 2024.  
 *Yuxin Hong, Xiao Zhang, Xin Zhang, Joey Tianyi Zhou*  
 ![](https://img.shields.io/badge/EVA-blue) ![](https://img.shields.io/badge/Image_Classification-green)  ![](https://img.shields.io/badge/Uncertainty-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
 <a href="https://dl.acm.org/doi/abs/10.1145/3664647.3681592"><img src="https://img.shields.io/badge/MM-Paper-%23D2691E" alt="Paper Badge"></a>

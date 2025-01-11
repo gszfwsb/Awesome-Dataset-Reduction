@@ -74,3 +74,21 @@
     ```
 
     </details> 
+
+#### 2023
+- **[5] Dataset Pruning: Reducing Training Data by Examining Generalization Influence**, ICLR 2023.  
+*Shuo Yang, Zeke Xie, Hanyu Peng, MinXu, Mingming Sun, Ping Li*  
+![](https://img.shields.io/badge/Optimization_based-blue) ![](https://img.shields.io/badge/Image_Classification-green)  ![](https://img.shields.io/badge/Proxy-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
+<a href="https://openreview.net/pdf?id=BSn88qhQpIm"><img src="https://img.shields.io/badge/ICLR-Paper-%23D2691E?logo=ICLR" alt="Paper Badge"></a>
+    <details> <summary>BibTex</summary>
+
+    ```bibtex
+    @inproceedings{yang2023dataset,
+    title={Dataset Pruning: Reducing Training Data by Examining Generalization Influence},
+    author={Yang, Shuo and Xie, Zeke and Peng, Hanyu and Xu, Min and Sun, Mingming and Li, Ping},
+    booktitle={The Eleventh International Conference on Learning Representations},
+    year={2023}
+    }
+    ```
+
+    </details> 
