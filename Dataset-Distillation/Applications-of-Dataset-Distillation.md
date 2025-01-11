@@ -134,9 +134,9 @@
 ### 🎯 Neural-Architecture-Search
 
 #### 2018
-- **DARTS: Differentiable Architecture Search**,arXiv,2018
+- **[1]DARTS: Differentiable Architecture Search**,arXiv,2018
 *Liu, Hanxiao and Simonyan, Karen and Yang, Yiming*  
-![](https://img.shields.io/badge/SSD-Darts) ![](https://img.shields.io/badge/Image_Classification-green) ![](https://img.shields.io/badge/Neural_Architecture_Search-red) ![](https://img.shields.io/badge/Dataset_Distillation-orange)
+![](https://img.shields.io/badge/Darts-blue) ![](https://img.shields.io/badge/Image_Classification-green) ![](https://img.shields.io/badge/Neural_Architecture_Search-red) ![](https://img.shields.io/badge/Dataset_Distillation-orange)
 <a href="https://arxiv.org/abs/1806.09055"><img src="https://img.shields.io/badge/AAAI-Paper-%23D2691E" alt="Paper Badge"></a>
 <a href="https://github.com/quark0/darts"><img src="https://img.shields.io/badge/GitHub-Code-brightgreen?logo=github" alt="Code Badge"></a>
     <details> <summary>BibTex</summary>
