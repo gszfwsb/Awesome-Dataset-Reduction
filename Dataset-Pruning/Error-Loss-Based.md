@@ -2,10 +2,9 @@
 
 #### 2015
 - **[1] Coresets for nonparametric estimation-the case of DP-means**, ICML 2015.  
-*Mariya Toneva, Alessandro Sordoni, Remi Tachet des Combes, Adam Trischler, Yoshua Bengio, Geoffrey J. Gordon*  
-![](https://img.shields.io/badge/forgettinig-blue) ![](https://img.shields.io/badge/Image_Classification-green)  ![](https://img.shields.io/badge/Loss-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
-<a href="https://openreview.net/pdf?id=BJlxm30cKm"><img src="https://img.shields.io/badge/ICLR-Paper-%23D2691E" alt="Paper Badge"></a>
-<a href="https://github.com/mtoneva/example_forgetting"><img src="https://img.shields.io/badge/GitHub-Code-brightgreen?logo=github" alt="Code Badge"></a>
+*Olivier Bachem, Mario Lucic, Andreas Krause*  
+![](https://img.shields.io/badge/DP_means-blue) ![](https://img.shields.io/badge/Image_Classification-green)  ![](https://img.shields.io/badge/Loss-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
+<a href="https://proceedings.mlr.press/v37/bachem15.pdf"><img src="https://img.shields.io/badge/ICML-Paper-%23D2691E" alt="Paper Badge"></a>
     <details> <summary>BibTex</summary>
 
     ```bibtex
@@ -40,8 +39,46 @@
 
     </details> 
 
+- **[3] On coresets for logistic regression**, NeurlPS 2018.  
+*Alexander Munteanu, Chris Schwiegelshohn, Christian Sohler, David Woodruff*  
+![](https://img.shields.io/badge/QR-blue) ![](https://img.shields.io/badge/Image_Classification-green)  ![](https://img.shields.io/badge/Loss-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
+<a href="https://proceedings.neurips.cc/paper_files/paper/2018/file/63bfd6e8f26d1d3537f4c5038264ef36-Paper.pdf"><img src="https://img.shields.io/badge/NeurlPS-Paper-%23D2691E" alt="Paper Badge"></a>
+    <details> <summary>BibTex</summary>
+
+    ```bibtex
+    @article{munteanu2coresets,
+    title={On Coresets for Logistic Regression},
+    author={Munteanu, Alexander and Schwiegelshohn, Chris and Sohler, Christian and Woodruff, David P},
+    journal={methods},
+    volume={2},
+    pages={37}
+    }
+    ```
+
+    </details> 
+
+#### 2019
+- **[4] Teaching a black-box learner**, ICML 2019.  
+*Sanjoy Dasgupta, Daniel Hsu, Stefanos Poulis, Xiaojin Zhu*  
+![](https://img.shields.io/badge/Image_Classification-green)  ![](https://img.shields.io/badge/Loss-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)   
+<a href="https://proceedings.mlr.press/v97/dasgupta19a/dasgupta19a.pdf"><img src="https://img.shields.io/badge/ICML-Paper-%23D2691E" alt="Paper Badge"></a>
+    <details> <summary>BibTex</summary>
+
+    ```bibtex
+    @inproceedings{dasgupta2019teaching,
+    title={Teaching a black-box learner},
+    author={Dasgupta, Sanjoy and Hsu, Daniel and Poulis, Stefanos and Zhu, Xiaojin},
+    booktitle={International Conference on Machine Learning},
+    pages={1547--1555},
+    year={2019},
+    organization={PMLR}
+    }
+    ```
+
+    </details> 
+
 #### 2021
-- **[3] Deep learning on a data diet: Finding important examples early in training**, NeurlPS 2021.  
+- **[5] Deep learning on a data diet: Finding important examples early in training**, NeurlPS 2021.  
 *Mansheej Paul, Surya Ganguli, Gintare Karolina Dziugaite*  
 ![](https://img.shields.io/badge/GraNd_EL2N-blue) ![](https://img.shields.io/badge/Image_Classification-green)  ![](https://img.shields.io/badge/Loss-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
 <a href="https://proceedings.neurips.cc/paper_files/paper/2021/file/ac56f8fe9eea3e4a365f29f0f1957c55-Paper.pdf"><img src="https://img.shields.io/badge/NeurlPS-Paper-%23D2691E" alt="Paper Badge"></a>
@@ -61,7 +98,7 @@
     </details> 
 
 #### 2024
-- **[4] Spanning training progress: Temporal dual-depth scoring (tdds) for enhanced dataset pruning**, CVPR 2024.  
+- **[6] Spanning training progress: Temporal dual-depth scoring (tdds) for enhanced dataset pruning**, CVPR 2024.  
 *Xin Zhang, Jiawei Du, Yunsong Li, Weiying Xie, Joey Tianyi Zhou*  
 ![](https://img.shields.io/badge/TDDS-blue) ![](https://img.shields.io/badge/Image_Classification-green)  ![](https://img.shields.io/badge/Loss-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
 <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_Spanning_Training_Progress_Temporal_Dual-Depth_Scoring_TDDS_for_Enhanced_Dataset_CVPR_2024_paper.pdf"><img src="https://img.shields.io/badge/CVPR-Paper-%23D2691E" alt="Paper Badge"></a>
