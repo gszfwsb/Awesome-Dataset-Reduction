@@ -89,8 +89,8 @@
     @inproceedings{guo2024towards,
     title={Towards Lossless Dataset Distillation via Difficulty-Aligned Trajectory Matching}, 
     author={Ziyao Guo and Kai Wang and George Cazenavette and Hui Li and Kaipeng Zhang and Yang You},
-    year={2024},
-    booktitle={The Twelfth International Conference on Learning Representations}
+    booktitle={The Twelfth International Conference on Learning Representations},
+    year={2024}
     }
     ```
 
@@ -124,7 +124,7 @@
     title={Dataset distillation using parameter pruning},
     author={Li, Guang and Togo, Ren and Ogawa, Takahiro and Haseyama, Miki},
     journal={IEICE Transactions on Fundamentals of Electronics, Communications and Computer Sciences},
-    year={2024},
+    year={2024}
     }
     ```
 
@@ -177,8 +177,8 @@
     @inproceedings{zhang2024navigating,
     title={Navigating Complexity: Toward Lossless Graph Condensation via Expanding Window Matching},
     author={Yuchen Zhang and Tianle Zhang and Kai Wang and Ziyao Guo and Yuxuan Liang and Xavier Bresson and Wei Jin and Yang You},
-    year={2024},
     booktitle={Forty-first International Conference on Machine Learning},
+    year={2024}
     }
     ```
 
@@ -195,7 +195,7 @@
     @inproceedings{liu2024dataset,
     title={Dataset Distillation by Automatic Training Trajectories},
     author={Liu, Dai and Gu, Jindong and Cao, Hu and Trinitis, Carsten and Schulz, Martin},
-    booktitle={Proceedings of the European Conference on Computer Vision (ECCV)},
+    booktitle={Proceedings of the European Conference on Computer Vision},
     year={2024}
     }
     ```
@@ -212,7 +212,7 @@
     @inproceedings{yang2024neural,
     title={Neural Spectral Decomposition for Dataset Distillation},
     author={Yang, Shaolei and Cheng, Shen and Hong, Mingbo and Fan, Haoqiang and Wei, Xing and Liu, Shuaicheng},
-    booktitle={Proceedings of the European Conference on Computer Vision (ECCV)},
+    booktitle={Proceedings of the European Conference on Computer Vision},
     year={2024}
     }
     ```
