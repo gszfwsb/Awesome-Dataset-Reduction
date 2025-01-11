@@ -11,10 +11,10 @@
 
     ```bibtex
     @inproceedings{wang2022cafe,
-      title={Cafe: Learning to condense dataset by aligning features},
-      author={Wang, Kai and Zhao, Bo and Peng, Xiangyu and Zhu, Zheng and Yang, Shuo and Wang, Shuo and Huang, Guan and Bilen, Hakan and Wang, Xinchao and You, Yang},
-      booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
-      year={2022}
+    title={Cafe: Learning to condense dataset by aligning features},
+    author={Wang, Kai and Zhao, Bo and Peng, Xiangyu and Zhu, Zheng and Yang, Shuo and Wang, Shuo and Huang, Guan and Bilen, Hakan and Wang, Xinchao and You, Yang},
+    booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+    year={2022}
     }
     ```
 
@@ -30,10 +30,10 @@
 
     ```bibtex
     @inproceedings{sajedi2023datadam,
-      title={Datadam: Efficient dataset distillation with attention matching},
-      author={Sajedi, Ahmad and Khaki, Samir and Amjadian, Ehsan and Liu, Lucy Z and Lawryshyn, Yuri A and Plataniotis, Konstantinos N},
-      booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
-      year={2023}
+    title={Datadam: Efficient dataset distillation with attention matching},
+    author={Sajedi, Ahmad and Khaki, Samir and Amjadian, Ehsan and Liu, Lucy Z and Lawryshyn, Yuri A and Plataniotis, Konstantinos N},
+    booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+    year={2023}
     }
     ```
 
@@ -50,10 +50,10 @@
 
     ```bibtex
     @article{lee2022dataset,
-      title={Dataset condensation with latent space knowledge factorization and sharing},
-      author={Lee, Hae Beom and Lee, Dong Bok and Hwang, Sung Ju},
-      journal={arXiv preprint arXiv:2208.10494},
-      year={2022}
+    title={Dataset condensation with latent space knowledge factorization and sharing},
+    author={Lee, Hae Beom and Lee, Dong Bok and Hwang, Sung Ju},
+    journal={arXiv preprint arXiv:2208.10494},
+    year={2022}
     }
     ```
 
@@ -67,10 +67,10 @@
 
     ```bibtex
     @article{liu2022graph,
-      title={Graph condensation via receptive field distribution matching},
-      author={Liu, Mengyang and Li, Shanchuan and Chen, Xinshi and Song, Le},
-      journal={arXiv preprint arXiv:2206.13697},
-      year={2022}
+    title={Graph condensation via receptive field distribution matching},
+    author={Liu, Mengyang and Li, Shanchuan and Chen, Xinshi and Song, Le},
+    journal={arXiv preprint arXiv:2206.13697},
+    year={2022}
     }
     ```
 
@@ -86,10 +86,10 @@
 
     ```bibtex
     @inproceedings{zhao2023dataset,
-      title={Dataset condensation with distribution matching},
-      author={Zhao, Bo and Bilen, Hakan},
-      booktitle={Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision},
-      year={2023}
+    title={Dataset condensation with distribution matching},
+    author={Zhao, Bo and Bilen, Hakan},
+    booktitle={Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision},
+    year={2023}
     }
     ```
 
@@ -104,10 +104,10 @@
 
     ```bibtex
     @inproceedings{zhao2023improved,
-      title={Improved distribution matching for dataset condensation},
-      author={Zhao, Ganlong and Li, Guanbin and Qin, Yipeng and Yu, Yizhou},
-      booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
-      year={2023}
+    title={Improved distribution matching for dataset condensation},
+    author={Zhao, Ganlong and Li, Guanbin and Qin, Yipeng and Yu, Yizhou},
+    booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+    year={2023}
     }
     ```
 
@@ -122,10 +122,10 @@
 
     ```bibtex
     @article{liu2023dream+,
-      title={Dream+: Efficient dataset distillation by bidirectional representative matching},
-      author={Liu, Yanqing and Gu, Jianyang and Wang, Kai and Zhu, Zheng and Zhang, Kaipeng and Jiang, Wei and You, Yang},
-      journal={arXiv preprint arXiv:2310.15052},
-      year={2023}
+    title={Dream+: Efficient dataset distillation by bidirectional representative matching},
+    author={Liu, Yanqing and Gu, Jianyang and Wang, Kai and Zhu, Zheng and Zhang, Kaipeng and Jiang, Wei and You, Yang},
+    journal={arXiv preprint arXiv:2310.15052},
+    year={2023}
     }
     ```
 
@@ -141,10 +141,10 @@
 
     ```bibtex
     @inproceedings{zhang2024m3d,
-      title={M3d: Dataset condensation by minimizing maximum mean discrepancy},
-      author={Zhang, Hansong and Li, Shikun and Wang, Pengju and Zeng, Dan and Ge, Shiming},
-      booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
-      year={2024}
+    title={M3d: Dataset condensation by minimizing maximum mean discrepancy},
+    author={Zhang, Hansong and Li, Shikun and Wang, Pengju and Zeng, Dan and Ge, Shiming},
+    booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+    year={2024}
     }
     ```
 
@@ -159,10 +159,10 @@
 
     ```bibtex
     @inproceedings{deng2024exploiting,
-      title={Exploiting Inter-sample and Inter-feature Relations in Dataset Distillation},
-      author={Deng, Wenxiao and Li, Wenbin and Ding, Tianyu and Wang, Lei and Zhang, Hongguang and Huang, Kuihua and Huo, Jing and Gao, Yang},
-      booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
-      year={2024}
+    title={Exploiting Inter-sample and Inter-feature Relations in Dataset Distillation},
+    author={Deng, Wenxiao and Li, Wenbin and Ding, Tianyu and Wang, Lei and Zhang, Hongguang and Huang, Kuihua and Huo, Jing and Gao, Yang},
+    booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+    year={2024}
     }
     ```
 
@@ -177,10 +177,10 @@
 
     ```bibtex
     @inproceedings{zhang2024dance,
-      title={DANCE: Dual-View Distribution Alignment for Dataset Condensation},
-      author={Zhang, Hansong and Li, Shikun and Lin, Fanzhao and Wang, Weiping and Qian, Zhenxing and Ge, Shiming},
-      booktitle={Proceedings of the International Joint Conference on Artificial Intelligence},
-      year={2024}
+    title={DANCE: Dual-View Distribution Alignment for Dataset Condensation},
+    author={Zhang, Hansong and Li, Shikun and Lin, Fanzhao and Wang, Weiping and Qian, Zhenxing and Ge, Shiming},
+    booktitle={Proceedings of the International Joint Conference on Artificial Intelligence},
+    year={2024}
     }
     ```
 
@@ -195,10 +195,10 @@
 
     ```bibtex
     @inproceedings{li2024diversified,
-      title={Diversified Semantic Distribution Matching for Dataset Distillation},
-      author={Li, Hongcheng and Zhou, Yucan and Gu, Xiaoyan and Li, Bo and Wang, Weiping},
-      booktitle={Proceedings of the 32nd ACM International Conference on Multimedia},
-      year={2024}
+    title={Diversified Semantic Distribution Matching for Dataset Distillation},
+    author={Li, Hongcheng and Zhou, Yucan and Gu, Xiaoyan and Li, Bo and Wang, Weiping},
+    booktitle={Proceedings of the 32nd ACM International Conference on Multimedia},
+    year={2024}
     }
     ```
 
@@ -212,10 +212,10 @@
 
     ```bibtex
     @InProceedings{Wei2024dataset,
-      title={Dataset Condensation with Latent Quantile Matching},
-      author={Wei, Wei and De Schepper, Tom and Mets, Kevin},
-      booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},
-      year={2024}
+    title={Dataset Condensation with Latent Quantile Matching},
+    author={Wei, Wei and De Schepper, Tom and Mets, Kevin},
+    booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},
+    year={2024}
     }
     ```
 
