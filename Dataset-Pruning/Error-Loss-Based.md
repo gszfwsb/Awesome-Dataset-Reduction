@@ -118,10 +118,28 @@
     </details> 
 
 #### 2023
-- **[7] Optimal Sample Selection Through Uncertainty Estimation and Its Application in Deep Learning**, arXiv 2023.  
+- **[7] Optimal Sample Selection Through Uncertainty Estimation and Its Application in Deep Learning**, AISTATS 2023.  
+*Seungjae Shin, Heesun Bae, Donghyeok Shin, Weonyoung Joo, Il-Chul Moon*  
+![](https://img.shields.io/badge/LCMat-blue) ![](https://img.shields.io/badge/Image_Classification-green)  ![](https://img.shields.io/badge/Loss-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
+<a href="https://proceedings.mlr.press/v206/shin23a/shin23a.pdf"><img src="https://img.shields.io/badge/AISTATS-Paper-%23D2691E" alt="Paper Badge"></a>
+<a href="https://github.com/SJShin-AI/LCMat"><img src="https://img.shields.io/badge/GitHub-Code-brightgreen?logo=github" alt="Code Badge"></a>
+    <details> <summary>BibTex</summary>
+
+    ```bibtex
+    @article{lin2023optimal,
+    title={Optimal sample selection through uncertainty estimation and its application in deep learning},
+    author={Lin, Yong and Liu, Chen and Ye, Chenlu and Lian, Qing and Yao, Yuan and Zhang, Tong},
+    journal={arXiv preprint arXiv:2309.02476},
+    year={2023}
+    }
+    ```
+
+    </details> 
+
+- **[8] Loss-Curvature Matching for Dataset Selection and Condensation**, arXiv 2023.  
 *Yong Lin, Chen Liu, Chenlu Ye, Qing Lian, Yuan Yao, Tong Zhang*  
 ![](https://img.shields.io/badge/COPS-blue) ![](https://img.shields.io/badge/Image_Classification-green)  ![](https://img.shields.io/badge/Loss-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
-<a href="https://arxiv.org/pdf/2309.02476"><img src="https://img.shields.io/badge/NeurlPS-Paper-%23D2691E" alt="Paper Badge"></a>
+<a href="https://arxiv.org/pdf/2309.02476"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E" alt="Paper Badge"></a>
 
     <details> <summary>BibTex</summary>
 
@@ -137,7 +155,7 @@
     </details> 
 
 #### 2024
-- **[8] Spanning training progress: Temporal dual-depth scoring (tdds) for enhanced dataset pruning**, CVPR 2024.  
+- **[9] Spanning training progress: Temporal dual-depth scoring (tdds) for enhanced dataset pruning**, CVPR 2024.  
 *Xin Zhang, Jiawei Du, Yunsong Li, Weiying Xie, Joey Tianyi Zhou*  
 ![](https://img.shields.io/badge/TDDS-blue) ![](https://img.shields.io/badge/Image_Classification-green)  ![](https://img.shields.io/badge/Loss-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
 <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_Spanning_Training_Progress_Temporal_Dual-Depth_Scoring_TDDS_for_Enhanced_Dataset_CVPR_2024_paper.pdf"><img src="https://img.shields.io/badge/CVPR-Paper-%23D2691E" alt="Paper Badge"></a>
@@ -152,6 +170,40 @@ com/zhangxin-xd/Dataset-Pruning-TDDS"><img src="https://img.shields.io/badge/Git
     booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
     pages={26223--26232},
     year={2024}
+    }
+    ```
+
+    </details> 
+
+- **[10] DROP: DISTRIBUTIONALLY ROBUST PRUNING/Robust Data Pruning: Uncovering and Overcoming Implicit Bias**, arXiv 2024.  
+*Artem Vysogorets, Kartik Ahuja, Julia Kempe*  
+![](https://img.shields.io/badge/DRoP-blue) ![](https://img.shields.io/badge/Image_Classification-green)  ![](https://img.shields.io/badge/Loss-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
+<a href="https://arxiv.org/pdf/2404.05579"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E" alt="Paper Badge"></a>
+    <details> <summary>BibTex</summary>
+
+    ```bibtex
+    @article{vysogorets2024robust,
+    title={Robust Data Pruning: Uncovering and Overcoming Implicit Bias},
+    author={Vysogorets, Artem and Ahuja, Kartik and Kempe, Julia},
+    journal={arXiv preprint arXiv:2404.05579},
+    year={2024}
+    }
+    ```
+
+    </details> 
+
+- **[11] Robust and Efficient Quantization-aware Training via Coreset Selection**, TMLR 2024.  
+*Xijie Huang, Zechun Liu, Shih-Yang Liu, Kwang-Ting Cheng*  
+![](https://img.shields.io/badge/QAT_ACS-blue) ![](https://img.shields.io/badge/Image_Classification-green)  ![](https://img.shields.io/badge/Loss-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
+<a href="https://openreview.net/pdf?id=4c2pZzG94y"><img src="https://img.shields.io/badge/TMLR-Paper-%23D2691E" alt="Paper Badge"></a>
+<a href="https://github.com/HuangOwen/QAT-ACS"><img src="https://img.shields.io/badge/GitHub-Code-brightgreen?logo=github" alt="Code Badge"></a>
+    <details> <summary>BibTex</summary>
+
+    ```bibtex
+    @article{huangrobust,
+    title={Robust and Efficient Quantization-aware Training via Coreset Selection},
+    author={Huang, Xijie and Liu, Zechun and Liu, Shih-Yang and Cheng, Kwang-Ting},
+    journal={Transactions on Machine Learning Research}
     }
     ```
 
