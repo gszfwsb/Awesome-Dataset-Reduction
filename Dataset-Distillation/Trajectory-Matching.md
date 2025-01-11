@@ -11,10 +11,10 @@
 
     ```bibtex
     @inproceedings{cazenavette2022dataset,
-      title={Dataset distillation by matching training trajectories},
-      author={Cazenavette, George and Wang, Tongzhou and Torralba, Antonio and Efros, Alexei A and Zhu, Jun-Yan},
-      booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
-      year={2022}
+    title={Dataset distillation by matching training trajectories},
+    author={Cazenavette, George and Wang, Tongzhou and Torralba, Antonio and Efros, Alexei A and Zhu, Jun-Yan},
+    booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+    year={2022}
     }
     ```
 
@@ -29,10 +29,10 @@
 
     ```bibtex
     @article{liu2022dataset,
-      title={Dataset distillation via factorization},
-      author={Liu, Songhua and Wang, Kai and Yang, Xingyi and Ye, Jingwen and Wang, Xinchao},
-      journal={Advances in neural information processing systems},
-      year={2022}
+    title={Dataset distillation via factorization},
+    author={Liu, Songhua and Wang, Kai and Yang, Xingyi and Ye, Jingwen and Wang, Xinchao},
+    journal={Advances in neural information processing systems},
+    year={2022}
     }
     ```
 
@@ -49,10 +49,10 @@
 
     ```bibtex
     @inproceedings{du2023minimizing,
-      title={Minimizing the accumulated trajectory error to improve dataset distillation},
-      author={Du, Jiawei and Jiang, Yidi and Tan, Vincent YF and Zhou, Joey Tianyi and Li, Haizhou},
-      booktitle={Proceedings of the IEEE/CVF conference on computer vision and pattern recognition},
-      year={2023}
+    title={Minimizing the accumulated trajectory error to improve dataset distillation},
+    author={Du, Jiawei and Jiang, Yidi and Tan, Vincent YF and Zhou, Joey Tianyi and Li, Haizhou},
+    booktitle={Proceedings of the IEEE/CVF conference on computer vision and pattern recognition},
+    year={2023}
     }
     ```
 
@@ -67,10 +67,10 @@
 
     ```bibtex
     @inproceedings{cui2023scaling,
-      title={Scaling up dataset distillation to imagenet-1k with constant memory},
-      author={Cui, Justin and Wang, Ruochen and Si, Si and Hsieh, Cho-Jui},
-      booktitle={International Conference on Machine Learning},
-      year={2023}
+    title={Scaling up dataset distillation to imagenet-1k with constant memory},
+    author={Cui, Justin and Wang, Ruochen and Si, Si and Hsieh, Cho-Jui},
+    booktitle={International Conference on Machine Learning},
+    year={2023}
     }
     ```
 
@@ -86,11 +86,11 @@
     <details> <summary>BibTex</summary>
 
     ```bibtex
-    @inproceedings{guo2024lossless,
-      title={Towards Lossless Dataset Distillation via Difficulty-Aligned Trajectory Matching}, 
-      author={Ziyao Guo and Kai Wang and George Cazenavette and Hui Li and Kaipeng Zhang and Yang You},
-      year={2024},
-      booktitle={The Twelfth International Conference on Learning Representations}
+    @inproceedings{guo2024towards,
+    title={Towards Lossless Dataset Distillation via Difficulty-Aligned Trajectory Matching}, 
+    author={Ziyao Guo and Kai Wang and George Cazenavette and Hui Li and Kaipeng Zhang and Yang You},
+    year={2024},
+    booktitle={The Twelfth International Conference on Learning Representations}
     }
     ```
 
@@ -103,11 +103,11 @@
     <details> <summary>BibTex</summary>
 
     ```bibtex
-    @inproceedings{liu2024att,
-      title={Dataset Distillation by Automatic Training Trajectories},
-      author={Liu, Dai and Gu, Jindong and Cao, Hu and Trinitis, Carsten and Schulz, Martin},
-      booktitle={Proceedings of the European Conference on Computer Vision (ECCV)},
-      year={2024}
+    @inproceedings{lee2024selmatch,
+    title={SelMatch: Effectively scaling up dataset distillation via selection-based initialization and partial updates by trajectory matching},
+    author={Lee, Yongmin and Chung, Hye Won},
+    booktitle={Forty-first International Conference on Machine Learning},
+    year={2024}
     }
     ```
 
@@ -120,11 +120,11 @@
     <details> <summary>BibTex</summary>
 
     ```bibtex
-    @inproceedings{lee2024selmatch,
-      title={SelMatch: Effectively scaling up dataset distillation via selection-based initialization and partial updates by trajectory matching},
-      author={Lee, Yongmin and Chung, Hye Won},
-      booktitle={Forty-first International Conference on Machine Learning},
-      year={2024}
+    @article{li2024dataset,
+    title={Dataset distillation using parameter pruning},
+    author={Li, Guang and Togo, Ren and Ogawa, Takahiro and Haseyama, Miki},
+    journal={IEICE Transactions on Fundamentals of Electronics, Communications and Computer Sciences},
+    year={2024},
     }
     ```
 
@@ -138,11 +138,11 @@
     <details> <summary>BibTex</summary>
 
     ```bibtex
-    @inproceedings{yang2024nsd,
-      title={Neural Spectral Decomposition for Dataset Distillation},
-      author={Yang, Shaolei and Cheng, Shen and Hong, Mingbo and Fan, Haoqiang and Wei, Xing and Liu, Shuaicheng},
-      booktitle={Proceedings of the European Conference on Computer Vision (ECCV)},
-      year={2024}
+    @article{li2024prioritize,
+    title={Prioritize Alignment in Dataset Distillation},
+    author={Li, Zekai and Guo, Ziyao and Zhao, Wangbo and Zhang, Tianle and Cheng, Zhi-Qi and Khaki, Samir and Zhang, Kaipeng and Sajedi, Ahmad and Plataniotis, Konstantinos N and Wang, Kai and others},
+    journal={arXiv preprint arXiv:2408.03360},
+    year={2024}
     }
     ```
 
@@ -156,11 +156,11 @@
     <details> <summary>BibTex</summary>
 
     ```bibtex
-    @article{li2024dataset,
-      title={Dataset distillation using parameter pruning},
-      author={Li, Guang and Togo, Ren and Ogawa, Takahiro and Haseyama, Miki},
-      journal={IEICE Transactions on Fundamentals of Electronics, Communications and Computer Sciences},
-      year={2024}
+    @article{wang2024emphasizing,
+    title={Emphasizing discriminative features for dataset distillation in complex scenarios},
+    author={Wang, Kai and Li, Zekai and Cheng, Zhi-Qi and Khaki, Samir and Sajedi, Ahmad and Vedantam, Ramakrishna and Plataniotis, Konstantinos N and Hauptmann, Alexander and You, Yang},
+    journal={arXiv preprint arXiv:2410.17193},
+    year={2024}
     }
     ```
 
@@ -174,11 +174,11 @@
     <details> <summary>BibTex</summary>
 
     ```bibtex
-    @article{li2024prioritize,
-      title={Prioritize Alignment in Dataset Distillation},
-      author={Li, Zekai and Guo, Ziyao and Zhao, Wangbo and Zhang, Tianle and Cheng, Zhi-Qi and Khaki, Samir and Zhang, Kaipeng and Sajedi, Ahmad and Plataniotis, Konstantinos N and Wang, Kai and others},
-      journal={arXiv preprint arXiv:2408.03360},
-      year={2024}
+    @inproceedings{zhang2024navigating,
+    title={Navigating Complexity: Toward Lossless Graph Condensation via Expanding Window Matching},
+    author={Yuchen Zhang and Tianle Zhang and Kai Wang and Ziyao Guo and Yuxuan Liang and Xavier Bresson and Wei Jin and Yang You},
+    year={2024},
+    booktitle={Forty-first International Conference on Machine Learning},
     }
     ```
 
@@ -192,11 +192,11 @@
     <details> <summary>BibTex</summary>
 
     ```bibtex
-    @inproceedings{liu2024att,
-      title={Dataset Distillation by Automatic Training Trajectories},
-      author={Liu, Dai and Gu, Jindong and Cao, Hu and Trinitis, Carsten and Schulz, Martin},
-      booktitle={Proceedings of the European Conference on Computer Vision (ECCV)},
-      year={2024}
+    @inproceedings{liu2024dataset,
+    title={Dataset Distillation by Automatic Training Trajectories},
+    author={Liu, Dai and Gu, Jindong and Cao, Hu and Trinitis, Carsten and Schulz, Martin},
+    booktitle={Proceedings of the European Conference on Computer Vision (ECCV)},
+    year={2024}
     }
     ```
 
@@ -209,11 +209,11 @@
     <details> <summary>BibTex</summary>
 
     ```bibtex
-    @inproceedings{yang2024nsd,
-      title={Neural Spectral Decomposition for Dataset Distillation},
-      author={Yang, Shaolei and Cheng, Shen and Hong, Mingbo and Fan, Haoqiang and Wei, Xing and Liu, Shuaicheng},
-      booktitle={Proceedings of the European Conference on Computer Vision (ECCV)},
-      year={2024}
+    @inproceedings{yang2024neural,
+    title={Neural Spectral Decomposition for Dataset Distillation},
+    author={Yang, Shaolei and Cheng, Shen and Hong, Mingbo and Fan, Haoqiang and Wei, Xing and Liu, Shuaicheng},
+    booktitle={Proceedings of the European Conference on Computer Vision (ECCV)},
+    year={2024}
     }
     ```
 
