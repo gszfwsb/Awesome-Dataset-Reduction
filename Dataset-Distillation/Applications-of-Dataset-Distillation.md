@@ -10,10 +10,10 @@
 
     ```bibtex
     @inproceedings{masarczyk2020reducing,
-      title={Reducing catastrophic forgetting with learning on synthetic data},
-      author={Masarczyk, Wojciech and Tautkute, Ivona},
-      booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops},
-      year={2020}
+    title={Reducing catastrophic forgetting with learning on synthetic data},
+    author={Masarczyk, Wojciech and Tautkute, Ivona},
+    booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops},
+    year={2020}
     }
     ```
 
@@ -29,10 +29,10 @@
 
     ```bibtex
     @inproceedings{rosasco2021distilled,
-      title={Distilled replay: Overcoming forgetting through synthetic samples},
-      author={Rosasco, Andrea and Carta, Antonio and Cossu, Andrea and Lomonaco, Vincenzo and Bacciu, Davide},
-      booktitle={International Workshop on Continual Semi-Supervised Learning},
-      year={2021}
+    title={Distilled replay: Overcoming forgetting through synthetic samples},
+    author={Rosasco, Andrea and Carta, Antonio and Cossu, Andrea and Lomonaco, Vincenzo and Bacciu, Davide},
+    booktitle={International Workshop on Continual Semi-Supervised Learning},
+    year={2021}
     }
     ```
 
@@ -47,10 +47,10 @@
 
     ```bibtex
     @inproceedings{wiewel2021condensed,
-      title={Condensed composite memory continual learning},
-      author={Wiewel, Felix and Yang, Bin},
-      booktitle={2021 International Joint Conference on Neural Networks (IJCNN)},
-      year={2021}
+    title={Condensed composite memory continual learning},
+    author={Wiewel, Felix and Yang, Bin},
+    booktitle={2021 International Joint Conference on Neural Networks (IJCNN)},
+    year={2021}
     }
     ```
 
@@ -66,10 +66,10 @@
 
     ```bibtex
     @inproceedings{sangermano2022sample,
-      title={Sample condensation in online continual learning},
-      author={Sangermano, Mattia and Carta, Antonio and Cossu, Andrea and Bacciu, Davide},
-      booktitle={2022 International Joint Conference on Neural Networks (IJCNN)},
-      year={2022}
+    title={Sample condensation in online continual learning},
+    author={Sangermano, Mattia and Carta, Antonio and Cossu, Andrea and Bacciu, Davide},
+    booktitle={2022 International Joint Conference on Neural Networks (IJCNN)},
+    year={2022}
     }
     ```
 
@@ -84,10 +84,10 @@
 
     ```bibtex
     @article{deng2022remember,
-      title={Remember the past: Distilling datasets into addressable memories for neural networks},
-      author={Deng, Zhiwei and Russakovsky, Olga},
-      journal={Advances in Neural Information Processing Systems},
-      year={2022}
+    title={Remember the past: Distilling datasets into addressable memories for neural networks},
+    author={Deng, Zhiwei and Russakovsky, Olga},
+    journal={Advances in Neural Information Processing Systems},
+    year={2022}
     }
     ```
 
@@ -102,11 +102,11 @@
     <details> <summary>BibTex</summary>
 
     ```bibtex
-    @article{yang2023efficient,
-      title={An efficient dataset condensation plugin and its application to continual learning},
-      author={Yang, Enneng and Shen, Li and Wang, Zhenyi and Liu, Tongliang and Guo, Guibing},
-      journal={Advances in Neural Information Processing Systems},
-      year={2023}
+    @article{yang2023an,
+    title={An efficient dataset condensation plugin and its application to continual learning},
+    author={Yang, Enneng and Shen, Li and Wang, Zhenyi and Liu, Tongliang and Guo, Guibing},
+    journal={Advances in Neural Information Processing Systems},
+    year={2023}
     }
     ```
 
@@ -122,10 +122,10 @@
 
     ```bibtex
     @inproceedings{gu2024summarizing,
-      title={Summarizing Stream Data for Memory-Constrained Online Continual Learning},
-      author={Gu, Jianyang and Wang, Kai and Jiang, Wei and You, Yang},
-      booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
-      year={2024}
+    title={Summarizing Stream Data for Memory-Constrained Online Continual Learning},
+    author={Gu, Jianyang and Wang, Kai and Jiang, Wei and You, Yang},
+    booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+    year={2024}
     }
     ```
 
@@ -143,10 +143,10 @@
 
     ```bibtex
     @article{liu2018darts,
-      title={DARTS: Differentiable Architecture Search},
-      author={Liu, Hanxiao and Simonyan, Karen and Yang, Yiming},
-      journal={arXiv preprint arXiv:1806.09055},
-      year={2018}
+    title={DARTS: Differentiable Architecture Search},
+    author={Liu, Hanxiao and Simonyan, Karen and Yang, Yiming},
+    journal={arXiv preprint arXiv:1806.09055},
+    year={2018}
     }
     ```
 
