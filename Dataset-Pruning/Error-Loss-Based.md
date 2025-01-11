@@ -97,8 +97,47 @@
 
     </details> 
 
+- **[6] Just train twice: Improving group robustness without training group information**, ICML 2021.  
+*Evan Z Liu, Behzad Haghgoo, Annie S Chen, Aditi Raghunathan, Pang Wei Koh, Shiori Sagawa, Percy Liang, Chelsea Finn*  
+![](https://img.shields.io/badge/JTT-blue) ![](https://img.shields.io/badge/Image_Classification-green)  ![](https://img.shields.io/badge/Loss-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
+<a href="https://proceedings.mlr.press/v139/liu21f/liu21f.pdf"><img src="https://img.shields.io/badge/ICML-Paper-%23D2691E" alt="Paper Badge"></a>
+<a href="https://github.com/anniesch/jtt"><img src="https://img.shields.io/badge/GitHub-Code-brightgreen?logo=github" alt="Code Badge"></a>
+    <details> <summary>BibTex</summary>
+
+    ```bibtex
+    @inproceedings{liu2021just,
+    title={Just train twice: Improving group robustness without training group information},
+    author={Liu, Evan Z and Haghgoo, Behzad and Chen, Annie S and Raghunathan, Aditi and Koh, Pang Wei and Sagawa, Shiori and Liang, Percy and Finn, Chelsea},
+    booktitle={International Conference on Machine Learning},
+    pages={6781--6792},
+    year={2021},
+    organization={PMLR}
+    }
+    ```
+
+    </details> 
+
+#### 2023
+- **[7] Optimal Sample Selection Through Uncertainty Estimation and Its Application in Deep Learning**, arXiv 2023.  
+*Yong Lin, Chen Liu, Chenlu Ye, Qing Lian, Yuan Yao, Tong Zhang*  
+![](https://img.shields.io/badge/COPS-blue) ![](https://img.shields.io/badge/Image_Classification-green)  ![](https://img.shields.io/badge/Loss-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
+<a href="https://arxiv.org/pdf/2309.02476"><img src="https://img.shields.io/badge/NeurlPS-Paper-%23D2691E" alt="Paper Badge"></a>
+
+    <details> <summary>BibTex</summary>
+
+    ```bibtex
+    @article{lin2023optimal,
+    title={Optimal sample selection through uncertainty estimation and its application in deep learning},
+    author={Lin, Yong and Liu, Chen and Ye, Chenlu and Lian, Qing and Yao, Yuan and Zhang, Tong},
+    journal={arXiv preprint arXiv:2309.02476},
+    year={2023}
+    }
+    ```
+
+    </details> 
+
 #### 2024
-- **[6] Spanning training progress: Temporal dual-depth scoring (tdds) for enhanced dataset pruning**, CVPR 2024.  
+- **[8] Spanning training progress: Temporal dual-depth scoring (tdds) for enhanced dataset pruning**, CVPR 2024.  
 *Xin Zhang, Jiawei Du, Yunsong Li, Weiying Xie, Joey Tianyi Zhou*  
 ![](https://img.shields.io/badge/TDDS-blue) ![](https://img.shields.io/badge/Image_Classification-green)  ![](https://img.shields.io/badge/Loss-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
 <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_Spanning_Training_Progress_Temporal_Dual-Depth_Scoring_TDDS_for_Enhanced_Dataset_CVPR_2024_paper.pdf"><img src="https://img.shields.io/badge/CVPR-Paper-%23D2691E" alt="Paper Badge"></a>
