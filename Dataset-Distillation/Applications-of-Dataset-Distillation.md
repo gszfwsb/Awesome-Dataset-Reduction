@@ -174,7 +174,7 @@
     </details>
 
 #### 2021
-- **[1] DARTS: Differentiable Architecture Search**,arXiv 2021.      
+- **[1] Learning to generate synthetic training data using gradient matching and implicit differentiation**,arXiv 2021.      
 *Liu, Hanxiao and Simonyan, Karen and Yang, Yiming*  
 ![](https://img.shields.io/badge/Image_Classification-green) ![](https://img.shields.io/badge/Neural_Architecture_Search-red) ![](https://img.shields.io/badge/Dataset_Distillation-orange)
 <a href="https://link.springer.com/chapter/10.1007/978-3-031-15168-2_12"><img src="https://img.shields.io/badge/ICIST-Paper-%23D2691E" alt="Paper Badge"></a>
