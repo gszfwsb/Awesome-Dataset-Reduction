@@ -60,8 +60,7 @@
 #### 2019
 - **[4] Teaching a black-box learner**, ICML 2019.  
 *Sanjoy Dasgupta, Daniel Hsu, Stefanos Poulis, Xiaojin Zhu*  
-![](https://img.shields.io/badge/Image_Classification-green)  ![](https://img.shields.io/badge/Loss-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)   
-<a href="https://proceedings.mlr.press/v97/dasgupta19a/dasgupta19a.pdf"><img src="https://img.shields.io/badge/ICML-Paper-%23D2691E" alt="Paper Badge"></a>
+![](https://img.shields.io/badge/Image_Classification-green)  ![](https://img.shields.io/badge/Loss-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange) <a href="https://proceedings.mlr.press/v97/dasgupta19a/dasgupta19a.pdf"><img src="https://img.shields.io/badge/ICML-Paper-%23D2691E" alt="Paper Badge"></a>
     <details> <summary>BibTex</summary>
 
     ```bibtex
