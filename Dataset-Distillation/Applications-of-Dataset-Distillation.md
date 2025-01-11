@@ -196,11 +196,11 @@
 
 
 #### 2023
-- **[3] Meta-prediction Model for Distillation-Aware NAS on Unseen Datasetss**,arXiv 2023.      
-*Liu, Hanxiao and Simonyan, Karen and Yang, Yiming*  
+- **[4] Meta-prediction Model for Distillation-Aware NAS on Unseen Datasetss**,arXiv 2023.      
+*Lee, Hayeon and An, Sohyun and Kim, Minseon and Hwang, Sung Ju*  
 ![](https://img.shields.io/badge/Image_Classification-green) ![](https://img.shields.io/badge/Neural_Architecture_Search-red) ![](https://img.shields.io/badge/Dataset_Distillation-orange)
 <a href="https://arxiv.org/abs/2305.16948"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E" alt="Paper Badge"></a>
-<a href="https://github.com/quark0/darts"><img src="https://img.shields.io/badge/GitHub-Code-brightgreen?logo=github" alt="Code Badge"></a>
+
     <details> <summary>BibTex</summary>
 
     ```bibtex
@@ -209,6 +209,25 @@
       author={Lee, Hayeon and An, Sohyun and Kim, Minseon and Hwang, Sung Ju},
       journal={arXiv preprint arXiv:2305.16948},
       year={2023}
+      }
+    ```
+
+    </details>
+
+#### 2024
+- **[5] Calibrated Dataset Condensation for Faster Hyperparameter Search**,arXiv 2024.      
+*Ding, Mucong and Xu, Yuancheng and Rabbani, Tahseen and Liu, Xiaoyu and Gravelle, Brian and Ranadive, Teresa and Tuan, Tai-Ching and Huang, Furong*  
+![](https://img.shields.io/badge/HCDC-blue)![](https://img.shields.io/badge/Image_Classification-green) ![](https://img.shields.io/badge/Neural_Architecture_Search-red) ![](https://img.shields.io/badge/Dataset_Distillation-orange)
+<a href="https://arxiv.org/abs/2405.17535"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E" alt="Paper Badge"></a>
+
+    <details> <summary>BibTex</summary>
+
+    ```bibtex
+    @article{ding2024calibrated,
+      title={Calibrated Dataset Condensation for Faster Hyperparameter Search},
+      author={Ding, Mucong and Xu, Yuancheng and Rabbani, Tahseen and Liu, Xiaoyu and Gravelle, Brian and Ranadive, Teresa and Tuan, Tai-Ching and Huang, Furong},
+      journal={arXiv preprint arXiv:2405.17535},
+      year={2024}
       }
     ```
 
