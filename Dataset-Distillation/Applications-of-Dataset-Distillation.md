@@ -153,10 +153,10 @@
     </details>
 
 #### 2021
-- **[71] Generative teaching networks: Accelerating neural architecture search by learning to generate synthetic training data**, ICML 2020.  
+- **[2] Generative teaching networks: Accelerating neural architecture search by learning to generate synthetic training data**, ICML 2020.  
 *Jianyang Gu, Kai Wang, Wei Jiang, Yang You*  
 ![](https://img.shields.io/badge/GTN-blue) ![](https://img.shields.io/badge/Image_Classification-green) ![](https://img.shields.io/badge/Neural_Architecture_Search-red) ![](https://img.shields.io/badge/Dataset_Distillation-orange)
-<a href="http://proceedings.mlr.press/v119/such20a/such20a.pdf"><img src="https://img.shields.io/badge/AAAI-Paper-%23D2691E" alt="Paper Badge"></a>
+<a href="http://proceedings.mlr.press/v119/such20a/such20a.pdf"><img src="https://img.shields.io/badge/ICML-Paper-%23D2691E" alt="Paper Badge"></a>
 <a href="https://github.com/uber-research/GTN"><img src="https://img.shields.io/badge/GitHub-Code-brightgreen?logo=github" alt="Code Badge"></a>
     <details> <summary>BibTex</summary>
 
