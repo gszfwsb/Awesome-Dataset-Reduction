@@ -4,15 +4,15 @@
 - **[1] Accelerating deep learning with dynamic data pruning**, arXiv 2021.  
 *Ravi S Raju, Kyle Daruwalla, Mikko Lipasti*  
 ![](https://img.shields.io/badge/ε—greedy&UCB-blue) ![](https://img.shields.io/badge/Image_Classification-green) ![](https://img.shields.io/badge/Uncertainty-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
-<a href="https://arxiv.org/pdf/2111.12621"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E" alt="Paper Badge"></a>
+<a href="https://arxiv.org/pdf/2111.12621"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arXiv" alt="Paper Badge"></a>
     <details> <summary>BibTex</summary>
 
     ```bibtex
     @article{raju2021accelerating,
-        title={Accelerating deep learning with dynamic data pruning},
-        author={Raju, Ravi S and Daruwalla, Kyle and Lipasti, Mikko},
-        journal={arXiv preprint arXiv:2111.12621},
-        year={2021}
+    title={Accelerating deep learning with dynamic data pruning},
+    author={Raju, Ravi S and Daruwalla, Kyle and Lipasti, Mikko},
+    journal={arXiv preprint arXiv:2111.12621},
+    year={2021}
     }
     ```
 
@@ -28,10 +28,10 @@
 
     ```bibtex
     @inproceedings{qin2024infobatch,
-        title={InfoBatch: Lossless Training Speed Up by Unbiased Dynamic Data Pruning},
-        author={Qin, Ziheng and Wang, Kai and Zheng, Zangwei and Gu, Jianyang and Peng, Xiangyu and Zhou, Daquan and Shang, Lei and Sun, Baigui and Xie, Xuansong and You, Yang and others},
-        booktitle={The Twelfth International Conference on Learning Representations}, 
-        year={2024}
+    title={InfoBatch: Lossless Training Speed Up by Unbiased Dynamic Data Pruning},
+    author={Qin, Ziheng and Wang, Kai and Zheng, Zangwei and Gu, Jianyang and Peng, Xiangyu and Zhou, Daquan and Shang, Lei and Sun, Baigui and Xie, Xuansong and You, Yang and others},
+    booktitle={The Twelfth International Conference on Learning Representations}, 
+    year={2024}
     }
     ```
 
@@ -40,15 +40,15 @@
 - **[3] TED: Accelerate Model Training by Internal Generalization**, arXiv 2024.  
 *Jinying Xiao, Ping Li, Jie Nie*  
 ![](https://img.shields.io/badge/TED-blue) ![](https://img.shields.io/badge/Image_Classification-green) ![](https://img.shields.io/badge/Loss-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
-<a href="https://arxiv.org/pdf/2405.03228"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E" alt="Paper Badge"></a>
+<a href="https://arxiv.org/pdf/2405.03228"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arXiv" alt="Paper Badge"></a>
     <details> <summary>BibTex</summary>
 
     ```bibtex
     @article{xiao2024ted,
-        title={TED: Accelerate Model Training by Internal Generalization},
-        author={Xiao, Jinying and Li, Ping and Nie, Jie},
-        journal={arXiv preprint arXiv:2405.03228},
-        year={2024}
+    title={TED: Accelerate Model Training by Internal Generalization},
+    author={Xiao, Jinying and Li, Ping and Nie, Jie},
+    journal={arXiv preprint arXiv:2405.03228},
+    year={2024}
     }
     ```
 
@@ -63,10 +63,10 @@
 
     ```bibtex
     @inproceedings{qin2024dataset,
-        title={Dataset Growth}, 
-        author={Ziheng Qin and Zhaopan Xu and Yukun Zhou and Zangwei Zheng and Zebang Cheng and Hao Tang and Lei Shang and Baigui Sun and Xiaojiang Peng and Radu Timofte and Hongxun Yao and Kai Wang and Yang You},
-        booktitle={ECCV},
-        year={2024}
+    title={Dataset Growth}, 
+    author={Ziheng Qin and Zhaopan Xu and Yukun Zhou and Zangwei Zheng and Zebang Cheng and Hao Tang and Lei Shang and Baigui Sun and Xiaojiang Peng and Radu Timofte and Hongxun Yao and Kai Wang and Yang You},
+    booktitle={ECCV},
+    year={2024}
     }
     ```
 
@@ -75,16 +75,16 @@
 - **[5] EMP: Enhance Memory in Data Pruning**, arXiv 2024.  
 *Jinying Xiao, Ping Li, Jie Nie, Zhe Tang*  
 ![](https://img.shields.io/badge/EMP-blue) ![](https://img.shields.io/badge/Image_Classification&Contrastive_Learning-green) ![](https://img.shields.io/badge/Loss+Entropy-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
-<a href="https://arxiv.org/pdf/2408.16031"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E" alt="Paper Badge"></a>
+<a href="https://arxiv.org/pdf/2408.16031"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arXiv" alt="Paper Badge"></a>
 <a href="https://github.com/xiaojinying/EMP"><img src="https://img.shields.io/badge/GitHub-Code-brightgreen?logo=github" alt="Code Badge"></a>
     <details> <summary>BibTex</summary>
 
     ```bibtex
     @article{xiao2024emp,
-        title={EMP: Enhance Memory in Data Pruning},
-        author={Xiao, Jinying and Li, Ping and Nie, Jie and Tang, Zhe},
-        journal={arXiv preprint arXiv:2408.16031},
-        year={2024}
+    title={EMP: Enhance Memory in Data Pruning},
+    author={Xiao, Jinying and Li, Ping and Nie, Jie and Tang, Zhe},
+    journal={arXiv preprint arXiv:2408.16031},
+    year={2024}
     }
     ```
 
@@ -98,10 +98,10 @@
 
     ```bibtex
     @inproceedings{xiao2024dynamic,
-        title={Dynamic Data Pruning for Automatic Speech Recognition},
-        author={Xiao, Qiao and Ma, Pingchuan and Fernandez-Lopez, Adriana and Wu, Boqian and Yin, Lu and Petridis, Stavros and Pechenizkiy, Mykola and Pantic, Maja and Mocanu, Decebal C and Liu, Shiwei},
-        booktitle={The 25th Interspeech Conference},
-        year={2024}
+    title={Dynamic Data Pruning for Automatic Speech Recognition},
+    author={Xiao, Qiao and Ma, Pingchuan and Fernandez-Lopez, Adriana and Wu, Boqian and Yin, Lu and Petridis, Stavros and Pechenizkiy, Mykola and Pantic, Maja and Mocanu, Decebal C and Liu, Shiwei},
+    booktitle={The 25th Interspeech Conference},
+    year={2024}
     }
     ```
 
@@ -115,10 +115,10 @@
 
     ```bibtex
     @inproceedings{lin2024accelerating,
-        title={Accelerating Augmentation Invariance Pretraining},
-        author={Lin, Jinhong and Wu, Cheng-En and Wei, Yibing and Morgado, Pedro},
-        booktitle={The Thirty-eighth Annual Conference on Neural Information Processing Systems}, 
-        year={2024}
+    title={Accelerating Augmentation Invariance Pretraining},
+    author={Lin, Jinhong and Wu, Cheng-En and Wei, Yibing and Morgado, Pedro},
+    booktitle={The Thirty-eighth Annual Conference on Neural Information Processing Systems}, 
+    year={2024}
     }
     ```
 
@@ -133,10 +133,10 @@
 
     ```bibtex
     @inproceedings{zhang2024heprune,
-        title={HEPrune: Fast Private Training of Deep Neural Networks With Encrypted Data Pruning},
-        author={Zhang, Yancheng and Zheng, Mengxin and Shang, Yuzhang and Chen, Xun and Lou, Qian},
-        booktitle={The Thirty-eighth Annual Conference on Neural Information Processing Systems}, 
-        year={2024}
+    title={HEPrune: Fast Private Training of Deep Neural Networks With Encrypted Data Pruning},
+    author={Zhang, Yancheng and Zheng, Mengxin and Shang, Yuzhang and Chen, Xun and Lou, Qian},
+    booktitle={The Thirty-eighth Annual Conference on Neural Information Processing Systems}, 
+    year={2024}
     }
     ```
 
@@ -151,10 +151,10 @@
 
     ```bibtex
     @inproceedings{zhang2024gder,
-        title={GDeR: Safeguarding Efficiency, Balancing, and Robustness via Prototypical Graph Pruning},
-        author={Zhang, Guibin and Dong, Haonan and Zhang, Yuchen and Li, Zhixun and Chen, Dingshuo and Wang, Kai and Chen, Tianlong and Liang, Yuxuan and Cheng, Dawei and Wang, Kun},
-        booktitle={The Thirty-eighth Annual Conference on Neural Information Processing Systems}, 
-        year={2024}
+    title={GDeR: Safeguarding Efficiency, Balancing, and Robustness via Prototypical Graph Pruning},
+    author={Zhang, Guibin and Dong, Haonan and Zhang, Yuchen and Li, Zhixun and Chen, Dingshuo and Wang, Kai and Chen, Tianlong and Liang, Yuxuan and Cheng, Dawei and Wang, Kun},
+    booktitle={The Thirty-eighth Annual Conference on Neural Information Processing Systems}, 
+    year={2024}
     }
     ```
 
@@ -168,10 +168,10 @@
 
     ```bibtex
     @inproceedings{chen2024beyond,
-        title={Beyond Efficiency: Molecular Data Pruning for Enhanced Generalization},
-        author={Chen, Dingshuo and Li, Zhixun and Ni, Yuyan and Zhang, Guibin and Wang, Ding and Liu, Qiang and Wu, Shu and Yu, Jeffrey Xu and Wang, Liang},
-        booktitle={The Thirty-eighth Annual Conference on Neural Information Processing Systems}, 
-        year={2024}
+    title={Beyond Efficiency: Molecular Data Pruning for Enhanced Generalization},
+    author={Chen, Dingshuo and Li, Zhixun and Ni, Yuyan and Zhang, Guibin and Wang, Ding and Liu, Qiang and Wu, Shu and Yu, Jeffrey Xu and Wang, Liang},
+    booktitle={The Thirty-eighth Annual Conference on Neural Information Processing Systems}, 
+    year={2024}
     }
     ```
 
@@ -185,10 +185,10 @@
 
     ```bibtex
     @article{huang2024efficient,
-        title={Efficient Training Acceleration via Sample-wise Dynamic Probabilistic Pruning},
-        author={Huang, Feicheng and Zhou, Wenbo and Huang, Yue and Ding, Xinghao},
-        journal={IEEE Signal Processing Letters},
-        year={2024}
+    title={Efficient Training Acceleration via Sample-wise Dynamic Probabilistic Pruning},
+    author={Huang, Feicheng and Zhou, Wenbo and Huang, Yue and Ding, Xinghao},
+    journal={IEEE Signal Processing Letters},
+    year={2024}
     }
     ```
 
@@ -197,16 +197,16 @@
 - **[12] SCAN: Bootstrapping Contrastive Pre-training for Data Efficiency**, arXiv 2024.  
 *Yangyang Guo, Mohan Kankanhalli*  
 ![](https://img.shields.io/badge/SCAN-blue) ![](https://img.shields.io/badge/Contrastive_Learning-green) ![](https://img.shields.io/badge/Loss-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
-<a href="https://arxiv.org/pdf/2411.09126"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E" alt="Paper Badge"></a>
+<a href="https://arxiv.org/pdf/2411.09126"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arXiv" alt="Paper Badge"></a>
 <a href="https://github.com/guoyang9/SCAN"><img src="https://img.shields.io/badge/GitHub-Code-brightgreen?logo=github" alt="Code Badge"></a>
     <details> <summary>BibTex</summary>
 
     ```bibtex
     @article{guo2024scan,
-        title={SCAN: Bootstrapping Contrastive Pre-training for Data Efficiency},
-        author={Guo, Yangyang and Kankanhalli, Mohan},
-        journal={arXiv preprint arXiv:2411.09126},
-        year={2024}
+    title={SCAN: Bootstrapping Contrastive Pre-training for Data Efficiency},
+    author={Guo, Yangyang and Kankanhalli, Mohan},
+    journal={arXiv preprint arXiv:2411.09126},
+    year={2024}
     }
     ```
 
@@ -215,15 +215,15 @@
 - **[13] Language Model-Driven Data Pruning Enables Efficient Active Learning**, arXiv 2024.  
 *Abdul Hameed Azeemi, Ihsan Ayyub Qazi, Agha Ali Raza*  
 ![](https://img.shields.io/badge/ActivePrune-blue) ![](https://img.shields.io/badge/Text_Analytics-green) ![](https://img.shields.io/badge/Perplexity-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
-<a href="https://arxiv.org/pdf/2410.04275"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E" alt="Paper Badge"></a>
+<a href="https://arxiv.org/pdf/2410.04275"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arXiv" alt="Paper Badge"></a>
     <details> <summary>BibTex</summary>
 
     ```bibtex
     @article{azeemi2024language,
-        title={Language Model-Driven Data Pruning Enables Efficient Active Learning},
-        author={Azeemi, Abdul Hameed and Qazi, Ihsan Ayyub and Raza, Agha Ali},
-        journal={arXiv preprint arXiv:2410.04275},
-        year={2024}
+    title={Language Model-Driven Data Pruning Enables Efficient Active Learning},
+    author={Azeemi, Abdul Hameed and Qazi, Ihsan Ayyub and Raza, Agha Ali},
+    journal={arXiv preprint arXiv:2410.04275},
+    year={2024}
     }
     ```
 
