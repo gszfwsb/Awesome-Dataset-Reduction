@@ -32,14 +32,13 @@ alt="Paper Badge"></a>
 
     <details> <summary>BibTex</summary>
     ```bibtex
-    @inproceedings{
-    li2024diversified,
-    title={Diversified Semantic Distribution Matching for Dataset Distillation},
-    author={Hongcheng Li and Yucan Zhou and Xiaoyan Gu and Bo Li and Weiping Wang},
-    booktitle={ACM Multimedia 2024},
-    year={2024},
-    url={https://openreview.net/forum?id=vtpwJob0L1}
-    }
+    @inproceedings{li2024diversified,
+        title={Diversified Semantic Distribution Matching for Dataset Distillation},
+        author={Hongcheng Li and Yucan Zhou and Xiaoyan Gu and Bo Li and Weiping Wang},
+        booktitle={ACM Multimedia 2024},
+        year={2024},
+        url={https://openreview.net/forum?id=vtpwJob0L1}
+        }
     ```
 
     </details>
@@ -164,12 +163,13 @@ alt="Paper Badge"></a>
     <details> <summary>BibTex</summary>
 
     ```bibtex
-    @article{yin2024squeeze,
-    title={Squeeze, recover and relabel: Dataset condensation at imagenet scale from a new perspective},
-    author={Yin, Zeyuan and Xing, Eric and Shen, Zhiqiang},
-    journal={Advances in Neural Information Processing Systems},
-    volume={36},
-    year={2024}
+    @inproceedings{
+    anonymous2024information,
+    title={Information Compensation: A Fix for Any-scale Dataset Distillation},
+    author={Anonymous},
+    booktitle={ICLR 2024 Workshop on Data-centric Machine Learning Research (DMLR): Harnessing Momentum for Science},
+    year={2024},
+    url={https://openreview.net/forum?id=2SnmKd1JK4}
     }
     ```
 
