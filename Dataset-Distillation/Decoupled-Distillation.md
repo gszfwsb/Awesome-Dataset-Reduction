@@ -24,14 +24,14 @@ alt="Paper Badge"></a>
     </details>
 
 - **[2]Diversified Semantic Distribution Matching for Dataset Distillation**
-*Hongcheng Li and Yucan Zhou and Xiaoyan Gu and Bo Li and Weiping Wang*  
+*Li, Hongcheng and Zhou, Yucan and Gu, Xiaoyan and Li, Bo and Wang, Weiping*  
 ![](https://img.shields.io/badge/DSDM-blue) ![](https://img.shields.io/badge/Image_Classification-green) ![](https://img.shields.io/badge/Decoupled_Distillation-red) ![](https://img.shields.io/badge/Dataset_Distillation-orange)
 <a href="https://openreview.net/forum?id=vtpwJob0L1"><img src="https://img.shields.io/badge/ACM_MM-Paper-%23D2691E" alt="Paper Badge"></a>
 <a href="https://github.com/LINs-lab/RDED"><img src="https://img.shields.io/badge/GitHub-Code-brightgreen?logo=github" alt="Code Badge"></a>
 
 
     <details> <summary>BibTex</summary>
-    
+
     ```bibtex
     @inproceedings{li2024diversified,
     title={Diversified Semantic Distribution Matching for Dataset Distillation},
