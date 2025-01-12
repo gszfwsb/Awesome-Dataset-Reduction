@@ -115,7 +115,7 @@
     </details>
 
 - **[7] Slimmable dataset condensation**, CVPR 2023.  
-*Songhua Liu, Jingwen Ye, Runpeng Yu, Xinchao Wang*
+*Songhua Liu, Jingwen Ye, Runpeng Yu, Xinchao Wang*  
 ![](https://img.shields.io/badge/SDC-blue) ![](https://img.shields.io/badge/Image_Classification-green) ![](https://img.shields.io/badge/Reparameterization_Distillation-red) ![](https://img.shields.io/badge/Dataset_Distillation-orange)
 <a href="https://arxiv.org/pdf/2208.10494"><img src="https://img.shields.io/badge/CVPR-Paper-%23D2691E" alt="Paper Badge"></a>
     <details> <summary>BibTex</summary>
