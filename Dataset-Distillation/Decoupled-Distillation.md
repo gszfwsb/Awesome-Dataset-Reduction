@@ -155,7 +155,7 @@ alt="Paper Badge"></a>
     </details>
 
 - **[7]Information Compensation: A Fix for Any-scale Dataset Distillation**
-*Anonymous*  
+*Peng Sun Bei Shi Xinyi Shang Tao Lin*  
 ![](https://img.shields.io/badge/LIC-blue) ![](https://img.shields.io/badge/Image_Classification-green) ![](https://img.shields.io/badge/Decoupled_Distillation-red) ![](https://img.shields.io/badge/Dataset_Distillation-orange)
 <a href="https://openreview.net/forum?id=2SnmKd1JK4"><img src="https://img.shields.io/badge/ICLRW-Paper-%23D2691E" 
 alt="Paper Badge"></a>
