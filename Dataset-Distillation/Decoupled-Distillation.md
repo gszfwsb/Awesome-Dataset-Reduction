@@ -31,14 +31,16 @@ alt="Paper Badge"></a>
 
 
     <details> <summary>BibTex</summary>
+    
     ```bibtex
     @inproceedings{li2024diversified,
-        title={Diversified Semantic Distribution Matching for Dataset Distillation},
-        author={Hongcheng Li and Yucan Zhou and Xiaoyan Gu and Bo Li and Weiping Wang},
-        booktitle={ACM Multimedia 2024},
-        year={2024},
-        url={https://openreview.net/forum?id=vtpwJob0L1}
-        }
+    title={Diversified Semantic Distribution Matching for Dataset Distillation},
+    author={Li, Hongcheng and Zhou, Yucan and Gu, Xiaoyan and Li, Bo and Wang, Weiping},
+    booktitle={Proceedings of the 32nd ACM International Conference on Multimedia},
+    pages={7542--7550},
+    year={2024}
+    }
+
     ```
 
     </details>
