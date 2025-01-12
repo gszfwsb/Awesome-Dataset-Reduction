@@ -57,10 +57,10 @@
     </details> 
 
 #### 2023
-- **[4] Robust data pruning under label noise via maximizing re-labeling accuracy**, NeurlPS 2023.  
+- **[4] Robust data pruning under label noise via maximizing re-labeling accuracy**, NeurIPS 2023.  
 *Dongmin Park, Seola Choi, Doyoung Kim, Hwanjun Song, Jae-Gil Lee*  
 ![](https://img.shields.io/badge/Pr4ReL-blue) ![](https://img.shields.io/badge/Image_Classification-green)  ![](https://img.shields.io/badge/Uncertainty-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
-<a href="https://proceedings.neurips.cc/paper_files/paper/2023/file/ebb6bee50913ba7e1efeb91a1d47a002-Paper-Conference.pdf"><img src="https://img.shields.io/badge/NeurlPS-Paper-%23D2691E" alt="Paper Badge"></a>
+<a href="https://proceedings.neurips.cc/paper_files/paper/2023/file/ebb6bee50913ba7e1efeb91a1d47a002-Paper-Conference.pdf"><img src="https://img.shields.io/badge/NeurIPS-Paper-%23D2691E" alt="Paper Badge"></a>
 <a href="https://github.com/kaist-dmlab/Prune4Rel."><img src="https://img.shields.io/badge/GitHub-Code-brightgreen?logo=github" alt="Code Badge"></a>
     <details> <summary>BibTex</summary>
 
