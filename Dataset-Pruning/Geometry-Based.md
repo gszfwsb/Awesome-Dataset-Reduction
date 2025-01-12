@@ -194,10 +194,10 @@ class-incremental-learning"><img src="https://img.shields.io/badge/GitHub-Code-b
 
     </details> 
 
-- **[11]  Selectivity drives productivity: efficient dataset pruning for enhanced transfer learning**, NeurlPS 2023.  
+- **[11]  Selectivity drives productivity: efficient dataset pruning for enhanced transfer learning**, NeurIPS 2023.  
 *Yihua Zhang, Yimeng Zhang, Aochuan Chen, Jinghan Jia, Jiancheng Liu, Gaowen Liu, Mingyi Hong, Shiyu Chang, Sijia Liu*  
 ![](https://img.shields.io/badge/DP4TL-blue) ![](https://img.shields.io/badge/Transfer_Learning-green)  ![](https://img.shields.io/badge/Geometry-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
-<a href="https://proceedings.neurips.cc/paper_files/paper/2023/file/749252feedd44f7f10d47ec1d674a2f8-Paper-Conference.pdf"><img src="https://img.shields.io/badge/NeurlPS-Paper-%23D2691E" alt="Paper Badge"></a>
+<a href="https://proceedings.neurips.cc/paper_files/paper/2023/file/749252feedd44f7f10d47ec1d674a2f8-Paper-Conference.pdf"><img src="https://img.shields.io/badge/NeurIPS-Paper-%23D2691E" alt="Paper Badge"></a>
 <a href="https://github.com/OPTML-Group/DP4TL"><img src="https://img.shields.io/badge/GitHub-Code-brightgreen?logo=github" alt="Code Badge"></a>
     <details> <summary>BibTex</summary>
 

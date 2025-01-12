@@ -39,10 +39,10 @@
 
     </details> 
 
-- **[3] On coresets for logistic regression**, NeurlPS 2018.  
+- **[3] On coresets for logistic regression**, NeurIPS 2018.  
 *Alexander Munteanu, Chris Schwiegelshohn, Christian Sohler, David Woodruff*  
 ![](https://img.shields.io/badge/QR-blue) ![](https://img.shields.io/badge/Image_Classification-green)  ![](https://img.shields.io/badge/Loss-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
-<a href="https://proceedings.neurips.cc/paper_files/paper/2018/file/63bfd6e8f26d1d3537f4c5038264ef36-Paper.pdf"><img src="https://img.shields.io/badge/NeurlPS-Paper-%23D2691E" alt="Paper Badge"></a>
+<a href="https://proceedings.neurips.cc/paper_files/paper/2018/file/63bfd6e8f26d1d3537f4c5038264ef36-Paper.pdf"><img src="https://img.shields.io/badge/NeurIPS-Paper-%23D2691E" alt="Paper Badge"></a>
     <details> <summary>BibTex</summary>
 
     ```bibtex
@@ -77,10 +77,10 @@
     </details> 
 
 #### 2021
-- **[5] Deep learning on a data diet: Finding important examples early in training**, NeurlPS 2021.  
+- **[5] Deep learning on a data diet: Finding important examples early in training**, NeurIPS 2021.  
 *Mansheej Paul, Surya Ganguli, Gintare Karolina Dziugaite*  
 ![](https://img.shields.io/badge/GraNd_EL2N-blue) ![](https://img.shields.io/badge/Image_Classification-green)  ![](https://img.shields.io/badge/Loss-red) ![](https://img.shields.io/badge/Dataset_Pruning-orange)
-<a href="https://proceedings.neurips.cc/paper_files/paper/2021/file/ac56f8fe9eea3e4a365f29f0f1957c55-Paper.pdf"><img src="https://img.shields.io/badge/NeurlPS-Paper-%23D2691E" alt="Paper Badge"></a>
+<a href="https://proceedings.neurips.cc/paper_files/paper/2021/file/ac56f8fe9eea3e4a365f29f0f1957c55-Paper.pdf"><img src="https://img.shields.io/badge/NeurIPS-Paper-%23D2691E" alt="Paper Badge"></a>
     <details> <summary>BibTex</summary>
 
     ```bibtex
