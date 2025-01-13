@@ -23,7 +23,7 @@ alt="Paper Badge"></a>
 
     </details>
 
-- **[2]Generalized large-scale data condensation via various backbone and statistical matching**,CVPR2023
+- **[2]Generalized large-scale data condensation via various backbone and statistical matching**,CVPR2023.   
 *Shao, Shitong and Yin, Zeyuan and Zhou, Muxin and Zhang, Xindong and Shen, Zhiqiang*  
 ![](https://img.shields.io/badge/GVBSM-blue) ![](https://img.shields.io/badge/Image_Classification-green) ![](https://img.shields.io/badge/Decoupled_Distillation-red) ![](https://img.shields.io/badge/Dataset_Distillation-orange)
 <a href="https://openaccess.thecvf.com/content/CVPR2024/html/Shao_Generalized_Large-Scale_Data_Condensation_via_Various_Backbone_and_Statistical_Matching_CVPR_2024_paper.html"><img src="https://img.shields.io/badge/CVPR-Paper-%23D2691E"  alt="Paper Badge"></a>
@@ -44,7 +44,7 @@ alt="Paper Badge"></a>
 
     </details>
     
-- **[3]On the Diversity and Realism of Distilled Dataset:  An Efficient Dataset Distillation Paradigm**
+- **[3]On the Diversity and Realism of Distilled Dataset:  An Efficient Dataset Distillation Paradigm**,CVPR2023 
 *Yin, Zeyuan and Xing, Eric and Shen, Zhiqiang*  
 ![](https://img.shields.io/badge/RDED-blue) ![](https://img.shields.io/badge/Image_Classification-green) ![](https://img.shields.io/badge/Decoupled_Distillation-red) ![](https://img.shields.io/badge/Dataset_Distillation-orange)
 <a href="https://openaccess.thecvf.com/content/CVPR2024/html/Sun_On_the_Diversity_and_Realism_of_Distilled_Dataset_An_Efficient_CVPR_2024_paper.html"><img src="https://img.shields.io/badge/CVPR-Paper-%23D2691E"  alt="Paper Badge"></a>
@@ -71,7 +71,7 @@ alt="Paper Badge"></a>
 
 
 #### 2024
-- **[1]Curriculum Dataset Distillation**,arXiv 2024
+- **[1]Curriculum Dataset Distillation**,arXiv 2024.   
 *Ma, Zhiheng and Cao, Anjia and Yang, Funing and Wei, Xing*  
 ![](https://img.shields.io/badge/CUDD-blue) ![](https://img.shields.io/badge/Image_Classification-green) ![](https://img.shields.io/badge/Decoupled_Distillation-red) ![](https://img.shields.io/badge/Dataset_Distillation-orange)
 <a href="https://arxiv.org/abs/2405.09150"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arXiv"  alt="Paper Badge"></a>
@@ -91,7 +91,7 @@ alt="Paper Badge"></a>
 
     </details>
 
-- **[2]DELT: A Simple Diversity-driven EarlyLate Training for Dataset Distillation**
+- **[2]DELT: A Simple Diversity-driven EarlyLate Training for Dataset Distillation**,arXiv 2024.   
 *Shen, Zhiqiang and Sherif, Ammar and Yin, Zeyuan and Shao, Shitong*  
 ![](https://img.shields.io/badge/DELT-blue) ![](https://img.shields.io/badge/Image_Classification-green) ![](https://img.shields.io/badge/Decoupled_Distillation-red) ![](https://img.shields.io/badge/Dataset_Distillation-orange)
 <a href="https://arxiv.org/abs/2411.19946"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arXiv"  alt="Paper Badge"></a>
@@ -111,7 +111,7 @@ alt="Paper Badge"></a>
 
     </details>
 
-- **[3]Diversity-Driven Synthesis: Enhancing Dataset Distillation through Directed Weight Adjustment**
+- **[3]Diversity-Driven Synthesis: Enhancing Dataset Distillation through Directed Weight Adjustment**,arXiv 2024. 
 *Du, Jiawei and Zhang, Xin and Hu, Juncheng and Huang, Wenxin and Zhou, Joey Tianyi*  
 ![](https://img.shields.io/badge/DWA-blue) ![](https://img.shields.io/badge/Image_Classification-green) ![](https://img.shields.io/badge/Decoupled_Distillation-red) ![](https://img.shields.io/badge/Dataset_Distillation-orange)
 <a href="https://arxiv.org/abs/2409.17612"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arXiv"  alt="Paper Badge"></a>
@@ -137,7 +137,7 @@ alt="Paper Badge"></a>
 
 
 - **[6]Elucidating the Design Space of Dataset Condensation**
-*Yin, Zeyuan and Xing, Eric and Shen, Zhiqiang*  
+*Yin, Zeyuan and Xing, Eric and Shen, Zhiqiang*,NeurIPS 2024.    
 ![](https://img.shields.io/badge/EDC-blue) ![](https://img.shields.io/badge/Image_Classification-green) ![](https://img.shields.io/badge/Decoupled_Distillation-red) ![](https://img.shields.io/badge/Dataset_Distillation-orange)
 <a href="https://nips.cc/virtual/2024/poster/94518"><img src="https://img.shields.io/badge/NeurIPS-Paper-%23D2691E" 
 alt="Paper Badge"></a>
@@ -158,7 +158,7 @@ alt="Paper Badge"></a>
 
     </details>
 
-- **[4]Information Compensation: A Fix for Any-scale Dataset Distillation**
+- **[4]Information Compensation: A Fix for Any-scale Dataset Distillation**,ICLRW 2024.  
 *Peng Sun Bei Shi Xinyi Shang Tao Lin*  
 ![](https://img.shields.io/badge/LIC-blue) ![](https://img.shields.io/badge/Image_Classification-green) ![](https://img.shields.io/badge/Decoupled_Distillation-red) ![](https://img.shields.io/badge/Dataset_Distillation-orange)
 <a href="https://openreview.net/forum?id=2SnmKd1JK4"><img src="https://img.shields.io/badge/ICLRW-Paper-%23D2691E" 
@@ -184,7 +184,7 @@ alt="Paper Badge"></a>
 
 
 
-- **[5]Diversified Semantic Distribution Matching for Dataset Distillation**
+- **[5]Diversified Semantic Distribution Matching for Dataset Distillation**,ACM MM 2024.    
 *Li, Hongcheng and Zhou, Yucan and Gu, Xiaoyan and Li, Bo and Wang, Weiping*  
 ![](https://img.shields.io/badge/DSDM-blue) ![](https://img.shields.io/badge/Image_Classification-green) ![](https://img.shields.io/badge/Decoupled_Distillation-red) ![](https://img.shields.io/badge/Dataset_Distillation-orange)
 <a href="https://openreview.net/forum?id=vtpwJob0L1"><img src="https://img.shields.io/badge/ACM_MM-Paper-%23D2691E" alt="Paper Badge"></a>
