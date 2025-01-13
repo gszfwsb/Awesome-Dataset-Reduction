@@ -1,8 +1,8 @@
 ### 🖼️ Decoupled Distillation  Methods
 
 #### 2023
-- **[1]Squeeze, recover and relabel: Dataset condensation at imagenet scale from a new perspective**
-*Yin, Zeyuan and Xing, Eric and Shen, Zhiqiang*  
+- **[1]Squeeze, recover and relabel: Dataset condensation at imagenet scale from a new perspective**,NeurIPS 2023.  
+*Yin, Zeyuan and Xing, Eric and Shen, Zhiqiang*   
 ![](https://img.shields.io/badge/SRe2L-blue) ![](https://img.shields.io/badge/Image_Classification-green) ![](https://img.shields.io/badge/Decoupled_Distillation-red) ![](https://img.shields.io/badge/Dataset_Distillation-orange)
 <a href="https://openreview.net/pdf?id=5Fgdk3hZpb"><img src="https://img.shields.io/badge/NeurIPS-Paper-%23D2691E" 
 alt="Paper Badge"></a>
@@ -23,7 +23,7 @@ alt="Paper Badge"></a>
 
     </details>
 
-- **[2]Generalized large-scale data condensation via various backbone and statistical matching**
+- **[2]Generalized large-scale data condensation via various backbone and statistical matching**,CVPR2023
 *Shao, Shitong and Yin, Zeyuan and Zhou, Muxin and Zhang, Xindong and Shen, Zhiqiang*  
 ![](https://img.shields.io/badge/GVBSM-blue) ![](https://img.shields.io/badge/Image_Classification-green) ![](https://img.shields.io/badge/Decoupled_Distillation-red) ![](https://img.shields.io/badge/Dataset_Distillation-orange)
 <a href="https://openaccess.thecvf.com/content/CVPR2024/html/Shao_Generalized_Large-Scale_Data_Condensation_via_Various_Backbone_and_Statistical_Matching_CVPR_2024_paper.html"><img src="https://img.shields.io/badge/CVPR-Paper-%23D2691E"  alt="Paper Badge"></a>
@@ -71,7 +71,7 @@ alt="Paper Badge"></a>
 
 
 #### 2024
-- **[1]Curriculum Dataset Distillation**
+- **[1]Curriculum Dataset Distillation**,arXiv 2024
 *Ma, Zhiheng and Cao, Anjia and Yang, Funing and Wei, Xing*  
 ![](https://img.shields.io/badge/CUDD-blue) ![](https://img.shields.io/badge/Image_Classification-green) ![](https://img.shields.io/badge/Decoupled_Distillation-red) ![](https://img.shields.io/badge/Dataset_Distillation-orange)
 <a href="https://arxiv.org/abs/2405.09150"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arXiv"  alt="Paper Badge"></a>
