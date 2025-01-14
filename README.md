@@ -18,7 +18,6 @@ A curated list of awesome papers on dataset reduction, including dataset distill
 
 ## 🎉 About
 - This is a platform to get the **latest research** on different kinds of Dataset Reduction methods, including **dataset distillation** and **dataset reduction**. Also, we will release a **survey** based on these wonderful works.
-- If you want to **cite our work**, here is our bibtex entry: [CITATION.bib](./CITATION.bib).
 - If you want to contribute to this repo, please directly contact us!
 
 ## 🔥 News
